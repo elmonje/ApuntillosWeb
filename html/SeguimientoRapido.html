@@ -1,0 +1,63 @@
+<html>
+<style>
+div {
+    display: grid;
+
+    justify-content: center;
+    align-items: center;
+    max-height: 200px;
+    min-height: 200px;
+    min-width: 100%;
+    max-width: 100%;
+}
+
+div p {
+    color: white;
+    text-align: center;
+}
+</style>
+<script language="javascript">
+function abrir2paginas()
+{
+  window.open('https://sede.inap.gob.es/gsil-oep-2020-2021-2022', '_blank');
+  window.open('https://www.asambleamadrid.es/servicios/empleo#activos', '_blank');
+}
+
+function abrirPaginas()
+{  
+	var lines = document.getElementById('taUrls').value.split('\n');
+	//alert(document.getElementById('taUrls').value);  
+	for(var i = 0;i < lines.length-1;i++)
+    {
+    window.open(lines[i], '_blank');
+	}  
+}
+</script>
+<div>
+<table border=1>
+<tr>
+	<td>
+		<a href="javascript:abrirPaginas()">Abrir Paginas</a>
+	</td>
+</tr>
+<tr>
+	<td>
+<textarea id="taUrls" rows="10" cols="80">
+https://sede.inap.gob.es/gsil-oep-2020-2021-2022
+https://www.asambleamadrid.es/servicios/empleo#activos
+https://www.upm.es/Personal/PAS/PASFuncionario/ConcursosyOposiciones/AccesoLibre/SubgrupoA2?id=CON03238&fmt=detail 
+https://mostoles.convoca.online/processDetail.html?id=6fdd0674-8ef4-40a2-081a-08dbd45af903&type=0  
+https://sede.comunidad.madrid/oferta-empleo/perfiles-tic-madrid-digital 
+https://www.comunidad.madrid/servicios/empleo/procesos-selectivos-agencia-administracion-digital
+https://www.idae.es/conozcanos/recursos-humanos/convocatorias/cobertura-de-22-plazas-de-distintos-perfiles
+</textarea>
+	</td>
+</tr>
+</table>
+</div>
+<!--
+https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros
+https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros#empleoindefinido
+-->
+<p>&nbsp;</p>
+</html>

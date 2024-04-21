@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Crear menú de navegación desde texto</title>
+<style>
+    table {
+        margin: 20px auto;
+    }
+    td {
+        padding: 5px;
+        text-align: center;
+    }
+    button {
+        font-size: 16px;
+    }
+    #breadcrumbContainer {
+        margin-bottom: 10px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #breadcrumbContainer button,
+    #breadcrumbContainer span {
+        margin: 0 5px;
+    }
+    #iframeContainer {
+        margin-top: 20px;
+        width: 100%;
+		height: 2000px;
+    }
+    iframe {
+        width: 100%;
+        height: 2000px;
+        border: none;
+    }
+</style>
+</head>
+<body onload="crearMenu()">
+
+<div id="breadcrumbContainer">
+    <button id="backButton" style="display: none;" onclick="goBack()">Back</button>
+    <div id="breadcrumb"></div>
+</div>
+
+<textarea id="inputText" rows="5" cols="50" style="display: none;">1;0;Home;
+2;1;Seguimiento;
+3;2;Notas Seguimiento;html/Seguimiento.html
+4;2;Seguimiento Rapido;html/SeguimientoRapido.html
+5;1;Buscar Opos;html/Buscadores.html
+8;1;Temarios;
+9;8;Temario Administración del Estado;
+10;9;Temario comprado;
+11;8;Temario unificado Perfiles TIC Madrid Digital;
+12;11;Perfiles TIC Madrid Digital;
+13;8;Temario UPM;
+14;13;Salen en los test;
+15;13;Aclaracion;
+16;13;Bloque I. Legislación, Derecho Administrativo y Gestión Universitaria;
+17;14;Bloque II. Tecnología básica.;
+18;15;Bloque III.a. Desarrollo de aplicaciones.;
+19;16;Bloque III.b. Infraestructura;
+20;8;Temario Mostoles;
+21;20;Parte General;
+22;20;Parte Especifica;
+23;8;Asamblea de Madrid;
+24;23;Grupo I;
+25;23;Grupo II;
+26;23;Examen 1;
+27;8;Red.es;
+28;27;Temario;</textarea>
+<br>
+<button id="crearMenuBtn" style="display: none;" onclick="crearMenu()">Crear Menú</button>
+
+<table id="container"></table>
+
+<div id="iframeContainer">
+    <iframe id="contentFrame" scrolling="auto"></iframe>
+</div>
+
+<script>
+var breadcrumbs = [];
+var menuItems;
+
+function crearMenu() {
+    var textarea = document.getElementById("inputText");
+    var crearMenuBtn = document.getElementById("crearMenuBtn");
+
+    var lines = textarea.value.split("\n"); // Separar el texto en líneas
+    
+    var container = document.getElementById("container");
+    container.innerHTML = ""; // Limpiar el contenedor
+    
+    menuItems = [];
+    // Convertir cada línea en un objeto de menú
+    lines.forEach(function(line) {
+        var data = line.split(";");
+        var menuItem = {
+            id: parseInt(data[0]),
+            parentId: parseInt(data[1]),
+            name: data[2],
+            url: data[3]
+        };
+        menuItems.push(menuItem);
+    });
+
+    var parentButtons = menuItems.filter(item => item.parentId === 0);
+    
+    // Crear botones para el nivel superior
+    parentButtons.forEach(function(parentItem) {
+        var row = container.insertRow();
+        var cell = row.insertCell();
+        var button = document.createElement("button");
+        button.textContent = parentItem.name;
+        button.onclick = function() {
+            var childButtons = menuItems.filter(item => item.parentId === parentItem.id);
+            mostrarHijos(childButtons, menuItems, parentItem.name);
+        };
+        cell.appendChild(button);
+    });
+}
+
+function mostrarHijos(childButtons, menuItems, breadcrumb) {
+    var container = document.getElementById("container");
+    container.innerHTML = ""; // Limpiar el contenedor
+    
+    // Añadir el breadcrumb actual
+    breadcrumbs.push(breadcrumb);
+    mostrarBreadcrumb();
+    
+    // Añadir botón para retroceder
+    if (breadcrumbs.length > 1) {
+        var backButton = document.getElementById("backButton");
+        backButton.style.display = "inline-block";
+        backButton.onclick = function() {
+            breadcrumbs.pop(); // Eliminar el último breadcrumb
+            var parentBreadcrumb = breadcrumbs.pop(); // Obtener el breadcrumb anterior
+            mostrarHijos(menuItems.filter(item => item.parentId === menuItems.find(el => el.name === parentBreadcrumb).id), menuItems, parentBreadcrumb);
+            resetearContenido();
+        };
+    } else {
+        var backButton = document.getElementById("backButton");
+        backButton.style.display = "none";
+    }
+    
+    childButtons.forEach(function(item) {
+        var row = container.insertRow();
+        var cell = row.insertCell();
+        var button = document.createElement("button");
+        button.textContent = item.name;
+        button.onclick = function() {
+            var childButtons = menuItems.filter(childItem => childItem.parentId === item.id);
+            mostrarHijos(childButtons, menuItems, item.name);
+            mostrarContenido(item.url);
+        };
+        cell.appendChild(button);
+    });
+}
+
+function mostrarBreadcrumb() {
+    var breadcrumbDiv = document.getElementById("breadcrumb");
+    breadcrumbDiv.innerHTML = ""; // Limpiar el breadcrumb
+    breadcrumbDiv.textContent = "Ruta: ";
+    breadcrumbs.forEach(function(crumb, index) {
+        if (index > 0) {
+            var separator = document.createElement("span");
+            separator.textContent = ">";
+            breadcrumbDiv.appendChild(separator);
+        }
+        var crumbSpan = document.createElement("span");
+        crumbSpan.textContent = crumb;
+        breadcrumbDiv.appendChild(crumbSpan);
+    });
+}
+
+function mostrarContenido(url) {
+    var contentFrame = document.getElementById("contentFrame");
+    if (url.trim() !== "") {
+        contentFrame.src = url;
+    } else {
+        contentFrame.src = "about:blank"; // Mostrar una página en blanco si la URL está vacía
+    }
+}
+
+function resetearContenido() {
+    var contentFrame = document.getElementById("contentFrame");
+    contentFrame.src = "about:blank"; // Establecer el src a "about:blank" para borrar el contenido
+}
+
+function goBack() {
+    breadcrumbs.pop(); // Eliminar el último breadcrumb
+    var parentBreadcrumb = breadcrumbs.pop(); // Obtener el breadcrumb anterior
+    var backButton = document.getElementById("backButton");
+    backButton.style.display = "none";
+    mostrarHijos(menuItems.filter(item => item.parentId === menuItems.find(el => el.name === parentBreadcrumb).id), menuItems, parentBreadcrumb);
+    resetearContenido();
+}
+</script>
+
+</body>
+</html>
