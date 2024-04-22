@@ -93,7 +93,40 @@
 <div id="iframeContainer">
     <iframe id="contentFrame" scrolling="auto"></iframe>
 </div>
+<textarea id="csvData" rows="10" cols="50"></textarea>
 
+<script>
+// Definir la ruta y el nombre del archivo CSV
+var filePath = "data\";
+var fileName = "datos.csv";
+
+// Función para cargar el contenido del archivo CSV en el textarea
+function loadCSV() {
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", filePath + fileName, true);
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+            var csvContent = xhr.responseText;
+            var csvData = parseCSV(csvContent);
+            document.getElementById('csvData').value = csvData;
+        }
+    };
+    xhr.send();
+}
+
+function parseCSV(data) {
+    var lines = data.split('\n');
+    var result = '';
+    lines.forEach(function(line) {
+        var items = line.split(';');
+        result += items.join('\t') + '\n'; // Cambiar el delimitador a tabulación para mostrar en textarea
+    });
+    return result;
+}
+
+// Llama a la función para cargar el CSV al cargar la página
+loadCSV();
+</script>
 <script>
 var breadcrumbs = [];
 var menuItems;
