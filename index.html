@@ -51,8 +51,8 @@
 8;1;Temarios;
 9;8;Gestión de Sistemas e Informática de la Administración del Estado;
 10;9;Temario comprado;
-11;8;Perfiles TIC Madrid Digital (Unificado);
-12;11;Perfiles TIC Madrid Digital;html/PerfilesTICMadridDigital.html
+11;8;Perfiles TIC Madrid Digital;
+12;11;Todos Los Perfiles;html/PerfilesTICMadridDigital.html
 13;8;UPM;
 14;13;Salen en los test;
 15;13;Aclaracion;
@@ -68,8 +68,24 @@
 25;23;Grupo II;
 26;23;Examen 1;
 27;8;Red.es;
-28;27;Temario;</textarea>
-<br>
+28;27;Temario;
+29;11;Analista Funcional P01;
+30;11;Analista de Aplicaciones P02;
+31;11;Ingeniero de Desarrollo P06;
+32;11;Ingeniero de Sistemas P08;
+33;29;1 Políticas de Igualdad de Género, como la Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad efectiva de mujeres y hombres;
+34;29;2 Administración Pública Digital: Plan de Digitalización de las AAPP. Las TIC en la Ley 39/2015 y en Ley 40/2015: Derechos de las personas en sus relaciones con las AA.PP. Registros electrónicos de apoderamientos, Sistemas de identificación de los interesados y mecanismos de firma electrónica Notificaciones electrónicas Documentos electrónicos: emisión y remisión de documentos; Archivo electrónico Punto de Acceso General Registro Electrónico General, y relaciones electrónicas entre Administraciones;
+35;29;3 Esquema Nacional de Seguridad y estrategia de ciberseguridad 2019. Vulnerabilidades, amenazas e incidentes de seguridad: conceptos y relaciones,;
+36;29;4 Gestión de Proveedores - Gestión de proveedores e Indicadores en la Gestión de Servicios (SLA´s, KPI´s, OLA´s, etc.);
+37;29;5 Dirección y gestión de proyectos de tecnologías de la información. Planificación estratégica, gestión de recursos, seguimiento de proyectos, toma de decisiones. Metodologías predictivas (GANTT, PERT), Ágiles y Lean.;
+38;29;6 Metodologías Colaborativas (AGILE): Scrum, Kanbas y DevOps;
+39;29;7 Diseño y Programación. Orientación a la experiencia de usuario (UX) y a un diseño/programación orientado a componentes y a la omnicanalidad-movilidad. Diseño y programación basado en APIS, Microservicios, Contenedores y Eventos.;
+40;29;8 Calidad en los Sistemas de Información: Calidad de código, seguridad y accesibilidad. Pruebas Unitarias, de cobertura y rendimiento.;
+41;29;9 Calidad de los Sistemas de Información: Pruebas de integración, funcionales y rendimiento.;
+42;29;10 Auditorías de tecnologías de la información. Indicadores técnicos para la calidad de los sistemas de información.;
+43;33;Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad efectiva;html/IgualdadDeGenero_LeyOrganica32_007.html;
+</textarea>
+
 <button id="crearMenuBtn" style="display: none;" onclick="crearMenu()">Crear Menú</button>
 
 <table id="container"></table>
@@ -158,7 +174,7 @@ function mostrarHijos(childButtons, menuItems, breadcrumb) {
 function mostrarBreadcrumb() {
     var breadcrumbDiv = document.getElementById("breadcrumb");
     breadcrumbDiv.innerHTML = ""; // Limpiar el breadcrumb
-    breadcrumbDiv.textContent = "Ruta: ";
+    breadcrumbDiv.textContent = ""; // Texto que se coloca delante de las migas de pan
     breadcrumbs.forEach(function(crumb, index) {
         if (index > 0) {
             var separator = document.createElement("span");
