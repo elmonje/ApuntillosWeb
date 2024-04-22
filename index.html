@@ -109,7 +109,7 @@ function loadCSV() {
         if (xhr.readyState === 4 && xhr.status === 200) {
             var csvContent = xhr.responseText;
            // var csvData = parseCSV(csvContent);
-            document.getElementById('inputText').value = csvContent;
+            document.getElementById('csvData').value = csvContent;
         }
     };
     xhr.send();
