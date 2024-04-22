@@ -109,7 +109,7 @@ function loadCSV() {
         if (xhr.readyState === 4 && xhr.status === 200) {
             var csvContent = xhr.responseText;
            // var csvData = parseCSV(csvContent);
-            document.getElementById('csvData').value = csvContent;
+            document.getElementById('inputText').value = csvContent;
         }
     };
     xhr.send();
@@ -125,10 +125,7 @@ function parseCSV(data) {
     return result;
 }
 */
-
 // Llama a la función para cargar el CSV al cargar la página
-alert('Prueba');
-
 loadCSV();
 
 var breadcrumbs = [];
