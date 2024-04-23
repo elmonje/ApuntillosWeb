@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="plantilla.xsl"?>
+<catalog>
+  <cd>
+    <title>Living la vida loca</title>
+    <artist>Ricky Martin</artist>
+    <country>Spain</country>
+    <company>Columbia</company>
+    <price>10.90</price>
+    <year>1985</year>
+  </cd>
+  <cd>
+    <title>Radical Sonora</title>
+    <artist>Enrique Bunbury</artist>
+    <country>Spain</country>
+    <company>Soni</company>
+    <price>8.20</price>
+    <year>1999</year>
+  </cd>
+</catalog>
