@@ -1,7 +1,4 @@
 <!-- XSLT stylesheet -->
-<table>
-<tr><td>Hola</td></tr>
-</table>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <!-- Template para el elemento raíz del XML -->
   <xsl:template match="/">
