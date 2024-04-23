@@ -24,12 +24,22 @@
 	</videos>
 	<apuntes>	
 	  <apunte>
-		<name>GitHub</name>
-		<url>https://github.com</url>
+		<name>Apuntes01</name>
+		<url>#Apunte1</url>
 	  </apunte> 
 	  <apunte>
-		<name>GitHub</name>
-		<url>https://github.com</url>
+		<name>Apuntes02</name>
+		<url>#Apunte2</url>
 	  </apunte> 
 	</apuntes>
+	<TextosApuntes>	
+	  <Texto>
+¿Qué abarca la Ley de violencia de género?<br/>
+La violencia de género a que se refiere la presente Ley comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad	  
+	 </Texto> 
+	  <Texto>
+¿Qué abarca la Ley de violencia de género?<br/>
+La violencia de género a que se refiere la presente Ley comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad		  
+	  </Texto> 
+	</TextosApuntes>	
 </contenidos>

@@ -118,8 +118,28 @@
 				</td>
 			</tr>
 		</table>
-	</div>		
+	</div>
+	<xsl:for-each select="TextosApuntes/Texto"> 
 
+	<xsl:value-of select="."/>
+<!--	
+				<a>
+					<xsl:attribute name="href"><xsl:value-of select="url"/></xsl:attribute>
+					<xsl:value-of select="name" />
+				</a>
+				-->
+				<br/>
+	</xsl:for-each>		
+	<a name="Apunte1"></a>
+	<div id="idApunte1">
+		<h3>Titulo apunte 1</h3>
+		<p>Texto de apunte</p>
+	</div>	
+	<a name="Apunte2"></a>	
+	<div id="idApunte2">	
+		<h3>Titulo Apunte 2</h3>
+		<p>Texto de apunte</p>
+	</div>	
 	
     </body>
   </html>			
