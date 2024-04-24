@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="ejemplo.xsl"?>
+<contenidos>
+	<nombre>Nombre contenido</nombre>
+	<enlaces>
+	  <enlace>
+		<name>Microsoft Copilot</name>
+		<url>https://copilot.microsoft.com</url>
+	  </enlace>
+	  <enlace>
+		<name>GitHub</name>
+		<url>https://github.com</url>
+	  </enlace>
+	</enlaces>
+	<videos>	
+	  <video>
+		<name>GitHub</name>
+		<url>https://github.com</url>
+	  </video> 
+	  <video>
+		<name>GitHub</name>
+		<url>https://github.com</url>
+	  </video> 
+	</videos>
+	<apuntes>	
+	  <apunte>
+		<name>GitHub</name>
+		<url>https://github.com</url>
+	  </apunte> 
+	  <apunte>
+		<name>GitHub</name>
+		<url>https://github.com</url>
+	  </apunte> 
+	</apuntes>
+</contenidos>

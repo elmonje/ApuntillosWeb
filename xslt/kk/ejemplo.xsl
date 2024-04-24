@@ -118,13 +118,9 @@
 				</td>
 			</tr>
 		</table>
-	</div>
-	<xsl:for-each select="TextosApuntes/TextosApunte">
-			<hr/><a><xsl:attribute name="name"><xsl:value-of select="marcador"/></xsl:attribute></a>
-			<h3><xsl:value-of select="Titulo"/></h3>
-			<xsl:value-of select="Texto"/>		
-			<br/>
-	</xsl:for-each>		
+	</div>		
+
+	
     </body>
   </html>			
   </xsl:template>
