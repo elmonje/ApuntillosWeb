@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/plantillaContenido.xsl"?>
+<contenidos>
+	<nombre>Nombre contenido</nombre>
+	<enlaces>
+	  <enlace>
+		<name>Microsoft Copilot</name>
+		<url>https://copilot.microsoft.com</url>
+	  </enlace>
+	  <enlace>
+		<name>GitHub</name>
+		<url>https://github.com</url>
+	  </enlace>
+	</enlaces>
+	<videos>	
+	  <video>
+		<name>GitHub</name>
+		<url>https://github.com</url>
+	  </video> 
+	  <video>
+		<name>GitHub</name>
+		<url>https://github.com</url>
+	  </video> 
+	</videos>
+	<apuntes>	
+	  <apunte>
+		<name>Apuntes01</name>
+		<url>#Apunte1</url>
+	  </apunte> 
+	  <apunte>
+		<name>Apuntes02</name>
+		<url>#Apunte2</url>
+	  </apunte> 
+	</apuntes>
+	<TextosApuntes>
+		<TextosApunte>
+			<marcador>#Apunte1</marcador>
+			<Titulo>¿Qué abarca la Ley de violencia de género?</Titulo>
+			<Texto>
+	La violencia de género a que se refiere la presente Ley comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad	
+	
+			</Texto> 
+		</TextosApunte>
+		<TextosApunte>
+			<marcador>#Apunte2</marcador>		
+			<Titulo>¿Qué abarca la Ley de violencia de género?</Titulo>	 
+			<Texto>
+	¿Qué abarca la Ley de violencia de género?
+	La violencia de género a que se refiere la presente Ley comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad		  
+			</Texto> 
+		</TextosApunte>
+	</TextosApuntes>	
+</contenidos>
