@@ -21,6 +21,8 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        background-color: rgb(232, 239, 243);
+        font-size: 20px;
     }
     #breadcrumbContainer button,
     #breadcrumbContainer span {
@@ -38,11 +40,15 @@
     }
 </style>
 </head>
-<body onload="crearMenu()">
+<body onload="crearMenuTemp()">
 <div id="breadcrumbContainer">
-    <button id="backButton" style="display: none;" onclick="goBack()">Back</button>
+	<!-- width="50px" height="50px" -->
+    <button id="backButton" style="display: none;" onclick="goBack()"><img src="images/leftanglearrow.png" alt=""  />  </button>
     <div id="breadcrumb"></div>
 </div>
+<hr/>
+<textarea id="inputText" rows="5" cols="50" style="display: none;"></textarea>
+<!--
 <textarea id="inputText" rows="5" cols="50" style="display: none;">1;0;Home;
 2;1;Seguimiento;
 3;2;Notas Seguimiento;html/Seguimiento.html
@@ -85,7 +91,7 @@
 42;29;10 Auditorías de tecnologías de la información. Indicadores técnicos para la calidad de los sistemas de información.;
 43;33;Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad efectiva;html/IgualdadDeGenero_LeyOrganica32_007.html;
 </textarea>
-
+-->
 <button id="crearMenuBtn" style="display: none;" onclick="crearMenu()">Crear Menú</button>
 
 <table id="container"></table>
@@ -93,9 +99,9 @@
 <div id="iframeContainer">
     <iframe id="contentFrame" scrolling="auto"></iframe>
 </div>
-	
+<!--
 <textarea id="csvData" rows="10" cols="50"></textarea>
-
+-->	
 <script>
 // Definir la ruta y el nombre del archivo CSV
 var filePath = "data/";
@@ -133,6 +139,12 @@ loadCSV();
 
 var breadcrumbs = [];
 var menuItems;
+
+let identificadorIntervaloDeTiempo;
+
+function crearMenuTemp() {
+  identificadorIntervaloDeTiempo = setTimeout(crearMenu, 500);
+}
 
 function crearMenu() {
     var textarea = document.getElementById("inputText");
