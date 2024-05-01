@@ -95,13 +95,22 @@
 <button id="crearMenuBtn" style="display: none;" onclick="crearMenu()">Crear Menú</button>
 
 <table id="container"></table>
-
+<table>
+    <tr>
+        <td>
+            <button id="btnAccesoDirecto" onclick="goToService2('Madrid Digital 2023')">Acceso directo Madrid Digital 2023</button>
+        </td>
+    </tr>
+</table>
 <div id="iframeContainer">
     <iframe id="contentFrame" scrolling="auto"></iframe>
 </div>
 <!--
 <textarea id="csvData" rows="10" cols="50"></textarea>
 -->	
+
+
+
 <script>
 // Definir la ruta y el nombre del archivo CSV
 var filePath = "data/";
@@ -219,6 +228,7 @@ function mostrarHijos(childButtons, menuItems, breadcrumb) {
     });
 }
 
+
 function mostrarBreadcrumb() {
     var breadcrumbDiv = document.getElementById("breadcrumb");
     breadcrumbDiv.innerHTML = ""; // Limpiar el breadcrumb
@@ -235,6 +245,24 @@ function mostrarBreadcrumb() {
     });
 }
 
+/*
+function mostrarBreadcrumb() {
+    var breadcrumbDiv = document.getElementById("breadcrumb");
+    breadcrumbDiv.innerHTML = ""; // Limpiar el breadcrumb
+    breadcrumbDiv.textContent = "Ruta: ";
+    breadcrumbs.forEach(function(crumb, index) {
+        if (index > 0) {
+            var separator = document.createElement("span");
+            separator.textContent = ">";
+            breadcrumbDiv.appendChild(separator);
+        }
+        var crumbSpan = document.createElement("a");
+        crumbSpan.textContent = crumb.name;
+        crumbSpan.href = crumb.url;
+        breadcrumbDiv.appendChild(crumbSpan);
+    });
+}
+*/
 function mostrarContenido(url) {
     var contentFrame = document.getElementById("contentFrame");
     if (url.trim() !== "") {
@@ -257,6 +285,14 @@ function goBack() {
     mostrarHijos(menuItems.filter(item => item.parentId === menuItems.find(el => el.name === parentBreadcrumb).id), menuItems, parentBreadcrumb);
     resetearContenido();
 }
+
+function goToService2(textoAccesoDirecto) {
+    var service2Item = menuItems.find(item => item.name === textoAccesoDirecto);
+    mostrarHijos(menuItems.filter(childItem => childItem.parentId === service2Item.id), menuItems, textoAccesoDirecto);
+    mostrarContenido(service2Item.url);
+    document.getElementById("btnAccesoDirecto").style.display = "none"; // Ocultar el botón después de ir al elemento
+}
+
 </script>
 
 </body>
