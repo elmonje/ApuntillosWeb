@@ -1,11 +1,5 @@
-Experiencia de Usuarios (UX)
-EnlacesEnlace1
-Enlace1VideosVideo1
-Video1
-Video1ApuntesResumen chatGPT
-Resumen CAP1 chatGPT
- 
-Resumen chatGPT
+Experiencia de Usuarios (UX). 
+Resumen chatGPT.
 
 Cuando se trata de diseño y programación con orientación a la experiencia de usuario (UX), se busca crear productos que sean intuitivos, fáciles de usar y que satisfagan las necesidades y expectativas de los usuarios. Aquí te dejo un desglose de las principales consideraciones y prácticas en este ámbito:
 Investigación de Usuarios y Definición de Requerimientos:
@@ -35,7 +29,6 @@ Mantenimiento y Actualización:
 * Soporte y Mantenimiento: Proporcionar soporte continuo para abordar problemas y responder a las necesidades de los usuarios después del lanzamiento del producto.
 Al centrarse en la experiencia de usuario desde el inicio hasta el final del proceso de diseño y desarrollo, los equipos pueden crear productos que sean atractivos, fáciles de usar y que generen una conexión positiva con los usuarios. Esto no solo mejora la satisfacción del usuario, sino que también puede llevar a una mayor retención, fidelidad y éxito del producto.
 
-Resumen CAP1 chatGPT
 
 
 

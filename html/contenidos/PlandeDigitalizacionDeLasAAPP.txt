@@ -1,0 +1,30 @@
+La Estrategia de Ciberseguridad 2019. 
+Resumen chatGPT.
+
+La Estrategia de Ciberseguridad 2019 es un plan integral diseñado para abordar los desafíos y riesgos en materia de ciberseguridad en España. Esta estrategia tiene como objetivo principal fortalecer la seguridad digital y proteger los sistemas de información del país. Aquí tienes un resumen de sus principales aspectos:
+1. Marco de actuación: La estrategia establece un marco general de actuación en el ámbito de la ciberseguridad, que incluye la coordinación entre diferentes organismos públicos y la colaboración con el sector privado.
+2. Principales áreas de actuación:
+* Prevención y concienciación: Promoción de la concienciación sobre la importancia de la ciberseguridad, tanto en el ámbito público como privado.
+* Protección y resiliencia: Refuerzo de la protección de infraestructuras críticas y mejora de la capacidad de respuesta ante ciberataques.
+* Normativa y regulación: Desarrollo y actualización de la normativa relacionada con la ciberseguridad para adaptarse a las nuevas amenazas y tecnologías.
+* Cooperación internacional: Colaboración con otros países y organizaciones internacionales para compartir información y buenas prácticas en materia de ciberseguridad.
+* Innovación y desarrollo tecnológico: Impulso de la investigación, desarrollo e innovación en ciberseguridad para mantenerse al día con las últimas tecnologías y tendencias.
+3. Medidas específicas: La estrategia incluye medidas concretas para fortalecer la ciberseguridad, como la creación de equipos de respuesta a incidentes, la promoción de la formación especializada en ciberseguridad y el desarrollo de sistemas de alerta temprana.
+4. Participación del sector privado y la sociedad civil: Reconoce la importancia de la colaboración con el sector privado y la sociedad civil para mejorar la ciberseguridad, fomentando la participación activa de estos actores en la implementación de la estrategia.
+En resumen, la Estrategia de Ciberseguridad 2019 en España es un plan integral que aborda diversos aspectos para fortalecer la seguridad digital del país, incluyendo la prevención, protección, normativa, cooperación internacional y la participación del sector privado y la sociedad civil.
+
+Resumen CAP1 chatGPT.
+
+El Capítulo 1 de la Estrategia Nacional de Ciberseguridad 2019 de España aborda el tema del ciberespacio como un espacio común global. Aquí tienes un resumen:
+1. Introducción al ciberespacio: Se destaca la importancia del ciberespacio como un entorno global donde se desarrollan actividades económicas, sociales y políticas fundamentales en la era digital.
+2. Interconexión y dependencia: Se señala la interconexión y la creciente dependencia de la sociedad en las tecnologías de la información y la comunicación (TIC), así como los desafíos que esto plantea en términos de seguridad y confianza.
+3. Dimensiones transnacionales: Se reconoce que las amenazas cibernéticas no conocen fronteras y pueden afectar a cualquier país, lo que resalta la necesidad de una cooperación internacional efectiva para abordar los desafíos de la ciberseguridad.
+4. Principios fundamentales:
+* Universalidad: Reconocimiento de que el ciberespacio es un recurso compartido por todos y que su seguridad es responsabilidad de la comunidad internacional.
+* Apertura y libre flujo de información: Se aboga por un ciberespacio abierto y libre, que permita el intercambio de información y la innovación, pero dentro de un marco de seguridad y confianza.
+* Respeto a los derechos humanos: Se enfatiza la importancia de proteger los derechos fundamentales de los usuarios en el ciberespacio, como la privacidad y la libertad de expresión.
+5. Desafíos y amenazas: Se identifican desafíos y amenazas en el ciberespacio, como el cibercrimen, el ciberterrorismo, los ataques cibernéticos a infraestructuras críticas y la proliferación de la desinformación y la propaganda en línea.
+En resumen, el Capítulo 1 de la Estrategia Nacional de Ciberseguridad 2019 sitúa al ciberespacio como un espacio común global y destaca la importancia de la cooperación internacional y el respeto a los principios fundamentales para abordar los desafíos de seguridad cibernética.
+
+
+

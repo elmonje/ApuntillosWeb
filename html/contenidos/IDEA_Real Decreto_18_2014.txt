@@ -1,0 +1,105 @@
+Real Decreto 18/2014, de 17 de enero, por el que se aprueba el Estatuto del Instituto para la Diversificación y Ahorro de la Energía (IDAE).
+ 
+Primer Resumen chatGPT.
+
+El Real Decreto 18/2014, de 17 de enero, es una normativa española que establece medidas para el impulso de la cogeneración y la eficiencia energética, así como para la regulación del régimen jurídico de la actividad de producción de energía eléctrica a partir de fuentes de energía renovable, cogeneración y residuos.
+Entre las principales disposiciones que contempla este Real Decreto se encuentran:
+1. Impulso de la cogeneración: Establece medidas para fomentar la cogeneración, un proceso en el que se produce simultáneamente energía eléctrica y térmica a partir de una misma fuente de energía primaria. Se establecen criterios para la asignación de la retribución de la actividad de cogeneración y se regulan aspectos relacionados con la conexión a la red eléctrica y los procedimientos administrativos para su autorización.
+2. Eficiencia energética: Se promueven medidas para mejorar la eficiencia energética en la industria y otros sectores, incentivando la implementación de tecnologías más eficientes y la optimización del consumo de energía.
+3. Regulación de las energías renovables: Establece el marco regulatorio para la producción de energía eléctrica a partir de fuentes renovables, como la solar, eólica, hidroeléctrica, entre otras, así como la cogeneración y el aprovechamiento de residuos como fuente de energía. Se establecen criterios para la asignación de primas y ayudas económicas a estas tecnologías.
+4. Procedimientos administrativos: Se regulan los procedimientos administrativos relacionados con la autorización, registro y funcionamiento de instalaciones de producción de energía eléctrica, así como los requisitos técnicos y de seguridad que deben cumplir.
+En resumen, este Real Decreto tiene como objetivo impulsar la cogeneración, promover la eficiencia energética y regular el desarrollo de la producción de energía eléctrica a partir de fuentes renovables, estableciendo un marco normativo que favorezca el desarrollo sostenible del sector energético en España.
+
+Segundo Resumen chatGPT (Borrador)
+
+Artículo 1. Naturaleza:
+1. Establece que el Instituto para la Diversificación y Ahorro de la Energía (IDAE) es una entidad pública empresarial, de acuerdo con la Ley 6/1997, con personalidad jurídica propia, patrimonio y tesorería, así como autonomía de gestión para cumplir sus fines.
+2. Indica que el IDAE estará adscrito al Ministerio de Industria, Energía y Turismo, siendo la Secretaría de Estado de Energía la responsable de su dirección estratégica y evaluación de sus actuaciones.
+Artículo 2. Régimen jurídico:
+1. Establece que el IDAE se regirá por diversas disposiciones legales, incluyendo la Ley 6/1997 y la Ley 47/2003, así como por el presente Estatuto.
+2. Determina que el IDAE estará sujeto al derecho privado en su funcionamiento, salvo en la formación de la voluntad de sus órganos y en el ejercicio de potestades administrativas.
+Artículo 3. Fines y funciones:
+1. Enumera los fines y funciones del IDAE: a) Proponer, adoptar y ejecutar medidas para la conservación, ahorro y diversificación energética. b) Fomentar políticas sectoriales eficaces y el uso de nuevas tecnologías y fuentes de energía. c) Desarrollar programas para investigar fuentes de energías renovables. d) Asignar y controlar subvenciones e incentivos financieros para fines energéticos. e) Desarrollar actividades de asistencia técnica, consultoría y comercialización en el ámbito energético. f) Apoyar el desarrollo de tecnologías para la descarbonización de la generación eléctrica. g) Prestar asistencia técnica y económica al Ministerio de Industria, Energía y Turismo. h) Actuar como medio propio instrumental y servicio técnico de la Administración General del Estado. i) Realizar funciones relacionadas con la promoción y gestión del ahorro energético y la conservación, diversificación y desarrollo de la energía. j) Ejercer cualquier otra función que le sea atribuida legalmente.
+
+
+Artículo 4. Órganos de gobierno: Este artículo establece los órganos de gobierno del Instituto para la Diversificación y Ahorro de la Energía (IDAE), que son:
+* El Presidente.
+* El Consejo de Administración.
+* El Director General.
+Artículo 5. El Presidente:
+1. El Presidente del IDAE también será el Presidente del Consejo de Administración.
+2. Las facultades del Presidente del IDAE incluyen:
+* Representar al Instituto.
+* Velar por el cumplimiento de los acuerdos y la gestión adecuada.
+* Ejercer la inspección de los servicios y la vigilancia de la actividad.
+* Otras facultades que le otorgan los estatutos.
+3. El Presidente dirigirá las reuniones del Consejo de Administración y podrá ser sustituido por el Vicepresidente o el titular de la Dirección General en caso de ausencia.
+Artículo 6. Consejo de Administración:
+1. El Consejo de Administración es el órgano superior de gobierno del IDAE.
+2. Estará integrado por el Presidente, el Vicepresidente, el Director General y siete vocales designados entre personas de reconocida competencia en el sector energético.
+3. El Consejo de Administración tiene diversas funciones, como organizar el funcionamiento de la entidad, aprobar presupuestos, autorizar actos y contratos, entre otros.
+Artículo 7. Funciones del Consejo de Administración: Este artículo detalla las funciones del Consejo de Administración, como organizar y dirigir la entidad, aprobar presupuestos y cuentas anuales, autorizar actos y contratos, entre otras.
+Artículo 8. Régimen jurídico del Consejo: Establece que el régimen jurídico del Consejo de Administración y sus miembros será conforme a la Ley 30/1992, sin perjuicio de lo establecido en el Estatuto.
+Artículo 9. Funcionamiento: Define cómo se convocan y constituyen las reuniones del Consejo de Administración, así como la toma de acuerdos y la elaboración de actas.
+Artículo 10. El Director General: Detalla las funciones del Director General del IDAE, quien será el máximo responsable ejecutivo de la entidad y tendrá atribuciones como la representación ordinaria, ejecutar los acuerdos del Consejo, dirigir el personal y aprobar ciertos proyectos y contratos.
+
+
+Artículo 11. La Comisión Ejecutiva
+1. El Consejo de Administración podrá crear una Comisión Ejecutiva, dependiente de este Consejo, compuesta por:
+a) El Presidente, que será el titular de la Dirección General del Instituto para la Diversificación y Ahorro de la Energía.
+b) Tres vocales designados por el titular de la Secretaría de Estado de Energía del Ministerio de Industria, Energía y Turismo, entre los miembros del Consejo de Administración.
+c) El Secretario, que será el titular de la Secretaría General del Instituto para la Diversificación y Ahorro de la Energía.
+2. A la Comisión Ejecutiva le corresponden las siguientes atribuciones:
+a) Elaborar anualmente y elevar al Consejo de Administración para su aprobación los programas, presupuestos y cuentas anuales de la entidad.
+b) Informar previamente sobre los asuntos que serán sometidos al Consejo de Administración por el titular de la Dirección General.
+c) Aprobar subvenciones, ayudas y contrataciones de cuantía entre 120.202 y 600.000 euros, y conocer el destino, importe y aplicación de las concedidas y concertadas por cuantía inferior desde su última reunión.
+d) Realizar seguimiento y control de los objetivos y planes de actuación del Instituto.
+e) Ejercer otras atribuciones que el Consejo de Administración le delegue.
+Artículo 12. La Comisión Consultiva de Ahorro y Eficiencia Energética
+1. Se crea la Comisión Consultiva de Ahorro y Eficiencia Energética como órgano de asesoramiento de IDAE, dependiente del Consejo de Administración.
+2. La Comisión estará compuesta por:
+a) El Presidente, que será el titular de la Secretaría de Estado de Energía del Ministerio de Industria, Energía y Turismo.
+b) El Vicepresidente, que será el titular de la Dirección General del Instituto para la Diversificación y Ahorro de la Energía.
+c) Vocales:
+1. Un representante de cada Comunidad Autónoma y Ciudades de Ceuta y Melilla, designados por el titular del Ministerio de Industria, Energía y Turismo.
+2. Dos representantes de la Administración General del Estado, designados por el titular del Ministerio de Industria, Energía y Turismo.
+d) El Secretario, que será el titular de la Secretaría General del Instituto para la Diversificación y Ahorro de la Energía, con voz y voto.
+3. La Comisión tendrá las siguientes funciones:
+a) Asesorar al Instituto en materia de ahorro y eficiencia energética.
+b) Recoger y estudiar sugerencias y proyectos de las Comunidades Autónomas y Ciudades de Ceuta y Melilla en materia de ahorro y diversificación energética.
+c) Participar en la elaboración de la planificación de las actuaciones generales del Instituto.
+d) Analizar las implicaciones de las actuaciones y programas del Instituto y las Administraciones autonómicas en favor del ahorro y eficiencia energética.
+e) Analizar las estadísticas energéticas regionales relacionadas con los fines del Instituto.
+f) Cualquier otra función encomendada por el Consejo de Administración del Instituto.
+Artículo 13. La Secretaría General del Instituto
+1. La Secretaría General del Instituto cumplirá las funciones previstas en el Estatuto y las que le atribuya el Consejo de Administración, a propuesta del Director General.
+2. El titular de la Secretaría General será nombrado y separado de acuerdo con lo dispuesto en el Estatuto.
+CAPÍTULO IV Personal de la entidad
+Artículo 14. Régimen de personal
+1. El personal del Instituto se regirá por las normas de Derecho Laboral, con las especificaciones de la Ley 6/1997 y la Ley 7/2007 del Estatuto Básico del Empleado Público.
+2. Se considerará personal directivo del Instituto, además del titular de la Secretaría General, aquel que desempeñe funciones de planificación, coordinación, establecimiento de objetivos y dirección de equipos, sujeto al régimen laboral especial de alta dirección.
+3. El personal directivo será evaluado en base a criterios de eficacia, responsabilidad y resultados.
+4. El nombramiento del personal directivo se realizará atendiendo a principios de mérito, capacidad e idoneidad, procurando la presencia equilibrada entre mujeres y hombres.
+5. El resto del personal será seleccionado mediante convocatoria pública basada en los principios de igualdad, mérito y capacidad.
+6. Las actuaciones en materia de personal se ajustarán a los criterios definidos por el Consejo de Administración.
+CAPÍTULO V Régimen patrimonial
+Artículo 15. Patrimonio y recursos
+1. IDAE tendrá un patrimonio propio compuesto por bienes, derechos y obligaciones.
+2. La gestión de los bienes patrimoniales se regirá por la Ley del Patrimonio de las Administraciones Públicas.
+3. Los recursos económicos de IDAE incluyen bienes, aportaciones del Estado, ingresos generados por sus actividades, créditos, subvenciones y otros recursos.
+CAPÍTULO VI Régimen económico y financiero
+Artículo 16. Régimen presupuestario
+1. IDAE elaborará anualmente su presupuesto de explotación y capital, así como el programa de actuación plurianual, siguiendo la normativa establecida por el Ministerio de Hacienda y Administraciones Públicas.
+2. El anteproyecto de presupuestos se remitirá al Ministerio de Hacienda y se integrará en los Presupuestos Generales del Estado.
+3. Las modificaciones presupuestarias se regirán por la Ley General Presupuestaria.
+4. Las modificaciones no reguladas por la Ley corresponderán al Consejo de Administración.
+Artículo 17. Régimen contable y Control financiero
+1. El control financiero de IDAE se regirá por la Ley General Presupuestaria.
+2. IDAE aplicará los principios y normas contables recogidos en el Código de Comercio y el Plan General de Contabilidad.
+3. Estará sujeto al control de la Intervención General de la Administración del Estado.
+4. La rendición de cuentas se realizará por el Director General del IDAE.
+Artículo 18. Control de eficacia
+El Ministerio de Industria, Energía y Turismo
+
+
+

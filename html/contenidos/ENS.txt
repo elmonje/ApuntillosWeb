@@ -1,0 +1,47 @@
+Esquema Nacional de Seguridad.
+ 
+Resumen chatGPT
+El Esquema Nacional de Seguridad (ENS) es un conjunto de principios, políticas y requisitos que regulan la seguridad de la información en el ámbito de la Administración Pública española. Su objetivo principal es garantizar la protección adecuada de la información y los sistemas que manejan datos sensibles.
+El ENS establece medidas de seguridad que deben ser implementadas por los organismos públicos para proteger la confidencialidad, integridad, disponibilidad y autenticidad de la información, así como para prevenir incidentes de seguridad.
+Entre los aspectos más relevantes del ENS se encuentran:
+1. Ámbito de aplicación: Se aplica a todos los órganos, organismos y entidades de la Administración Pública.
+2. Principios de actuación: Incluye principios como proporcionalidad, eficacia, eficiencia, responsabilidad, coordinación y cooperación.
+3. Estructura de seguridad: Define la estructura organizativa y funcional para la gestión de la seguridad de la información.
+4. Requisitos de seguridad: Establece medidas y controles para proteger la información y los sistemas de información, como la clasificación de la información, la gestión de accesos, la gestión de incidentes, entre otros.
+5. Evaluación y auditoría: Establece la necesidad de realizar evaluaciones y auditorías periódicas para verificar el cumplimiento de los requisitos de seguridad.
+En resumen, el ENS es un marco normativo que busca asegurar un nivel adecuado de protección de la información en la Administración Pública española, mediante la definición de principios, políticas y requisitos de seguridad.
+
+
+Resumen CAP1 chatGPT
+
+El Capitulo 1 del Esquema Nacional de Seguridad (ENS) establece los objetivos, ámbitos de aplicación y principios fundamentales que guían la implementación de la seguridad de la información en España. Aquí tienes un resumen:
+1. Objetivos del Esquema Nacional de Seguridad (ENS):
+* Garantizar un nivel adecuado de seguridad de la información en el ámbito de la Administración Pública.
+* Proteger los sistemas de información utilizados para la prestación de servicios electrónicos por las Administraciones Públicas.
+* Contribuir a la confianza en el uso de los medios electrónicos, garantizando la seguridad de los sistemas de información y la protección de los derechos de los ciudadanos.
+2. Ámbito de aplicación:
+* El ENS se aplica a los sistemas de información de las Administraciones Públicas en España, así como a aquellos prestadores de servicios que gestionen sistemas de información sujetos al ENS.
+3. Principios fundamentales:
+* Universalidad: La seguridad de la información es responsabilidad de todos los órganos y entidades de la Administración Pública, así como de los prestadores de servicios que gestionen sistemas de información sujetos al ENS.
+* Proporcionalidad: Las medidas de seguridad deben ser proporcionales al nivel de riesgo asociado a los sistemas de información y a la información que gestionan.
+* Coordinación: Se fomenta la coordinación entre las diferentes Administraciones Públicas y entre estas y el sector privado para garantizar una protección eficaz de la información.
+* Responsabilidad: Los responsables de los sistemas de información deben adoptar las medidas necesarias para garantizar su seguridad y cumplir con las disposiciones del ENS.
+* Integración: La seguridad de la información debe integrarse en la gestión de los sistemas de información desde su concepción hasta su finalización.
+* Confidencialidad, integridad y disponibilidad: Se deben garantizar estos tres aspectos fundamentales de la seguridad de la información en todos los sistemas y servicios sujetos al ENS.
+En resumen, el Artículo 1 del ENS establece los objetivos, ámbitos de aplicación y principios fundamentales que rigen la seguridad de la información en el ámbito de la Administración Pública en España, con el fin de proteger los sistemas de información y garantizar la confianza en el uso de los medios electrónicos.
+
+Artículo 1. Objeto.
+Establece su objetivo principal: garantizar la seguridad de la información, los sistemas y servicios que utilizan y gestionan las Administraciones Públicas españolas. Su finalidad es proteger estos activos ante cualquier amenaza, asegurando la confidencialidad, integridad, disponibilidad, autenticidad y confianza de la información, así como promover una cultura de seguridad en todos los ámbitos de la Administración.
+
+Artículo 2. Ámbito de aplicación.
+Este abarca a todas las Administraciones Públicas, así como a las entidades y organismos que prestan servicios públicos y gestionan información en su nombre. También incluye a los proveedores de servicios que manejan información clasificada o prestan servicios críticos para la sociedad. El objetivo es establecer un marco común de seguridad que se aplique de manera coordinada y garantice un nivel adecuado de protección.
+
+Artículo 3. Sistemas de información que traten datos personales.
+Este artículo establece los principios básicos que rigen el Esquema Nacional de Seguridad (ENS). Entre estos principios se encuentran la proporcionalidad, que implica que las medidas de seguridad deben adaptarse a la naturaleza de la información y los riesgos; la integración, que busca coordinar la seguridad de la información con otros aspectos de la seguridad; y la cooperación, que promueve la colaboración entre las distintas entidades para garantizar la seguridad de la información.
+
+Artículo 4. Definiciones.
+El artículo 4 del Esquema Nacional de Seguridad (ENS) establece definiciones clave que se utilizan a lo largo del documento. Estas definiciones incluyen conceptos como "Administración Pública", "Sistema de Información", "Servicio", "Información Clasificada", entre otros. El objetivo es proporcionar una base común de entendimiento para la aplicación del ENS y garantizar una interpretación uniforme de los términos utilizados en materia de seguridad de la información en el ámbito de las Administraciones Públicas españolas.
+
+
+
+
