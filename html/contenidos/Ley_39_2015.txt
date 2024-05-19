@@ -1,11 +1,6 @@
-Las TIC en la ley 39/2015
-EnlacesEnlace1
-Enlace2VideosVideo1
-Video1
-Video1ApuntesResumen chatGPT
-Resumen CAP1 chatGPT
+Las TIC en la ley 39/2015.
  
-Resumen chatGPT
+Resumen chatGPT.
 La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, establece una serie de disposiciones relacionadas con las Tecnologías de la Información y la Comunicación (TIC). Aquí tienes un resumen de cómo las TIC se abordan en esta ley:
 1. Comunicaciones electrónicas: La ley reconoce la validez y eficacia de las comunicaciones electrónicas entre la Administración y los ciudadanos, permitiendo la presentación de solicitudes, escritos y comunicaciones a través de medios electrónicos.
 2. Registro electrónico: La ley establece la obligación de las Administraciones Públicas de mantener un registro electrónico donde se recibirán todas las solicitudes, escritos y comunicaciones, permitiendo a los ciudadanos realizar trámites de manera electrónica las 24 horas del día.
@@ -16,7 +11,7 @@ La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las A
 7. Interoperabilidad: La ley promueve la interoperabilidad de los sistemas y aplicaciones informáticas de las Administraciones Públicas para garantizar la compatibilidad y la comunicación entre ellas.
 En resumen, la Ley 39/2015 incorpora disposiciones que promueven el uso de las TIC en los procedimientos administrativos, facilitando la relación entre la Administración y los ciudadanos a través de medios electrónicos y estableciendo las bases para la digitalización de la gestión administrativa.
 
-Resumen CAP1 chatGPT
+
 
 
 

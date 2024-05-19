@@ -1,0 +1,106 @@
+ITIL.
+
+Resumen.
+
+LAS 4 DIMENSIONES DE LA GESTIÓN DE SERVICIOS.
+* Organizaciones y personas.
+* Información y tecnología.
+* Socios y Proveedores.
+* Cadenas de valor y procesos.
+EL SISTEMA DE VALOR DEL SERVICIO.
+Describe cómo todos los componentes y actividades de la organización trabajan juntos, como un sistema que permite la creación de valor.
+PRINCIPIOS GUÍA.
+1. Enfoque en el Valor (Lean IT).
+2. Empieza donde estés (Lean IT).
+3. Progresa Iterativamente con retroalimentación (Agilidad).
+4. Colabora y promueve la visibilidad (Lean IT, Agilidad).
+5. Piensa y trabaja holísticamente (Lean IT).
+6. Manténgalo simple y práctico (Lean IT, DevOps).
+7. Optimizar y automatizar (DevOps).
+
+LA CADENA DE VALOR DEL SERVICIO.
+El modelo operativo que describe las actividades clave necesarias para responder a la demanda y facilitar la creación de valor a través de la creación y gestión de productos y servicios
+PRÁCTICAS DE GESTIÓN ITIL (34).
+Las 34 prácticas de gestión de ITIL 4 son:
+
+Prácticas Generales de Gestión.
+1. Gestión de la arquitectura.
+2. Mejora continua.
+3. Gestión de seguridad de la información.
+4. Gestion del conocimiento.
+5. Medición y notificacion.
+6. Gestión del cambio organizacional.
+7. Gestión de la cartera.
+8. Gestión de proyectos.
+9. Gestión de las relaciones.
+10. Gestión de riesgos.
+11. Gestión financiera de servicios.
+12. Gestión de estrategias.
+13. Gestión de suministradores.
+14. Gestión de la fuerza de trabajo y el talento.
+15. Prácticas de gestión de servicios.
+Prácticas de gestión de servicios
+1. Gestion de la disponibilidad.
+2. Análisis de negocio.
+3. Gestión de capacidad y el rendimiento.
+4. Control de cambios.
+5. Gestión de incidentes.
+6. Gestión de activos de TI.
+7. Seguimiento y gestión de eventos.
+8. Gestión de problemas.
+9. Gestión de la liberación.
+10. Gestión del catálogo de servicios.
+11. Gestión de configuración de servicios.
+12. Gestión de la continuidad del servicio.
+13. Diseño de servicio.
+14. Servicio de atención al cliente.
+15. Gestión del nivel de servicio.
+16. Gestión de peticiones de servicio.
+17. Validación y prueba del servicio.
+Prácticas de Gestión Técnica ITIL 4.
+1. Gestión de la implementación.
+2. Gestión de la infraestructura y plataformas.
+3. Desarrollo y gestión de software.
+
+De un articulo.
+ITIL(r) 4 no es una actualización
+LAS 4 DIMENSIONES DE LA GESTIÓN DE SERVICIOS
+ITIL(r) 4 hace referencia siempre a un enfoque holístico de toda la organización, introduciendo "las 4 dimensiones de la gestión de servicios": 
+* Organizaciones y personas
+* Información y tecnología
+* Socios y Proveedores
+* Cadenas de valor y procesos
+Y nos explica por qué es importante tenerlas en cuenta.
+Vemos cómo aquí, la influencia de Lean IT es evidente, sobre todo en los puntos de "organización y personas" y "cadenas de valor y procesos".
+
+
+EL SISTEMA DE VALOR DEL SERVICIO
+ITIL(r) 4 de nuevo entrando en el "cómo", define el Sistema de valor del Servicio: SVS.
+En él, describe cómo todos los componentes y actividades de la organización trabajan juntos, como un sistema que permite la creación de valor. De nuevo, en el propio concepto de la Cadena de valor, podemos ver la influencia de Lean IT
+
+PRINCIPIOS GUÍA
+Otra novedad importante en ITIL(r) 4 son los principios guía, lo cual es importante, en el interés de convertirse en un marco de trabajo.
+Aquí también podemos ver la influencia de otras prácticas:
+8. Enfoque en el Valor (Lean IT)
+9. Empieza donde estés (Lean IT)
+10. Progresa Iterativamente con retroalimentación (Agilidad)
+11. Colabora y promueve la visibilidad (Lean IT, Agilidad)
+12. Piensa y trabaja holísticamente (Lean IT)
+13. Manténgalo simple y práctico (Lean IT, DevOps)
+14. Optimizar y automatizar (DevOps)
+
+LA CADENA DE VALOR DEL SERVICIO
+De nuevo viendo la influencia de Lean IT, podemos ver cómo dentro del SVS, ITIL(r) ha cambiado el ciclo de vida que todos conocíamos, por la Cadena de valor del servicio, que es el modelo operativo que describe las actividades clave necesarias para responder a la demanda y facilitar la creación de valor a través de la creación y gestión de productos y servicios.
+ 
+
+PRÁCTICAS DE GESTIÓN ITIL(r)
+Y como cambio también muy significativo, podemos ver en ITIL(r) 4, cómo desaparecen los procesos y funciones, que todos conocíamos, por las llamadas "Prácticas de Gestión ITIL(r)", definidas como "un conjunto de recursos organizativos diseñados para realizar un trabajo o alcanzar un objetivo".
+
+
+
+
+Segundo Resumen chatGPT
+
+
+
+
