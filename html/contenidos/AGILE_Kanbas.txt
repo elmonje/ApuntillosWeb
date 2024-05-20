@@ -1,0 +1,51 @@
+Kanbas.
+ 
+Resumen chatGPT
+
+El origen de la metodología Kanban debemos buscarlo en los procesos de producción "just-in-time" (JIT) ideados por Toyota, en los que se utilizaban tarjetas para identificar necesidades de material en la cadena de producción. 
+¿Qué es la metodología Kanban?
+Kanban es una metodología de gestión de proyectos que brinda a los gerentes de proyectos total transparencia en el proceso de gestión de tareas. Consta de principios, prácticas, tableros kanban y tarjetas kanban.
+El método Kanban se creó originalmente como una herramienta de lean manufacturing para maximizar la eficiencia de la producción. Desde entonces, se ha convertido en una gran herramienta de gestión de tareas para DevOps y equipos ágiles y ha evolucionado para usarse en diferentes industrias, como el desarrollo de software.
+Origen del Método Kanban.
+Kanban significa firmar o etiquetar en japonés. Este método fue creado por el ingeniero Taiichi Ono para la empresa automovilística japonesa Toyota, que lo utiliza desde la década de 1950. El objetivo era optimizar su capacidad de producción para ser competitivo con las empresas americanas reduciendo stocks y, por tanto, los costes asociados a los mismos.
+Utilizado por primera vez en la industria, el método Kanban fue recogido más tarde por los desarrolladores de software informático en la década de 2000 y luego adoptado por empresas de todos los sectores.
+Las principales ventajas de esta metodología para los Project Managers es que es muy fácil de utilizar, actualizar y asumir por parte del equipo. Además, destaca por ser una técnica de gestión de las tareas muy visual, que permite ver a golpe de vista el estado de los proyectos, así como también pautar el desarrollo del trabajo de manera efectiva.
+¿Cómo funciona el método Kanban?
+Este método permite visualizar el proceso de realización de una tarea. Toma la forma de una tabla con tres o incluso cuatro columnas:
+• Hacer: estas son las tareas a realizar.
+• En curso: esta columna agrupa las tareas que están en curso.
+• A probar: aquí encontramos las tareas a probar, aquellas que están pendientes de validación por parte del cliente.
+• Completadas: Finalmente, en la última columna, se encuentran las tareas completadas.
+Las tareas se representan mediante tarjetas, etiquetas o notas post-it que se mueven de una columna a otra según el estado de la tarea.
+ 
+Los principios de la metodología Kanban
+La metodología Kanban se basa en una serie de principios que la diferencian del resto de metodologías conocidas como ágiles:
+• Calidad garantizada. Todo lo que se hace debe salir bien a la primera, no hay margen de error. De aquí a que en Kanban no se premie la rapidez, sino la calidad final de las tareas realizadas. Esto se basa en el hecho que muchas veces cuesta más arreglarlo después que hacerlo bien a la primera.
+• Reducción del desperdicio. Kanban se basa en hacer solamente lo justo y necesario, pero hacerlo bien. Esto supone la reducción de todo aquello que es superficial o secundario (principio YAGNI).
+• Mejora continua. Kanban no es simplemente un método de gestión, sino también un sistema de mejora en el desarrollo de proyectos, según los objetivos a alcanzar.
+• Flexibilidad. Lo siguiente a realizar se decide del backlog (o tareas pendientes acumuladas), pudiéndose priorizar aquellas tareas entrantes según las necesidades del momento (capacidad de dar respuesta a tareas imprevistas).
+
+
+Pasos para implementar la metodología Kanban.
+Para implantar esta metodología, deberemos tener claro los siguientes aspectos:
+1.- Definir el flujo de trabajo de los proyectos.
+Para ello, simplemente deberemos crear nuestro propio tablero, que deberá ser visible y accesible por parte de todos los miembros del equipo. Cada una de las columnas corresponderá a un estado concreto del flujo de tareas, que nos servirá para saber en qué situación se encuentra cada proyecto. El tablero debe tener tantas columnas como estados por los que pasa una tarea, desde que se inicia hasta que finaliza (p.e: diagnóstico, definición, programación, ejecución, testing, etc.).
+A diferencia de Scrum, una de las peculiaridades del tablero es que este es continuo. Esto significa que no se compone de tarjetas que se van desplazando hasta que la actividad queda realizada por completo. En este caso, a medida que se avanza, las nuevas tareas (mejoras, incidencias o nuevas funcionalidades) se acumulan en la sección inicial, de manera que en las reuniones periódicas con el cliente se priorizan y se colocan dentro de la sección que se estima oportuna.
+Dicho tablero puede ser específico para un proyecto en concreto o bien genérico. No hay unas fases del ciclo de producción establecidas, sino que se definirán según el caso en cuestión, o se establecerá un modelo aplicable genéricamente para cualquier proyecto de la organización.
+2.- Visualizar las fases del ciclo de producción.
+Al igual que Scrum, Kanban se basa en el principio de desarrollo incremental, dividiendo el trabajo en distintas partes. Esto significa que no hablamos de la tarea en sí, sino que lo dividimos en distintos pasos para agilizar el proceso de producción.
+Normalmente cada una de esas partes se escribe en un post-it y se pega en el tablero, en la fase que corresponda. Dichos post-its contienen la información básica para que el equipo sepa rápidamente la carga total de trabajo que supone: normalmente descripción de la tarea con la estimación de horas. Además, se pueden emplear fotos para asignar responsables, así como también usar tarjetas con distintas formas para poner observaciones o indicar bloqueos (cuando una tarea no puede hacerse porqué depende de otra).
+Al final, el objetivo de la visualización es clarificar al máximo el trabajo a realizar, las tareas asignadas a cada equipo de trabajo (o departamento), así como también las prioridades y la meta asignada.
+3.- Stop Starting, start finishing.
+Este es el lema principal de la metodología Kanban. De esta manera, se prioriza el trabajo que está en curso en vez de empezar nuevas tareas. Precisamente, una de las principales aportaciones del Kanban es que el trabajo en curso debe estar limitado y, por tanto, existe un número máximo de tareas a realizar en cada fase.
+En realidad, se trata de definir el máximo número de tareas que podemos tener en cada una de las fases (p.e: 3 tareas en la fase de planificación; 2, en la fase de desarrollo; una, en la fase de pruebas, etc.) y, por tanto, restringir el trabajo en curso. A esto, se le añade otra idea que, por muy obvia que pueda parecer, la práctica nos demuestra que no es así: no se puede abrir una nueva tarea sin finalizar otra.
+De esta manera, se pretende dar respuesta al problema habitual de muchas empresas de tener muchas tareas abiertas pero con un ratio de finalización muy bajo. Aquí lo importante es que las tareas que se abran se cierren antes de empezar con la siguiente.
+4.- Control del Flujo.
+A diferencia de Scrum, la metodología Kanban no se aplica a un único proyecto, sino que mezcla tareas y proyectos. Se trata de mantener a los trabajadores con un flujo de trabajo constante, las tareas más importantes en cola para ser desarrolladas y un seguimiento pasivo para no tener que interrumpir al trabajador en cada momento. 
+Asimismo, dicha metodología de trabajo nos permite hacer un seguimiento del trabajo realizado, almacenando la información que nos proporcionan las tarjetas.
+Muchos insisten en destacar las ventajas de Kanban respecto a otras metodología ágiles, como puede ser Design Sprint. La posibilidad de poder realizar entregas en cualquier momento, cambiar prioridades al vuelo y la visualización perfecta del flujo, son algunos de los puntos que remarcan como elementos diferenciales y de valor. Sin embargo, no podemos decir que exista una metodología mejor que otra, sino que dependerá de la naturaleza de la empresa y la forma de organización de sus procesos internos.
+
+Resumen CAP1 chatGPT
+
+
+
