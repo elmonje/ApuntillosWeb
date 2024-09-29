@@ -1,65 +1,71 @@
-// Función para cargar el JSON desde un archivo local
-async function cargarCandidaturas() {
-    try {
-        const response = await fetch('candidaturas.json');
-        const candidaturas = await response.json();
+// Cargar el archivo JSON con el orden de los bloques
+Promise.all([
+    fetch('candidaturas.json').then(response => response.json()),
+    fetch('OrdenDeBloques.json').then(response => response.json())
+])
+.then(([candidaturas, ordenDeBloques]) => {
+    mostrarCandidaturas(candidaturas, ordenDeBloques);
+})
+.catch(error => console.error('Error al cargar los archivos JSON:', error));
 
-        // Ordenar candidaturas por el campo "Orden"
-        candidaturas.sort((a, b) => a.Orden - b.Orden);
+// Función para mostrar las candidaturas agrupadas por "Estado Candidatura"
+function mostrarCandidaturas(candidaturas, ordenDeBloques) {
+    // Seleccionar el contenedor donde se mostrarán las candidaturas
+    const contenedor = document.getElementById('candidaturas');
 
-        // Mapeo de secciones a los identificadores de sus respectivos divs
-        // Mapeo de secciones a los identificadores de sus respectivos divs
-        const secciones = {
-            "Apuntado": "apuntado-list",
-            "En lista de admitidos": "en-lista-admitidos-list",
-            "A la espera de notas": "a-la-espera-notas-list",
-            "Aprobado Fase 1": "aprobado-fase1-list",
-            "Lista de Interinos": "lista-interinos-list",
-            "Proceso Terminado": "proceso-terminado-list",
-            "Recopilacion de examenes": "recopilacion-examenes-list",
-            "Otros enlaces": "otros-enlaces-list"
-        };
+    // Agrupar las candidaturas por "Estado Candidatura"
+    const agrupadasPorEstado = {};
+    candidaturas.forEach(candidatura => {
+        const estado = candidatura["Estado Candidatura"];
+        if (!agrupadasPorEstado[estado]) {
+            agrupadasPorEstado[estado] = [];
+        }
+        agrupadasPorEstado[estado].push(candidatura);
+    });
 
-        // Iterar sobre las candidaturas y asignarlas a la sección correspondiente
-        candidaturas.forEach(candidatura => {
-            const sectionId = secciones[candidatura["Estado Candidatura"]];
-            const sectionElement = document.getElementById(sectionId);
+    // Ordenar las candidaturas dentro de cada grupo por el campo "Orden"
+    for (let estado in agrupadasPorEstado) {
+        agrupadasPorEstado[estado].sort((a, b) => a.Orden - b.Orden);
+    }
 
-            if (sectionElement) {
-                // Crear un div para la candidatura
-                const candidaturaDiv = document.createElement('div');
-                candidaturaDiv.classList.add('candidatura');
+    // Ordenar los bloques de "Estado Candidatura" según el archivo "OrdenDeBloques.json"
+    ordenDeBloques.sort((a, b) => a.Orden - b.Orden);
 
-                // Agregar la fecha y el nombre
-                const fechaNombre = document.createElement('p');
-                fechaNombre.textContent = `${candidatura.Fecha} - ${candidatura.Nombre}`;
-                candidaturaDiv.appendChild(fechaNombre);
+    // Generar las secciones por cada estado en el orden especificado en "OrdenDeBloques.json"
+    ordenDeBloques.forEach(bloque => {
+        const estado = bloque["Estado Candidatura"];
+        
+        // Solo crear una sección si hay candidaturas para ese estado
+        if (agrupadasPorEstado[estado]) {
+            // Crear un nuevo elemento sección para cada estado
+            const seccion = document.createElement('section');
 
-                // Agregar las URLs
-                const urlsDiv = document.createElement('div');
-                urlsDiv.classList.add('urls');
-                candidatura.URLs.forEach(urlData => {
+            // Crear el encabezado con el nombre del estado
+            const encabezado = document.createElement('h2');
+            encabezado.textContent = estado;
+            seccion.appendChild(encabezado);
+
+            // Crear una lista de las candidaturas bajo ese estado
+            const lista = document.createElement('ul');
+            agrupadasPorEstado[estado].forEach(candidatura => {
+                const item = document.createElement('li');
+                const fechaNombre = `${candidatura.Fecha} - ${candidatura.Nombre}`;
+                item.innerHTML = `<strong>${fechaNombre}</strong>`;
+                
+                // Agregar las URLs de cada candidatura
+                candidatura.URLs.forEach(url => {
                     const enlace = document.createElement('a');
-                    enlace.href = urlData.url;
-                    enlace.textContent = urlData["Nombre Enlace"];
-                    enlace.target = "_blank"; // Para abrir en una nueva pestaña
-                    urlsDiv.appendChild(enlace);
-                    const nota = document.createElement('p');
-					if (urlData.Nota != "") 
-					{
-                    nota.textContent = `Nota: ${urlData.Nota}`;
-					}
-                    urlsDiv.appendChild(nota);
+                    enlace.href = url.url;
+                    enlace.textContent = url["Nombre Enlace"];
+                    const nota = url.Nota ? ` - ${url.Nota}` : '';
+                    item.innerHTML += `<br><a href="${url.url}">${url["Nombre Enlace"]}</a>${nota}`;
                 });
 
-                candidaturaDiv.appendChild(urlsDiv);
-                sectionElement.appendChild(candidaturaDiv);
-            }
-        });
-    } catch (error) {
-        console.error('Error al cargar las candidaturas:', error);
-    }
-}
+                lista.appendChild(item);
+            });
 
-// Llamar a la función al cargar la página
-document.addEventListener('DOMContentLoaded', cargarCandidaturas);
+            seccion.appendChild(lista);
+            contenedor.appendChild(seccion);
+        }
+    });
+}

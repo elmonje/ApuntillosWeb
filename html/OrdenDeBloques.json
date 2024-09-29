@@ -1,0 +1,53 @@
+[
+  {
+    "Estado Candidatura": "Pendiente publicacion BOE",
+    "Orden": 1
+  },
+  {
+    "Estado Candidatura": "Publicado en el BOCAM",
+    "Orden": 2
+  },
+  {
+    "Estado Candidatura": "Publicado en el BOE",
+    "Orden": 3
+  },
+  {
+    "Estado Candidatura": "Revisa Web Ayuntamiento",
+    "Orden": 4
+  },    
+  {
+    "Estado Candidatura": "Apuntado",
+    "Orden": 5
+  },
+  {
+    "Estado Candidatura": "En lista de admitidos",
+    "Orden": 6
+  },
+  {
+    "Estado Candidatura": "A la espera de notas",
+    "Orden": 7
+  },
+  {
+    "Estado Candidatura": "Aprobado Fase 1",
+    "Orden": 8
+  },
+  {
+    "Estado Candidatura": "Lista de Interinos",
+    "Orden": 9
+  },
+  {
+    "Estado Candidatura": "Proceso Terminado",
+    "Orden": 10
+  },
+  {
+    "Estado Candidatura": "Recopilacion de examenes",
+    "Orden": 11
+  },
+  {
+    "Estado Candidatura": "Otros enlaces",
+    "Orden": 12
+  }
+
+]
+
+

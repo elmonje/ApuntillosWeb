@@ -213,5 +213,59 @@
 "Nota": ""
 }
 ]
+},
+{
+"Nombre": "LEGANES",
+"Fecha": "09/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 13,
+"URLs": [
+{
+"url": "https://www.leganes.org/proceso-selectivos",
+"Nombre Enlace": "Proceso Selectivo",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "ALCORCON",
+"Fecha": "09/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 14,
+"URLs": [
+{
+"url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
+"Nombre Enlace": "Proceso turno libre",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "BOADILLA DEL MONTE",
+"Fecha": "08/2024",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 15,
+"URLs": [
+{
+"url": "https://www.ayuntamientoboadilladelmonte.org/tu-ayuntamiento/oferta-de-empleo-publico?page=3",
+"Nombre Enlace": "Tu ayuntamiento",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
 }
 ]
