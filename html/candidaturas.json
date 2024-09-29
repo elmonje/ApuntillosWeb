@@ -1,0 +1,28 @@
+[
+    {
+        "Nombre": "Ayuntamiento San Martin de la Vega",
+        "Fecha": "30/11/2023",
+        "Estado Candidatura": "Apuntado",
+        "Orden": 1,
+        "URLs": [
+            {
+                "url": "https://mostoles.convoca.online/processDetail.html?id=6fdd0674-8ef4-40a2-081a-08dbd45af903&type=0",
+                "Nombre Enlace": "Enlace Plaza Mostoles",
+                "Nota": "Buscar por Pruebas selectivas de ingreso al Cuerpo Facultativo de Técnicos en Informática, Escala Ejecutiva."
+            }
+        ]
+    },
+    {
+        "Nombre": "Ayuntamiento de Madrid",
+        "Fecha": "15/12/2023",
+        "Estado Candidatura": "A la espera de notas",
+        "Orden": 2,
+        "URLs": [
+            {
+                "url": "https://madrid.convoca.online/processDetail.html?id=abc123&type=1",
+                "Nombre Enlace": "Enlace Madrid",
+                "Nota": "Información sobre pruebas selectivas en Madrid."
+            }
+        ]
+    }
+]
