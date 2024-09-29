@@ -8,6 +8,7 @@ async function cargarCandidaturas() {
         candidaturas.sort((a, b) => a.Orden - b.Orden);
 
         // Mapeo de secciones a los identificadores de sus respectivos divs
+        // Mapeo de secciones a los identificadores de sus respectivos divs
         const secciones = {
             "Apuntado": "apuntado-list",
             "En lista de admitidos": "en-lista-admitidos-list",
@@ -43,9 +44,11 @@ async function cargarCandidaturas() {
                     enlace.textContent = urlData["Nombre Enlace"];
                     enlace.target = "_blank"; // Para abrir en una nueva pestaña
                     urlsDiv.appendChild(enlace);
-
                     const nota = document.createElement('p');
+					if (urlData.Nota != "") 
+					{
                     nota.textContent = `Nota: ${urlData.Nota}`;
+					}
                     urlsDiv.appendChild(nota);
                 });
 

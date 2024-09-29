@@ -1,28 +1,217 @@
-[
-    {
-        "Nombre": "Ayuntamiento San Martin de la Vega",
-        "Fecha": "30/11/2023",
-        "Estado Candidatura": "Apuntado",
-        "Orden": 1,
-        "URLs": [
-            {
-                "url": "https://mostoles.convoca.online/processDetail.html?id=6fdd0674-8ef4-40a2-081a-08dbd45af903&type=0",
-                "Nombre Enlace": "Enlace Plaza Mostoles",
-                "Nota": "Buscar por Pruebas selectivas de ingreso al Cuerpo Facultativo de T√©cnicos en Inform√°tica, Escala Ejecutiva."
-            }
-        ]
-    },
-    {
-        "Nombre": "Ayuntamiento de Madrid",
-        "Fecha": "15/12/2023",
-        "Estado Candidatura": "A la espera de notas",
-        "Orden": 2,
-        "URLs": [
-            {
-                "url": "https://madrid.convoca.online/processDetail.html?id=abc123&type=1",
-                "Nombre Enlace": "Enlace Madrid",
-                "Nota": "Informaci√≥n sobre pruebas selectivas en Madrid."
-            }
-        ]
-    }
+[{
+"Nombre": "INAP",
+"Fecha": "30/11/2023",
+"Estado Candidatura": "Apuntado",
+"Orden": 1,
+"URLs": [
+{
+"url": "https://sede.inap.gob.es/es/gsil-2024",
+"Nombre Enlace": "GSI",
+"Nota": ""
+},
+{
+"url": "https://sede.inap.gob.es/es/tail-2024",
+"Nombre Enlace": "TAI",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Ayuntamiento San Martin de la Vega",
+"Fecha": "2024",
+"Estado Candidatura": "Lista de Interinos",
+"Orden": 2,
+"URLs": [
+{
+"url": "https://ayto-smv.es/tramites/tablon-virtual/empleo-publico/",
+"Nombre Enlace": "Procesos del Ayuntamiento",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Mostoles",
+"Fecha": "30/11/2023",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 3,
+"URLs": [
+{
+"url": "https://mostoles.convoca.online/processDetail.html?id=6fdd0674-8ef4-40a2-081a-08dbd45af903&type=0 ",
+"Nombre Enlace": "Ayuntamiento",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Asamblea de Madrid",
+"Fecha": "2024",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 4,
+"URLs": [
+{
+"url": "https://www.asambleamadrid.es/servicios/empleo#activos",
+"Nombre Enlace": "En Lista Admitidos, GRUPO C1",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Fuenlabrada - Estabilizacion",
+"Fecha": "25/09/2024",
+"Estado Candidatura": "Lista de Interinos",
+"Orden": 5,
+"URLs": [
+{
+"url": "https://convocapub.ayto-fuenlabrada.es/ofertaEmpleoPublicoCategoriaPublico/listPublicacionesConCategoria?categoria.id=332",
+"Nombre Enlace": "Fuenlabrada Tecnico Medio",
+"Nota": ""
+},
+{
+"url": "https://convocapub.ayto-fuenlabrada.es/documentoPublico/download/2952",
+"Nombre Enlace": "Lista de admitidos",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Comunidad de Madrid (Madrid Digital)",
+"Fecha": "2024",
+"Estado Candidatura": "Aprobado Fase 1",
+"Orden": 6,
+"URLs": [
+{
+"url": "https://sede.comunidad.madrid/oferta-empleo/perfiles-tic-madrid-digital",
+"Nombre Enlace": "Sede",
+"Nota": ""
+},
+{
+"url": "https://www.comunidad.madrid/servicios/empleo/procesos-selectivos-agencia-administracion-digital",
+"Nombre Enlace": "Proceso Selectivo",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "RecopilaciÛn de ex·menes",
+"Fecha": "2024",
+"Estado Candidatura": "Recopilacion de examenes",
+"Orden": 7,
+"URLs": [
+{
+"url": "http://www.baquedano.es/grupo_C.html",
+"Nombre Enlace": "Baquedano",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "IDAE",
+"Fecha": "2024",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 8,
+"URLs": [
+{
+"url": "https://www.idae.es/conozcanos/recursos-humanos/convocatorias/cobertura-de-22-plazas-de-distintos-perfiles",
+"Nombre Enlace": "Plazas",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Casa de la moneda",
+"Fecha": "2024",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 9,
+"URLs": [
+{
+"url": "https://www.fnmt.es/ofertas-de-empleo/ofertas-de-empleo-publico/-/asset_publisher/3eG4Ybwk4CDK/content/oe-17-24-analista-de-informatica?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_assetEntryId=11722458&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_redirect=https%3A%2F%2Fwww.fnmt.es%2Fofertas-de-empleo%2Fofertas-de-empleo-publico%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_assetEntryId%3D11722458",
+"Nombre Enlace": "Enlace",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "UPM",
+"Fecha": " 04/12/2023",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 10,
+"URLs": [
+{
+"url": "https://www.upm.es/Personal/PAS/PASFuncionario/ConcursosyOposiciones/AccesoLibre/SubgrupoA2?id=CON03238&fmt=detail ",
+"Nombre Enlace": "UPM",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "INAP ",
+"Fecha": "2023",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 11,
+"URLs": [
+{
+"url": "https://sede.inap.gob.es/gsil-oep-2020-2021-2022",
+"Nombre Enlace": "INAP",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Red.es ",
+"Fecha": "13/12/2023",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 12,
+"URLs": [
+{
+"url": "https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros",
+"Nombre Enlace": "trabaja-con-nosotros",
+"Nota": ""
+},
+{
+"url": "https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros#empleoindefinido",
+"Nombre Enlace": "Empleo Indefinido",
+"Nota": ""
+}
+]
+}
 ]
