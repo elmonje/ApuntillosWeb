@@ -14,7 +14,11 @@
   {
     "Estado Candidatura": "Revisa Web Ayuntamiento",
     "Orden": 4
-  },    
+  }, 
+  {
+    "Estado Candidatura": "Abierto Plazo de Inscripcion",
+    "Orden": 4
+  },  
   {
     "Estado Candidatura": "Apuntado",
     "Orden": 5

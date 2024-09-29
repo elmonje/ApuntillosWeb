@@ -267,5 +267,95 @@
 "Nota": ""
 }
 ]
+},
+{
+"Nombre": "Aranjuez",
+"Fecha": "02/10/2024",
+"Estado Candidatura": "Apuntado",
+"Orden": 16,
+"URLs": [
+{
+"url": "https://www.aranjuez.es/empleo/personal-laboral-temporal-bolsa-de-empleo/",
+"Nombre Enlace": "DIRECTOR DE INFORMÁTICA (BOLSA DE EMPLEO TEMPORAL)",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Majadahonda",
+"Fecha": "09/2024",
+"Estado Candidatura": "Revisa Web Ayuntamiento",
+"Orden": 17,
+"URLs": [
+{
+"url": "https://www.majadahonda.org/documents/36614/2184522/Operador+de+Servicios+Inform%C3%A1ticos-Bases+Espec%C3%ADficas.pdf/10651ce4-8a81-b82c-5898-86e7da6ebfcd",
+"Nombre Enlace": "Documento",
+"Nota": ""
+},
+{
+"url": "https://www.majadahonda.org/",
+"Nombre Enlace": "Web Ayuntamiento",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Politecnica",
+"Fecha": "09/2024",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 18,
+"URLs": [
+{
+"url": "https://www.upm.es/Personal/PAS/PASLaboral/ConcursosOposiciones/ContratacionTemporal/procesos",
+"Nombre Enlace": "UPM",
+"Nota": "Preguntar a Lily"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Metro Madrid",
+"Fecha": "08/10/2024",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 19,
+"URLs": [
+{
+"url": "https://www.metromadrid.es/es/oferta-empleo/tecnicoa-en-el-servicio-de-integracion-de-sistemas-del-area-de-comunicaciones-y-tecnologias-de-la-informacion",
+"Nombre Enlace": "Oferta",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Torrejon Tecnico de Ciberseguridad",
+"Fecha": "10/10/2024",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 20,
+"URLs": [
+{
+"url": "https://www.ayto-torrejon.es/concejalias/administracion/empleo-publico/ofertas-empleo-publico/turno-libre?page=0",
+"Nombre Enlace": "Oferta",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
 }
 ]
