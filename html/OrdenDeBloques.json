@@ -1,5 +1,9 @@
 [
   {
+    "Estado Candidatura": "Buscadores",
+    "Orden": 0
+  },
+  {
     "Estado Candidatura": "Pendiente publicacion BOE",
     "Orden": 1
   },

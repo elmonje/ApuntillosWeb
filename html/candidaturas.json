@@ -357,5 +357,41 @@
 "Nota": ""
 }
 ]
+},
+{
+"Nombre": "OpoBusca y Gob.es",
+"Fecha": "2024",
+"Estado Candidatura": "Buscadores",
+"Orden": 21,
+"URLs": [
+{
+"url": "https://www.opobusca.com/",
+"Nombre Enlace": "OpoBusca",
+"Nota": ""
+},
+{
+"url": "https://administracion.gob.es/pagFront/empleoBecas/empleo/buscadorEmpleo.htm",
+"Nombre Enlace": "gob.es",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Boletines",
+"Fecha": "2024",
+"Estado Candidatura": "Buscadores",
+"Orden": 22,
+"URLs": [
+{
+"url": "https://www.bocm.es/advanced-search",
+"Nombre Enlace": "BOCAM",
+"Nota": ""
+},
+{
+"url": "https://www.boe.es/buscar/personal.php",
+"Nombre Enlace": "BOE",
+"Nota": ""
+}
+]
 }
 ]

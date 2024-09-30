@@ -58,7 +58,7 @@ function mostrarCandidaturas(candidaturas, ordenDeBloques) {
                     enlace.href = url.url;
                     enlace.textContent = url["Nombre Enlace"];
                     const nota = url.Nota ? ` - ${url.Nota}` : '';
-                    item.innerHTML += `<br><a href="${url.url}">${url["Nombre Enlace"]}</a>${nota}`;
+                    item.innerHTML += `<br><a href="${url.url}" target="_blank">${url["Nombre Enlace"]}</a>${nota}`;
                 });
 
                 lista.appendChild(item);
