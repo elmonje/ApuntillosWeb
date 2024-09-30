@@ -393,5 +393,23 @@
 "Nota": ""
 }
 ]
+},
+{
+"Nombre": "Fuenlabra Segunda Convocatoria",
+"Fecha": "2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 23,
+"URLs": [
+{
+"url": "https://convocapub.ayto-fuenlabrada.es/ofertaEmpleoPublicoCategoriaPublico/listPublicacionesConCategoria?categoria.id=336",
+"Nombre Enlace": "Oferta",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
 }
 ]
