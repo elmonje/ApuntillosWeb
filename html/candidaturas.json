@@ -377,6 +377,24 @@
 ]
 },
 {
+"Nombre": "OpoBusca Madrid",
+"Fecha": "2024",
+"Estado Candidatura": "Buscadores",
+"Orden": 21,
+"URLs": [
+{
+"url": "https://www.opobusca.com/oposiciones/madrid",
+"Nombre Enlace": "OpoBusca Directo Madrid",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
 "Nombre": "Boletines",
 "Fecha": "2024",
 "Estado Candidatura": "Buscadores",
@@ -422,6 +440,42 @@
 "url": "https://www.majadahonda.org/oposicion-libre/-/asset_publisher/hT4RJ49u8NeC/content/-20241027-tecnico-informatico",
 "Nombre Enlace": "Oferta",
 "Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Politecnica",
+"Fecha": "14/10/2024",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 25,
+"URLs": [
+{
+"url": "https://www.opobusca.com/convocatorias/tecnico-auxiliar-de-informatica/universidad-politecnica-de-madrid/107870",
+"Nombre Enlace": "Enlace OpoBusca",
+"Nota": "GRUPO C1. Hasta el 14/10/2024!!"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Politecnica Laboratorios",
+"Fecha": " 14/10/2024",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 25,
+"URLs": [
+{
+"url": "https://www.opobusca.com/convocatorias/tecnico-auxiliar-de-informatica/universidad-politecnica-de-madrid/107871",
+"Nombre Enlace": "Enlace OpoBusca",
+"Nota": "GRUPO C1. Hasta el 14/10/2024!!"
 },
 {
 "url": "",
