@@ -1,31 +1,13 @@
 [{
-"Nombre": "INAP",
-"Fecha": "30/11/2023",
-"Estado Candidatura": "Apuntado",
-"Orden": 1,
+"Nombre": "Politecnica",
+"Fecha": "09/2024",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 18,
 "URLs": [
 {
-"url": "https://sede.inap.gob.es/es/gsil-2024",
-"Nombre Enlace": "GSI",
-"Nota": ""
-},
-{
-"url": "https://sede.inap.gob.es/es/tail-2024",
-"Nombre Enlace": "TAI",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Ayuntamiento San Martin de la Vega",
-"Fecha": "2024",
-"Estado Candidatura": "Lista de Interinos",
-"Orden": 2,
-"URLs": [
-{
-"url": "https://ayto-smv.es/tramites/tablon-virtual/empleo-publico/",
-"Nombre Enlace": "Procesos del Ayuntamiento",
-"Nota": ""
+"url": "https://www.upm.es/Personal/PAS/PASLaboral/ConcursosOposiciones/ContratacionTemporal/procesos",
+"Nombre Enlace": "UPM",
+"Nota": "Preguntar a Lily"
 },
 {
 "url": "",
@@ -35,15 +17,15 @@
 ]
 },
 {
-"Nombre": "Mostoles",
-"Fecha": "30/11/2023",
-"Estado Candidatura": "En lista de admitidos",
-"Orden": 3,
+"Nombre": "Politecnica",
+"Fecha": "14/10/2024",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 25,
 "URLs": [
 {
-"url": "https://mostoles.convoca.online/processDetail.html?id=6fdd0674-8ef4-40a2-081a-08dbd45af903&type=0 ",
-"Nombre Enlace": "Ayuntamiento",
-"Nota": ""
+"url": "https://www.opobusca.com/convocatorias/tecnico-auxiliar-de-informatica/universidad-politecnica-de-madrid/107870",
+"Nombre Enlace": "Enlace OpoBusca",
+"Nota": "GRUPO C1. Hasta el 14/10/2024!!"
 },
 {
 "url": "",
@@ -53,37 +35,19 @@
 ]
 },
 {
-"Nombre": "Asamblea de Madrid",
-"Fecha": "2024",
-"Estado Candidatura": "En lista de admitidos",
-"Orden": 4,
+"Nombre": "Politecnica Laboratorios",
+"Fecha": "14/10/2024",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 25,
 "URLs": [
 {
-"url": "https://www.asambleamadrid.es/servicios/empleo#activos",
-"Nombre Enlace": "En Lista Admitidos, GRUPO C1",
-"Nota": "Buscar, Pruebas selectivas de ingreso al Cuerpo Facultativo de Técnicos en Informática, Escala Ejecutiva."
+"url": "https://www.opobusca.com/convocatorias/tecnico-auxiliar-de-informatica/universidad-politecnica-de-madrid/107871",
+"Nombre Enlace": "Enlace OpoBusca",
+"Nota": "GRUPO C1. Hasta el 14/10/2024!!"
 },
 {
 "url": "",
 "Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Fuenlabrada - Estabilizacion",
-"Fecha": "25/09/2024",
-"Estado Candidatura": "Lista de Interinos",
-"Orden": 5,
-"URLs": [
-{
-"url": "https://convocapub.ayto-fuenlabrada.es/ofertaEmpleoPublicoCategoriaPublico/listPublicacionesConCategoria?categoria.id=332",
-"Nombre Enlace": "Fuenlabrada Tecnico Medio",
-"Nota": ""
-},
-{
-"url": "https://convocapub.ayto-fuenlabrada.es/documentoPublico/download/2952",
-"Nombre Enlace": "Lista de admitidos",
 "Nota": ""
 }
 ]
@@ -107,163 +71,19 @@
 ]
 },
 {
-"Nombre": "Recopilación de exámenes",
-"Fecha": "2024",
-"Estado Candidatura": "Recopilacion de examenes",
-"Orden": 7,
+"Nombre": "INAP",
+"Fecha": "30/11/2023",
+"Estado Candidatura": "Apuntado",
+"Orden": 1,
 "URLs": [
 {
-"url": "http://www.baquedano.es/grupo_C.html",
-"Nombre Enlace": "Baquedano",
+"url": "https://sede.inap.gob.es/es/gsil-2024",
+"Nombre Enlace": "GSI",
 "Nota": ""
 },
 {
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "IDAE",
-"Fecha": "2024",
-"Estado Candidatura": "Proceso Terminado",
-"Orden": 8,
-"URLs": [
-{
-"url": "https://www.idae.es/conozcanos/recursos-humanos/convocatorias/cobertura-de-22-plazas-de-distintos-perfiles",
-"Nombre Enlace": "Plazas",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Casa de la moneda",
-"Fecha": "2024",
-"Estado Candidatura": "Proceso Terminado",
-"Orden": 9,
-"URLs": [
-{
-"url": "https://www.fnmt.es/ofertas-de-empleo/ofertas-de-empleo-publico/-/asset_publisher/3eG4Ybwk4CDK/content/oe-17-24-analista-de-informatica?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_assetEntryId=11722458&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_redirect=https%3A%2F%2Fwww.fnmt.es%2Fofertas-de-empleo%2Fofertas-de-empleo-publico%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_assetEntryId%3D11722458",
-"Nombre Enlace": "Enlace",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "UPM",
-"Fecha": " 04/12/2023",
-"Estado Candidatura": "Proceso Terminado",
-"Orden": 10,
-"URLs": [
-{
-"url": "https://www.upm.es/Personal/PAS/PASFuncionario/ConcursosyOposiciones/AccesoLibre/SubgrupoA2?id=CON03238&fmt=detail ",
-"Nombre Enlace": "UPM",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "INAP ",
-"Fecha": "2023",
-"Estado Candidatura": "Proceso Terminado",
-"Orden": 11,
-"URLs": [
-{
-"url": "https://sede.inap.gob.es/gsil-oep-2020-2021-2022",
-"Nombre Enlace": "INAP",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Red.es ",
-"Fecha": "13/12/2023",
-"Estado Candidatura": "Proceso Terminado",
-"Orden": 12,
-"URLs": [
-{
-"url": "https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros",
-"Nombre Enlace": "trabaja-con-nosotros",
-"Nota": ""
-},
-{
-"url": "https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros#empleoindefinido",
-"Nombre Enlace": "Empleo Indefinido",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "LEGANES",
-"Fecha": "09/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 13,
-"URLs": [
-{
-"url": "https://www.leganes.org/proceso-selectivos",
-"Nombre Enlace": "Proceso Selectivo",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "ALCORCON",
-"Fecha": "09/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 14,
-"URLs": [
-{
-"url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
-"Nombre Enlace": "Proceso turno libre",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "BOADILLA DEL MONTE",
-"Fecha": "08/2024",
-"Estado Candidatura": "En lista de admitidos",
-"Orden": 15,
-"URLs": [
-{
-"url": "https://www.ayuntamientoboadilladelmonte.org/tu-ayuntamiento/oferta-de-empleo-publico?page=3",
-"Nombre Enlace": "Tu ayuntamiento",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
+"url": "https://sede.inap.gob.es/es/tail-2024",
+"Nombre Enlace": "TAI",
 "Nota": ""
 }
 ]
@@ -278,42 +98,6 @@
 "url": "https://www.aranjuez.es/empleo/personal-laboral-temporal-bolsa-de-empleo/",
 "Nombre Enlace": "DIRECTOR DE INFORMÁTICA (BOLSA DE EMPLEO TEMPORAL)",
 "Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Majadahonda Operador Informatico",
-"Fecha": "09/2024",
-"Estado Candidatura": "Revisa Web Ayuntamiento",
-"Orden": 17,
-"URLs": [
-{
-"url": "https://www.majadahonda.org/documents/36614/2184522/Operador+de+Servicios+Inform%C3%A1ticos-Bases+Espec%C3%ADficas.pdf/10651ce4-8a81-b82c-5898-86e7da6ebfcd",
-"Nombre Enlace": "Documento",
-"Nota": "Operador Servicios Informaticos"
-},
-{
-"url": "https://www.majadahonda.org/oposicion-libre/-/asset_publisher/hT4RJ49u8NeC/content/20240927-operador-de-servicios-informaticos",
-"Nombre Enlace": "Acceso a convocatoria",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Politecnica",
-"Fecha": "09/2024",
-"Estado Candidatura": "Abierto Plazo de Inscripcion",
-"Orden": 18,
-"URLs": [
-{
-"url": "https://www.upm.es/Personal/PAS/PASLaboral/ConcursosOposiciones/ContratacionTemporal/procesos",
-"Nombre Enlace": "UPM",
-"Nota": "Preguntar a Lily"
 },
 {
 "url": "",
@@ -413,6 +197,132 @@
 ]
 },
 {
+"Nombre": "Mostoles",
+"Fecha": "30/11/2023",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 3,
+"URLs": [
+{
+"url": "https://mostoles.convoca.online/processDetail.html?id=6fdd0674-8ef4-40a2-081a-08dbd45af903&type=0 ",
+"Nombre Enlace": "Ayuntamiento",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Asamblea de Madrid",
+"Fecha": "2024",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 4,
+"URLs": [
+{
+"url": "https://www.asambleamadrid.es/servicios/empleo#activos",
+"Nombre Enlace": "En Lista Admitidos, GRUPO C1",
+"Nota": "Buscar, Pruebas selectivas de ingreso al Cuerpo Facultativo de Técnicos en Informática, Escala Ejecutiva."
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "BOADILLA DEL MONTE",
+"Fecha": "08/2024",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 15,
+"URLs": [
+{
+"url": "https://www.ayuntamientoboadilladelmonte.org/tu-ayuntamiento/oferta-de-empleo-publico?page=3",
+"Nombre Enlace": "Tu ayuntamiento",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Ayuntamiento San Martin de la Vega",
+"Fecha": "2024",
+"Estado Candidatura": "Lista de Interinos",
+"Orden": 2,
+"URLs": [
+{
+"url": "https://ayto-smv.es/tramites/tablon-virtual/empleo-publico/",
+"Nombre Enlace": "Procesos del Ayuntamiento",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Fuenlabrada - Estabilizacion",
+"Fecha": "25/09/2024",
+"Estado Candidatura": "Lista de Interinos",
+"Orden": 5,
+"URLs": [
+{
+"url": "https://convocapub.ayto-fuenlabrada.es/ofertaEmpleoPublicoCategoriaPublico/listPublicacionesConCategoria?categoria.id=332",
+"Nombre Enlace": "Fuenlabrada Tecnico Medio",
+"Nota": ""
+},
+{
+"url": "https://convocapub.ayto-fuenlabrada.es/documentoPublico/download/2952",
+"Nombre Enlace": "Lista de admitidos",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "LEGANES",
+"Fecha": "09/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 13,
+"URLs": [
+{
+"url": "https://www.leganes.org/proceso-selectivos",
+"Nombre Enlace": "Proceso Selectivo",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "ALCORCON",
+"Fecha": "09/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 14,
+"URLs": [
+{
+"url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
+"Nombre Enlace": "Proceso turno libre",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
 "Nombre": "Fuenlabra Segunda Convocatoria",
 "Fecha": "2024",
 "Estado Candidatura": "Pendiente publicacion BOE",
@@ -431,6 +341,132 @@
 ]
 },
 {
+"Nombre": "IDAE",
+"Fecha": "2024",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 8,
+"URLs": [
+{
+"url": "https://www.idae.es/conozcanos/recursos-humanos/convocatorias/cobertura-de-22-plazas-de-distintos-perfiles",
+"Nombre Enlace": "Plazas",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Casa de la moneda",
+"Fecha": "2024",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 9,
+"URLs": [
+{
+"url": "https://www.fnmt.es/ofertas-de-empleo/ofertas-de-empleo-publico/-/asset_publisher/3eG4Ybwk4CDK/content/oe-17-24-analista-de-informatica?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_assetEntryId=11722458&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_redirect=https%3A%2F%2Fwww.fnmt.es%2Fofertas-de-empleo%2Fofertas-de-empleo-publico%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_assetEntryId%3D11722458",
+"Nombre Enlace": "Enlace",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "UPM",
+"Fecha": " 04/12/2023",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 10,
+"URLs": [
+{
+"url": "https://www.upm.es/Personal/PAS/PASFuncionario/ConcursosyOposiciones/AccesoLibre/SubgrupoA2?id=CON03238&fmt=detail ",
+"Nombre Enlace": "UPM",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "INAP ",
+"Fecha": "2023",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 11,
+"URLs": [
+{
+"url": "https://sede.inap.gob.es/gsil-oep-2020-2021-2022",
+"Nombre Enlace": "INAP",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Red.es ",
+"Fecha": "13/12/2023",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 12,
+"URLs": [
+{
+"url": "https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros",
+"Nombre Enlace": "trabaja-con-nosotros",
+"Nota": ""
+},
+{
+"url": "https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros#empleoindefinido",
+"Nombre Enlace": "Empleo Indefinido",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Recopilación de exámenes",
+"Fecha": "2024",
+"Estado Candidatura": "Recopilacion de examenes",
+"Orden": 7,
+"URLs": [
+{
+"url": "http://www.baquedano.es/grupo_C.html",
+"Nombre Enlace": "Baquedano",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Majadahonda Operador Informatico",
+"Fecha": "09/2024",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 17,
+"URLs": [
+{
+"url": "https://www.majadahonda.org/documents/36614/2184522/Operador+de+Servicios+Inform%C3%A1ticos-Bases+Espec%C3%ADficas.pdf/10651ce4-8a81-b82c-5898-86e7da6ebfcd",
+"Nombre Enlace": "Documento",
+"Nota": "Operador Servicios Informaticos, Hasta el 28/10/2024"
+},
+{
+"url": "https://www.majadahonda.org/oposicion-libre/-/asset_publisher/hT4RJ49u8NeC/content/20240927-operador-de-servicios-informaticos",
+"Nombre Enlace": "Acceso a convocatoria",
+"Nota": ""
+}
+]
+},
+{
 "Nombre": "Majadahonda tecnico informatico",
 "Fecha": "2024",
 "Estado Candidatura": "Revisa Web Ayuntamiento",
@@ -440,42 +476,6 @@
 "url": "https://www.majadahonda.org/oposicion-libre/-/asset_publisher/hT4RJ49u8NeC/content/-20241027-tecnico-informatico",
 "Nombre Enlace": "Oferta",
 "Nota": "Tecnico Informatico"
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Politecnica",
-"Fecha": "14/10/2024",
-"Estado Candidatura": "Abierto Plazo de Inscripcion",
-"Orden": 25,
-"URLs": [
-{
-"url": "https://www.opobusca.com/convocatorias/tecnico-auxiliar-de-informatica/universidad-politecnica-de-madrid/107870",
-"Nombre Enlace": "Enlace OpoBusca",
-"Nota": "GRUPO C1. Hasta el 14/10/2024!!"
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Politecnica Laboratorios",
-"Fecha": "14/10/2024",
-"Estado Candidatura": "Abierto Plazo de Inscripcion",
-"Orden": 25,
-"URLs": [
-{
-"url": "https://www.opobusca.com/convocatorias/tecnico-auxiliar-de-informatica/universidad-politecnica-de-madrid/107871",
-"Nombre Enlace": "Enlace OpoBusca",
-"Nota": "GRUPO C1. Hasta el 14/10/2024!!"
 },
 {
 "url": "",
