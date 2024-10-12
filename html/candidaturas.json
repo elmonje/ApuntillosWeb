@@ -1,4 +1,58 @@
 [{
+"Nombre": "Comunidad de Madrid (Madrid Digital)",
+"Fecha": "2024",
+"Estado Candidatura": "Aprobado Fase 1",
+"Orden": 6,
+"URLs": [
+{
+"url": "https://sede.comunidad.madrid/oferta-empleo/perfiles-tic-madrid-digital",
+"Nombre Enlace": "Sede",
+"Nota": ""
+},
+{
+"url": "https://www.comunidad.madrid/servicios/empleo/procesos-selectivos-agencia-administracion-digital",
+"Nombre Enlace": "Proceso Selectivo",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Aranjuez",
+"Fecha": "02/10/2024",
+"Estado Candidatura": "Apuntado",
+"Orden": 16,
+"URLs": [
+{
+"url": "https://www.aranjuez.es/empleo/personal-laboral-temporal-bolsa-de-empleo/",
+"Nombre Enlace": "DIRECTOR DE INFORMÁTICA (BOLSA DE EMPLEO TEMPORAL)",
+"Nota": "Sibgrupo A1."
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "INAP",
+"Fecha": "30/11/2023",
+"Estado Candidatura": "Apuntado",
+"Orden": 1,
+"URLs": [
+{
+"url": "https://sede.inap.gob.es/es/gsil-2024",
+"Nombre Enlace": "GSI",
+"Nota": ""
+},
+{
+"url": "https://sede.inap.gob.es/es/tail-2024",
+"Nombre Enlace": "TAI",
+"Nota": ""
+}
+]
+},
+{
 "Nombre": "Politecnica TÉCNICO ESPEC. I INFORMÁTICA",
 "Fecha": "14/10/2024",
 "Estado Candidatura": "Apuntado",
@@ -35,78 +89,6 @@
 ]
 },
 {
-"Nombre": "Comunidad de Madrid (Madrid Digital)",
-"Fecha": "2024",
-"Estado Candidatura": "Aprobado Fase 1",
-"Orden": 6,
-"URLs": [
-{
-"url": "https://sede.comunidad.madrid/oferta-empleo/perfiles-tic-madrid-digital",
-"Nombre Enlace": "Sede",
-"Nota": ""
-},
-{
-"url": "https://www.comunidad.madrid/servicios/empleo/procesos-selectivos-agencia-administracion-digital",
-"Nombre Enlace": "Proceso Selectivo",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "INAP",
-"Fecha": "30/11/2023",
-"Estado Candidatura": "Apuntado",
-"Orden": 1,
-"URLs": [
-{
-"url": "https://sede.inap.gob.es/es/gsil-2024",
-"Nombre Enlace": "GSI",
-"Nota": ""
-},
-{
-"url": "https://sede.inap.gob.es/es/tail-2024",
-"Nombre Enlace": "TAI",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Aranjuez",
-"Fecha": "02/10/2024",
-"Estado Candidatura": "Apuntado",
-"Orden": 16,
-"URLs": [
-{
-"url": "https://www.aranjuez.es/empleo/personal-laboral-temporal-bolsa-de-empleo/",
-"Nombre Enlace": "DIRECTOR DE INFORMÁTICA (BOLSA DE EMPLEO TEMPORAL)",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Metro Madrid",
-"Fecha": "08/10/2024",
-"Estado Candidatura": "En lista de admitidos",
-"Orden": 19,
-"URLs": [
-{
-"url": "https://www.metromadrid.es/es/oferta-empleo/tecnicoa-en-el-servicio-de-integracion-de-sistemas-del-area-de-comunicaciones-y-tecnologias-de-la-informacion",
-"Nombre Enlace": "Oferta",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
 "Nombre": "Torrejon Tecnico de Ciberseguridad",
 "Fecha": "10/10/2024",
 "Estado Candidatura": "Apuntado",
@@ -115,43 +97,7 @@
 {
 "url": "https://www.ayto-torrejon.es/concejalias/administracion/empleo-publico/ofertas-empleo-publico/turno-libre?page=0",
 "Nombre Enlace": "Oferta",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "OpoBusca y Gob.es",
-"Fecha": "2024",
-"Estado Candidatura": "Buscadores",
-"Orden": 21,
-"URLs": [
-{
-"url": "https://www.opobusca.com/",
-"Nombre Enlace": "OpoBusca",
-"Nota": ""
-},
-{
-"url": "https://administracion.gob.es/pagFront/empleoBecas/empleo/buscadorEmpleo.htm",
-"Nombre Enlace": "gob.es",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "OpoBusca Madrid",
-"Fecha": "2024",
-"Estado Candidatura": "Buscadores",
-"Orden": 21,
-"URLs": [
-{
-"url": "https://www.opobusca.com/oposiciones/madrid",
-"Nombre Enlace": "OpoBusca Directo Madrid",
-"Nota": ""
+"Nota": " Grupo A Subgrupo A1 "
 },
 {
 "url": "",
@@ -179,19 +125,37 @@
 ]
 },
 {
-"Nombre": "Mostoles",
-"Fecha": "30/11/2023",
-"Estado Candidatura": "En lista de admitidos",
-"Orden": 3,
+"Nombre": "OpoBusca Madrid",
+"Fecha": "2024",
+"Estado Candidatura": "Buscadores",
+"Orden": 21,
 "URLs": [
 {
-"url": "https://mostoles.convoca.online/processDetail.html?id=6fdd0674-8ef4-40a2-081a-08dbd45af903&type=0 ",
-"Nombre Enlace": "Ayuntamiento",
+"url": "https://www.opobusca.com/oposiciones/madrid",
+"Nombre Enlace": "OpoBusca Directo Madrid",
 "Nota": ""
 },
 {
 "url": "",
 "Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "OpoBusca y Gob.es",
+"Fecha": "2024",
+"Estado Candidatura": "Buscadores",
+"Orden": 21,
+"URLs": [
+{
+"url": "https://www.opobusca.com/",
+"Nombre Enlace": "OpoBusca",
+"Nota": ""
+},
+{
+"url": "https://administracion.gob.es/pagFront/empleoBecas/empleo/buscadorEmpleo.htm",
+"Nombre Enlace": "gob.es",
 "Nota": ""
 }
 ]
@@ -223,6 +187,42 @@
 {
 "url": "https://www.ayuntamientoboadilladelmonte.org/tu-ayuntamiento/oferta-de-empleo-publico?page=3",
 "Nombre Enlace": "Tu ayuntamiento",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Metro Madrid",
+"Fecha": "08/10/2024",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 19,
+"URLs": [
+{
+"url": "https://www.metromadrid.es/es/oferta-empleo/tecnicoa-en-el-servicio-de-integracion-de-sistemas-del-area-de-comunicaciones-y-tecnologias-de-la-informacion",
+"Nombre Enlace": "Oferta",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Mostoles",
+"Fecha": "30/11/2023",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 3,
+"URLs": [
+{
+"url": "https://mostoles.convoca.online/processDetail.html?id=6fdd0674-8ef4-40a2-081a-08dbd45af903&type=0 ",
+"Nombre Enlace": "Ayuntamiento",
 "Nota": ""
 },
 {
@@ -269,24 +269,6 @@
 ]
 },
 {
-"Nombre": "LEGANES",
-"Fecha": "09/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 13,
-"URLs": [
-{
-"url": "https://www.leganes.org/proceso-selectivos",
-"Nombre Enlace": "Proceso Selectivo",
-"Nota": "Grupo A, Subgrupo A1. Test, Preguntas Desarrollo y casos practicos"
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
 "Nombre": "ALCORCON",
 "Fecha": "09/2024",
 "Estado Candidatura": "Pendiente publicacion BOE",
@@ -323,15 +305,15 @@
 ]
 },
 {
-"Nombre": "IDAE",
-"Fecha": "2024",
-"Estado Candidatura": "Proceso Terminado",
-"Orden": 8,
+"Nombre": "LEGANES",
+"Fecha": "09/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 13,
 "URLs": [
 {
-"url": "https://www.idae.es/conozcanos/recursos-humanos/convocatorias/cobertura-de-22-plazas-de-distintos-perfiles",
-"Nombre Enlace": "Plazas",
-"Nota": ""
+"url": "https://www.leganes.org/proceso-selectivos",
+"Nombre Enlace": "Proceso Selectivo",
+"Nota": "Grupo A, Subgrupo A1. Test, Preguntas Desarrollo y casos practicos"
 },
 {
 "url": "",
@@ -359,14 +341,14 @@
 ]
 },
 {
-"Nombre": "UPM",
-"Fecha": " 04/12/2023",
+"Nombre": "IDAE",
+"Fecha": "2024",
 "Estado Candidatura": "Proceso Terminado",
-"Orden": 10,
+"Orden": 8,
 "URLs": [
 {
-"url": "https://www.upm.es/Personal/PAS/PASFuncionario/ConcursosyOposiciones/AccesoLibre/SubgrupoA2?id=CON03238&fmt=detail ",
-"Nombre Enlace": "UPM",
+"url": "https://www.idae.es/conozcanos/recursos-humanos/convocatorias/cobertura-de-22-plazas-de-distintos-perfiles",
+"Nombre Enlace": "Plazas",
 "Nota": ""
 },
 {
@@ -408,6 +390,24 @@
 {
 "url": "https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros#empleoindefinido",
 "Nombre Enlace": "Empleo Indefinido",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "UPM",
+"Fecha": " 04/12/2023",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 10,
+"URLs": [
+{
+"url": "https://www.upm.es/Personal/PAS/PASFuncionario/ConcursosyOposiciones/AccesoLibre/SubgrupoA2?id=CON03238&fmt=detail ",
+"Nombre Enlace": "UPM",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
 "Nota": ""
 }
 ]
