@@ -1,53 +1,35 @@
 [{
-"Nombre": "Politecnica",
-"Fecha": "09/2024",
-"Estado Candidatura": "Abierto Plazo de Inscripcion",
-"Orden": 18,
-"URLs": [
-{
-"url": "https://www.upm.es/Personal/PAS/PASLaboral/ConcursosOposiciones/ContratacionTemporal/procesos",
-"Nombre Enlace": "UPM",
-"Nota": "Preguntar a Lily"
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Politecnica",
+"Nombre": "Politecnica TÉCNICO ESPEC. I INFORMÁTICA",
 "Fecha": "14/10/2024",
-"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Estado Candidatura": "Apuntado",
 "Orden": 25,
 "URLs": [
 {
 "url": "https://www.opobusca.com/convocatorias/tecnico-auxiliar-de-informatica/universidad-politecnica-de-madrid/107870",
 "Nombre Enlace": "Enlace OpoBusca",
-"Nota": "GRUPO C1. Hasta el 14/10/2024!!"
+"Nota": "GRUPO C1. "
 },
 {
-"url": "",
-"Nombre Enlace": "",
+"url": "https://www.upm.es/Personal/PAS/PASLaboral/ConcursosOposiciones/AccesoLibre?id=CON13761&fmt=detail",
+"Nombre Enlace": "Convocatoria",
 "Nota": ""
 }
 ]
 },
 {
-"Nombre": "Politecnica Laboratorios",
+"Nombre": "Politecnica TITULADO PRIMER CICLO INFORMÁTICA B2",
 "Fecha": "14/10/2024",
-"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Estado Candidatura": "Apuntado",
 "Orden": 25,
 "URLs": [
 {
 "url": "https://www.opobusca.com/convocatorias/tecnico-auxiliar-de-informatica/universidad-politecnica-de-madrid/107871",
 "Nombre Enlace": "Enlace OpoBusca",
-"Nota": "GRUPO C1. Hasta el 14/10/2024!!"
+"Nota": "GRUPO B1."
 },
 {
-"url": "",
-"Nombre Enlace": "",
+"url": "https://www.upm.es/Personal/PAS/PASLaboral/ConcursosOposiciones/AccesoLibre?id=CON13761&fmt=detail",
+"Nombre Enlace": "Convocatoria",
 "Nota": ""
 }
 ]
@@ -295,7 +277,7 @@
 {
 "url": "https://www.leganes.org/proceso-selectivos",
 "Nombre Enlace": "Proceso Selectivo",
-"Nota": ""
+"Nota": "Grupo A, Subgrupo A1. Test, Preguntas Desarrollo y casos practicos"
 },
 {
 "url": "",
