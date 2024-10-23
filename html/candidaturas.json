@@ -447,5 +447,77 @@
 "Nota": ""
 }
 ]
+},
+{
+"Nombre": "Ayuntamiento de Madrid ",
+"Fecha": "2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 30,
+"URLs": [
+{
+"url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Medio-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2023-/?vgnextfmt=default&vgnextoid=917c781b1a40b810VgnVCM1000001d4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
+"Nombre Enlace": "Oferta Temario",
+"Nota": "A2  "
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Ayuntamiento de Madrid ",
+"Fecha": "2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 31,
+"URLs": [
+{
+"url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Superior-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2024-/?vgnextfmt=default&vgnextoid=2f7f732d74a82910VgnVCM2000001f4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
+"Nombre Enlace": "Oferta Temario",
+"Nota": "A1"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Ayuntamiento de Madrid ",
+"Fecha": "2024",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 32,
+"URLs": [
+{
+"url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Auxiliar-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2024-/?vgnextfmt=default&vgnextoid=a08053bd09acd810VgnVCM2000001f4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
+"Nombre Enlace": "Oferta Temario",
+"Nota": "C1"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Universidad Autonoma",
+"Fecha": "2024",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 33,
+"URLs": [
+{
+"url": "https://www.uam.es/uam/media/doc/1606965594302/ico260-bases-interinos-ee-basica-sis-y-ti.pdf",
+"Nombre Enlace": "Bases",
+"Nota": "Bolsa C1"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
 }
 ]
