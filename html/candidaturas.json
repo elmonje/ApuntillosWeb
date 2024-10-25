@@ -270,7 +270,7 @@
 },
 {
 "Nombre": "ALCORCON",
-"Fecha": "09/2024",
+"Fecha": "30/10/2024",
 "Estado Candidatura": "Abierto Plazo de Inscripcion",
 "Orden": 14,
 "URLs": [
@@ -432,7 +432,7 @@
 },
 {
 "Nombre": "Majadahonda tecnico informatico",
-"Fecha": "2024",
+"Fecha": "06/11/2024",
 "Estado Candidatura": "Abierto Plazo de Inscripcion",
 "Orden": 24,
 "URLs": [
@@ -450,7 +450,7 @@
 },
 {
 "Nombre": "Ayuntamiento de Madrid ",
-"Fecha": "2024",
+"Fecha": "21/11/2024",
 "Estado Candidatura": "Abierto Plazo de Inscripcion",
 "Orden": 32,
 "URLs": [
@@ -486,7 +486,7 @@
 },
 {
 "Nombre": "Ayuntamiento de Madrid ",
-"Fecha": "2024",
+"Fecha": "20/11/2024",
 "Estado Candidatura": "Abierto Plazo de Inscripcion",
 "Orden": 30,
 "URLs": [
@@ -504,18 +504,18 @@
 },
 {
 "Nombre": "Universidad Autonoma",
-"Fecha": "2024",
+"Fecha": "20/11/2024",
 "Estado Candidatura": "Abierto Plazo de Inscripcion",
 "Orden": 33,
 "URLs": [
 {
 "url": "https://www.uam.es/uam/media/doc/1606965594302/ico260-bases-interinos-ee-basica-sis-y-ti.pdf",
 "Nombre Enlace": "Bases",
-"Nota": "Bolsa C1"
+"Nota": "Bolsa C1 Plazo 20/11"
 },
 {
-"url": "",
-"Nombre Enlace": "",
+"url": "https://www.uam.es/uam/ptgas/concursos-oposiciones-bolsas/convocatoria-proceso-selectivo-lista-espera-funcionarios-interinos-escala-especial-tecnica-servicios-unidad-apoyo-docencia-2024",
+"Nombre Enlace": "Oferta",
 "Nota": ""
 }
 ]
