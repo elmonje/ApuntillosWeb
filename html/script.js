@@ -48,9 +48,17 @@ function mostrarCandidaturas(candidaturas, ordenDeBloques) {
             // Crear una lista de las candidaturas bajo ese estado
             const lista = document.createElement('ul');
             agrupadasPorEstado[estado].forEach(candidatura => {
+                //const item = document.createElement('li');
+                //const fechaNombre = `${candidatura.Fecha} - ${candidatura.Nombre}`;
+                //item.innerHTML = `<strong>${fechaNombre}</strong>`;
+
                 const item = document.createElement('li');
-                const fechaNombre = `${candidatura.Fecha} - ${candidatura.Nombre}`;
-                item.innerHTML = `<strong>${fechaNombre}</strong>`;
+                const fechaNombre = document.createElement('strong');
+                
+                // Asignar el texto directamente a `textContent`
+                fechaNombre.textContent = `${candidatura.Fecha} - ${candidatura.Nombre}`;
+                item.appendChild(fechaNombre);                
+                
                 
                 // Agregar las URLs de cada candidatura
                 candidatura.URLs.forEach(url => {
