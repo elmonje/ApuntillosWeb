@@ -53,6 +53,24 @@
 ]
 },
 {
+"Nombre": "Torrejon Tecnico de Ciberseguridad",
+"Fecha": "10/10/2024",
+"Estado Candidatura": "Apuntado",
+"Orden": 20,
+"URLs": [
+{
+"url": "https://www.ayto-torrejon.es/concejalias/administracion/empleo-publico/ofertas-empleo-publico/turno-libre?page=0",
+"Nombre Enlace": "Oferta",
+"Nota": "SUBGRUPO  A1 "
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
 "Nombre": "Politecnica TÉCNICO ESPEC. I INFORMÁTICA",
 "Fecha": "14/10/2024",
 "Estado Candidatura": "Apuntado",
@@ -74,7 +92,7 @@
 "Nombre": "Politecnica TITULADO PRIMER CICLO INFORMÁTICA B2",
 "Fecha": "14/10/2024",
 "Estado Candidatura": "Apuntado",
-"Orden": 25,
+"Orden": 26,
 "URLs": [
 {
 "url": "https://www.opobusca.com/convocatorias/tecnico-auxiliar-de-informatica/universidad-politecnica-de-madrid/107871",
@@ -84,24 +102,6 @@
 {
 "url": "https://www.upm.es/Personal/PAS/PASLaboral/ConcursosOposiciones/AccesoLibre?id=CON13761&fmt=detail",
 "Nombre Enlace": "Convocatoria",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Torrejon Tecnico de Ciberseguridad",
-"Fecha": "10/10/2024",
-"Estado Candidatura": "Apuntado",
-"Orden": 20,
-"URLs": [
-{
-"url": "https://www.ayto-torrejon.es/concejalias/administracion/empleo-publico/ofertas-empleo-publico/turno-libre?page=0",
-"Nombre Enlace": "Oferta",
-"Nota": "SUBGRUPO  A1 "
-},
-{
-"url": "",
-"Nombre Enlace": "",
 "Nota": ""
 }
 ]
@@ -269,15 +269,15 @@
 ]
 },
 {
-"Nombre": "ALCORCON",
-"Fecha": "30/10/2024",
+"Nombre": "Majadahonda tecnico informatico",
+"Fecha": "06/11/2024",
 "Estado Candidatura": "Apuntado",
-"Orden": 14,
+"Orden": 27,
 "URLs": [
 {
-"url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
-"Nombre Enlace": "Proceso turno libre",
-"Nota": "SUBGRUPO  A1, PLAZAS 1"
+"url": "https://www.majadahonda.org/oposicion-libre/-/asset_publisher/hT4RJ49u8NeC/content/-20241027-tecnico-informatico",
+"Nombre Enlace": "Oferta",
+"Nota": "SUBGRUPO C1, Dos ejercicios"
 },
 {
 "url": "",
@@ -431,64 +431,10 @@
 ]
 },
 {
-"Nombre": "Majadahonda tecnico informatico",
-"Fecha": "06/11/2024",
-"Estado Candidatura": "Apuntado",
-"Orden": 24,
-"URLs": [
-{
-"url": "https://www.majadahonda.org/oposicion-libre/-/asset_publisher/hT4RJ49u8NeC/content/-20241027-tecnico-informatico",
-"Nombre Enlace": "Oferta",
-"Nota": "SUBGRUPO C1, Dos ejercicios"
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Ayuntamiento de Madrid ",
-"Fecha": "21/11/2024",
-"Estado Candidatura": "Apuntado",
-"Orden": 33,
-"URLs": [
-{
-"url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Medio-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2023-/?vgnextfmt=default&vgnextoid=917c781b1a40b810VgnVCM1000001d4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
-"Nombre Enlace": "Oferta Temario",
-"Nota": "SUBGRUPO  A2 , PLAZAS 18"
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Ayuntamiento de Madrid ",
-"Fecha": "2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 31,
-"URLs": [
-{
-"url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Superior-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2024-/?vgnextfmt=default&vgnextoid=2f7f732d74a82910VgnVCM2000001f4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
-"Nombre Enlace": "Oferta Temario",
-"Nota": "A1"
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
 "Nombre": "Ayuntamiento de Madrid ",
 "Fecha": "20/11/2024",
 "Estado Candidatura": "Apuntado",
-"Orden": 30,
+"Orden": 28,
 "URLs": [
 {
 "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Auxiliar-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2024-/?vgnextfmt=default&vgnextoid=a08053bd09acd810VgnVCM2000001f4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
@@ -516,6 +462,60 @@
 {
 "url": "https://www.uam.es/uam/ptgas/concursos-oposiciones-bolsas/convocatoria-proceso-selectivo-lista-espera-funcionarios-interinos-escala-especial-tecnica-servicios-unidad-apoyo-docencia-2024",
 "Nombre Enlace": "Oferta",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Ayuntamiento de Madrid ",
+"Fecha": "2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 31,
+"URLs": [
+{
+"url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Superior-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2024-/?vgnextfmt=default&vgnextoid=2f7f732d74a82910VgnVCM2000001f4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
+"Nombre Enlace": "Oferta Temario",
+"Nota": "A1"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Ayuntamiento de Madrid ",
+"Fecha": "21/11/2024",
+"Estado Candidatura": "Apuntado",
+"Orden": 29,
+"URLs": [
+{
+"url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Medio-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2023-/?vgnextfmt=default&vgnextoid=917c781b1a40b810VgnVCM1000001d4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
+"Nombre Enlace": "Oferta Temario",
+"Nota": "SUBGRUPO  A2 , PLAZAS 18"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "ALCORCON",
+"Fecha": "30/10/2024",
+"Estado Candidatura": "Apuntado",
+"Orden": 34,
+"URLs": [
+{
+"url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
+"Nombre Enlace": "Proceso turno libre",
+"Nota": "SUBGRUPO  A1, PLAZAS 1"
+},
+{
+"url": "",
+"Nombre Enlace": "",
 "Nota": ""
 }
 ]
