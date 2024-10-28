@@ -62,11 +62,24 @@ function mostrarCandidaturas(candidaturas, ordenDeBloques) {
                 
                 // Agregar las URLs de cada candidatura
                 candidatura.URLs.forEach(url => {
+                    //const enlace = document.createElement('a');
+                    //enlace.href = url.url;
+                    //enlace.textContent = url["Nombre Enlace"];
+                    //const nota = url.Nota ? ` - ${url.Nota}` : '';
+                    //item.innerHTML += `<br><a href="${url.url}" target="_blank">${url["Nombre Enlace"]}</a>${nota}`;
+                    
                     const enlace = document.createElement('a');
                     enlace.href = url.url;
+                    enlace.target = "_blank";
                     enlace.textContent = url["Nombre Enlace"];
-                    const nota = url.Nota ? ` - ${url.Nota}` : '';
-                    item.innerHTML += `<br><a href="${url.url}" target="_blank">${url["Nombre Enlace"]}</a>${nota}`;
+                    item.appendChild(document.createElement('br')); // Agregar un salto de línea
+                    item.appendChild(enlace);
+
+                    if (url.Nota) {
+                        const notaTexto = document.createTextNode(` - ${url.Nota}`);
+                        item.appendChild(notaTexto); // Agregar la nota como texto plano
+                    }
+                    
                 });
 
                 lista.appendChild(item);
