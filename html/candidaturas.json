@@ -519,5 +519,41 @@
 "Nota": ""
 }
 ]
+},
+{
+"Nombre": "SAN SEBASTIÁN DE LOS REYES Redes y Ciberseguridad",
+"Fecha": "05/11/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 35,
+"URLs": [
+{
+"url": "https://www.bocm.es/bocm-20241105-92",
+"Nombre Enlace": "BOCAM",
+"Nota": "Grupo A, Subgrupo A2"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "SAN SEBASTIÁN DE LOS REYES Analista programador/a",
+"Fecha": "05/11/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 36,
+"URLs": [
+{
+"url": "https://www.bocm.es/bocm-20241105-91",
+"Nombre Enlace": "BOCAM",
+"Nota": "Grupo A, subgrupo A2"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
 }
 ]
