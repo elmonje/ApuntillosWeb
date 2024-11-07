@@ -555,5 +555,23 @@
 "Nota": ""
 }
 ]
+},
+{
+"Nombre": "Empleo Metro",
+"Fecha": "2024",
+"Estado Candidatura": "Buscadores",
+"Orden": 37,
+"URLs": [
+{
+"url": "https://www.metromadrid.es/es/empleo-metro",
+"Nombre Enlace": "Puestos",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
 }
 ]
