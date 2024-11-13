@@ -259,7 +259,7 @@
 {
 "url": "https://www.aranjuez.es/empleo/personal-laboral-temporal-bolsa-de-empleo/",
 "Nombre Enlace": "Personal laboral temporal bolsa de empleo",
-"Nota": "SUBGRUPO A1. Bolase de empleo Temporal"
+"Nota": "SUBGRUPO A1, Bolsa de empleo Temporal"
 },
 {
 "url": "",
@@ -516,6 +516,60 @@
 {
 "url": "https://www.uam.es/uam/ptgas/concursos-oposiciones-bolsas/convocatoria-proceso-selectivo-lista-espera-funcionarios-interinos-escala-especial-tecnica-servicios-unidad-apoyo-docencia-2024",
 "Nombre Enlace": "Oferta",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "SAN SEBASTIÁN DE LOS REYES Redes y Ciberseguridad",
+"Fecha": "05/11/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 35,
+"URLs": [
+{
+"url": "https://www.bocm.es/bocm-20241105-92",
+"Nombre Enlace": "BOCAM",
+"Nota": "Grupo A, Subgrupo A2"
+},
+{
+"url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286561",
+"Nombre Enlace": "Oferta",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "SAN SEBASTIÁN DE LOS REYES Analista programador/a",
+"Fecha": "05/11/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 36,
+"URLs": [
+{
+"url": "https://www.bocm.es/bocm-20241105-91",
+"Nombre Enlace": "BOCAM",
+"Nota": "Grupo A, subgrupo A2"
+},
+{
+"url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286599",
+"Nombre Enlace": "Oferta",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Empleo Metro",
+"Fecha": "2024",
+"Estado Candidatura": "Buscadores",
+"Orden": 37,
+"URLs": [
+{
+"url": "https://www.metromadrid.es/es/empleo-metro",
+"Nombre Enlace": "Puestos",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
 "Nota": ""
 }
 ]
