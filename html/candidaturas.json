@@ -413,24 +413,6 @@
 ]
 },
 {
-"Nombre": "ALCORCON - TÉCNICO/A DE SEGURIDAD INFORMÁTICA",
-"Fecha": "30/10/2024",
-"Estado Candidatura": "Apuntado",
-"Orden": 26,
-"URLs": [
-{
-"url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
-"Nombre Enlace": "Proceso turno libre",
-"Nota": "SUBGRUPO A1, 1 PLAZA"
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
 "Nombre": "Majadahonda - Tecnico informatico",
 "Fecha": "06/11/2024",
 "Estado Candidatura": "Apuntado",
@@ -467,10 +449,28 @@
 ]
 },
 {
+"Nombre": "Universidad Autonoma - Escala Especial Técnica de Servicios",
+"Fecha": "20/11/2024",
+"Estado Candidatura": "Apuntado",
+"Orden": 29,
+"URLs": [
+{
+"url": "https://www.uam.es/uam/media/doc/1606965594302/ico260-bases-interinos-ee-basica-sis-y-ti.pdf",
+"Nombre Enlace": "Bases",
+"Nota": "SUBGRUPO C1, Bolsa "
+},
+{
+"url": "https://www.uam.es/uam/ptgas/concursos-oposiciones-bolsas/convocatoria-proceso-selectivo-lista-espera-funcionarios-interinos-escala-especial-tecnica-servicios-unidad-apoyo-docencia-2024",
+"Nombre Enlace": "Oferta",
+"Nota": ""
+}
+]
+},
+{
 "Nombre": "Ayuntamiento de Madrid - Técnico/a Medio TIC",
 "Fecha": "21/11/2024",
 "Estado Candidatura": "Apuntado",
-"Orden": 29,
+"Orden": 31,
 "URLs": [
 {
 "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Medio-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2023-/?vgnextfmt=default&vgnextoid=917c781b1a40b810VgnVCM1000001d4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
@@ -488,7 +488,7 @@
 "Nombre": "Ayuntamiento de Madrid - Técnico/a Superior TIC",
 "Fecha": "28/11/2024",
 "Estado Candidatura": "Apuntado",
-"Orden": 31,
+"Orden": 32,
 "URLs": [
 {
 "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Superior-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2024-/?vgnextfmt=default&vgnextoid=2f7f732d74a82910VgnVCM2000001f4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
@@ -503,69 +503,15 @@
 ]
 },
 {
-"Nombre": "Universidad Autonoma - Escala Especial Técnica de Servicios",
-"Fecha": "20/11/2024",
+"Nombre": "ALCORCON - TÉCNICO/A DE SEGURIDAD INFORMÁTICA",
+"Fecha": "30/10/2024",
 "Estado Candidatura": "Apuntado",
-"Orden": 32,
+"Orden": 26,
 "URLs": [
 {
-"url": "https://www.uam.es/uam/media/doc/1606965594302/ico260-bases-interinos-ee-basica-sis-y-ti.pdf",
-"Nombre Enlace": "Bases",
-"Nota": "SUBGRUPO C1, Bolsa "
-},
-{
-"url": "https://www.uam.es/uam/ptgas/concursos-oposiciones-bolsas/convocatoria-proceso-selectivo-lista-espera-funcionarios-interinos-escala-especial-tecnica-servicios-unidad-apoyo-docencia-2024",
-"Nombre Enlace": "Oferta",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "SAN SEBASTIÁN DE LOS REYES Redes y Ciberseguridad",
-"Fecha": "05/11/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 35,
-"URLs": [
-{
-"url": "https://www.bocm.es/bocm-20241105-92",
-"Nombre Enlace": "BOCAM",
-"Nota": "Grupo A, Subgrupo A2"
-},
-{
-"url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286561",
-"Nombre Enlace": "Oferta",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "SAN SEBASTIÁN DE LOS REYES Analista programador/a",
-"Fecha": "05/11/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 36,
-"URLs": [
-{
-"url": "https://www.bocm.es/bocm-20241105-91",
-"Nombre Enlace": "BOCAM",
-"Nota": "Grupo A, subgrupo A2"
-},
-{
-"url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286599",
-"Nombre Enlace": "Oferta",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Empleo Metro",
-"Fecha": "2024",
-"Estado Candidatura": "Buscadores",
-"Orden": 37,
-"URLs": [
-{
-"url": "https://www.metromadrid.es/es/empleo-metro",
-"Nombre Enlace": "Puestos",
-"Nota": ""
+"url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
+"Nombre Enlace": "Proceso turno libre",
+"Nota": "SUBGRUPO A1, 1 PLAZA"
 },
 {
 "url": "",
