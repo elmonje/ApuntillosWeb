@@ -223,7 +223,7 @@
 {
 "url": "https://www.leganes.org/proceso-selectivos",
 "Nombre Enlace": "Proceso Selectivo",
-"Nota": "Subgrupo A1, 1 PLAZA, Test, Preguntas Desarrollo y casos practicos"
+"Nota": "SUBGRUPO A1, 1 PLAZA, Test, Preguntas Desarrollo y casos practicos"
 },
 {
 "url": "https://www.leganes.org/web/guest/turno-libre",
@@ -367,7 +367,7 @@
 {
 "url": "https://convocapub.ayto-fuenlabrada.es/ofertaEmpleoPublicoCategoriaPublico/listPublicacionesConCategoria?categoria.id=336",
 "Nombre Enlace": "Oferta",
-"Nota": "A2  "
+"Nota": "SUBGRUPO A2  "
 },
 {
 "url": "",
@@ -529,7 +529,7 @@
 {
 "url": "https://www.bocm.es/bocm-20241105-92",
 "Nombre Enlace": "BOCAM",
-"Nota": "Grupo A, Subgrupo A2"
+"Nota": "SUBGRUPO A2"
 },
 {
 "url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286561",
@@ -547,29 +547,11 @@
 {
 "url": "https://www.bocm.es/bocm-20241105-91",
 "Nombre Enlace": "BOCAM",
-"Nota": "Grupo A, subgrupo A2"
+"Nota": "SUBGRUPO A2"
 },
 {
 "url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286599",
 "Nombre Enlace": "Oferta",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Empleo Metro",
-"Fecha": "2024",
-"Estado Candidatura": "Buscadores",
-"Orden": 37,
-"URLs": [
-{
-"url": "https://www.metromadrid.es/es/empleo-metro",
-"Nombre Enlace": "Puestos",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
 "Nota": ""
 }
 ]
