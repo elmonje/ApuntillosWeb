@@ -573,23 +573,5 @@
 "Nota": ""
 }
 ]
-},
-{
-"Nombre": "Leganes - ANALISTA/PROGRAMADOR INFORMÁTICO",
-"Fecha": "15/11/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 50,
-"URLs": [
-{
-"url": "https://sede.leganes.org/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=TABLON#",
-"Nombre Enlace": "Anuncio en el tablon",
-"Nota": "SUBGRUPO C1, 3 PLAZAS"
-},
-{
-"url": "https://sede.leganes.org/sta/docs/GetDocumentServlet?CUD=15254017447347572547&HASH_CUD=0151ceca1a5c0a1769819c5bd161ff7e5e3ff8d8&APP_CODE=STA",
-"Nombre Enlace": "Bases",
-"Nota": ""
-}
-]
 }
 ]
