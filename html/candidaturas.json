@@ -583,7 +583,25 @@
 {
 "url": "https://www.leganes.org/web/guest/turno-libre",
 "Nombre Enlace": "Turno Libre",
-"Nota": "SUBGRUPO C1, 1 PLAZA"
+"Nota": "SUBGRUPO C1, 1 PLAZA Y BOLSA"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "UNIVERSIDAD AUTÓNOMA DE MADRID - Tecnico Procedimiento Porta Firmas Electronico",
+"Fecha": "21/11/2024",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 47,
+"URLs": [
+{
+"url": "https://www.uam.es/uam/ptgas/concursos-oposiciones-bolsas/pruebas-selectivas-ingreso-escala-especial-tecnica-de-sistemas-tecnologias-informacion-servicio-transformacion-digital-noviembre-2024",
+"Nombre Enlace": "Concovatoria",
+"Nota": "SUBGRUPO A2, 1 PLAZA"
 },
 {
 "url": "",
