@@ -438,7 +438,7 @@
 "URLs": [
 {
 "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Auxiliar-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2024-/?vgnextfmt=default&vgnextoid=a08053bd09acd810VgnVCM2000001f4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
-"Nombre Enlace": "Oferta Temario",
+"Nombre Enlace": "Convocatoria",
 "Nota": "SUBGRUPO C1, 9 PLAZAS"
 },
 {
@@ -494,6 +494,132 @@
 "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Superior-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2024-/?vgnextfmt=default&vgnextoid=2f7f732d74a82910VgnVCM2000001f4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
 "Nombre Enlace": "Convocatoria",
 "Nota": "SUBGRUPO A1, 12 Plazas"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "ALCORCON - TÉCNICO/A DE SEGURIDAD INFORMÁTICA",
+"Fecha": "30/10/2024",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 26,
+"URLs": [
+{
+"url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
+"Nombre Enlace": "Proceso turno libre",
+"Nota": "SUBGRUPO A1, 1 PLAZA"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "SAN SEBASTIÁN DE LOS REYES - Redes y Ciberseguridad",
+"Fecha": "05/11/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 35,
+"URLs": [
+{
+"url": "https://www.bocm.es/bocm-20241105-92",
+"Nombre Enlace": "BOCAM",
+"Nota": "SUBGRUPO A2"
+},
+{
+"url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286561",
+"Nombre Enlace": "Convocatoria",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "SAN SEBASTIÁN DE LOS REYES - Analista programador/a",
+"Fecha": "05/11/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 36,
+"URLs": [
+{
+"url": "https://www.bocm.es/bocm-20241105-91",
+"Nombre Enlace": "BOCAM",
+"Nota": "SUBGRUPO A2"
+},
+{
+"url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286599",
+"Nombre Enlace": "Convocatoria",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Empleo Metro",
+"Fecha": "2024",
+"Estado Candidatura": "Buscadores",
+"Orden": 37,
+"URLs": [
+{
+"url": "https://www.metromadrid.es/es/empleo-metro",
+"Nombre Enlace": "Puestos",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "LEGANÉS - Programador (OEP 2021)",
+"Fecha": "19/11/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 42,
+"URLs": [
+{
+"url": "https://www.leganes.org/web/guest/turno-libre",
+"Nombre Enlace": "Turno Libre",
+"Nota": "SUBGRUPO C1, 1 PLAZA Y BOLSA"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "UNIVERSIDAD AUTÓNOMA DE MADRID - Tecnico Procedimiento Porta Firmas Electronico",
+"Fecha": "21/11/2024",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 47,
+"URLs": [
+{
+"url": "https://www.uam.es/uam/ptgas/concursos-oposiciones-bolsas/pruebas-selectivas-ingreso-escala-especial-tecnica-de-sistemas-tecnologias-informacion-servicio-transformacion-digital-noviembre-2024",
+"Nombre Enlace": "Concovatoria",
+"Nota": "SUBGRUPO A2, 1 PLAZA - hasta el 17/12/2024"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Ayuntamiento de Getafe - Técnico/a informático",
+"Fecha": "21/11/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 52,
+"URLs": [
+{
+"url": "https://sede.getafe.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=PTS2_EMPLEO_EMPLEO",
+"Nombre Enlace": "Convocatoria",
+"Nota": "SUBGRUPO C1, 3 PLAZAS, Buscar: 2 funcionario carrera y 1 personal laboral fijo"
 },
 {
 "url": "",
