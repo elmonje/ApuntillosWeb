@@ -1,184 +1,4 @@
 ﻿[{
-"Nombre": "INAP",
-"Fecha": "30/11/2023",
-"Estado Candidatura": "En lista de admitidos",
-"Orden": 1,
-"URLs": [
-{
-"url": "https://sede.inap.gob.es/es/gsil-2024",
-"Nombre Enlace": "GSI",
-"Nota": ""
-},
-{
-"url": "https://sede.inap.gob.es/es/tail-2024",
-"Nombre Enlace": "TAI",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Ayuntamiento San Martin de la Vega",
-"Fecha": "2024",
-"Estado Candidatura": "Lista de Interinos",
-"Orden": 2,
-"URLs": [
-{
-"url": "https://ayto-smv.es/tramites/tablon-virtual/empleo-publico/",
-"Nombre Enlace": "Procesos del Ayuntamiento",
-"Nota": "En 2º Posicion"
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Mostoles - ANALISTA DE SISTEMAS",
-"Fecha": "30/11/2023",
-"Estado Candidatura": "En lista de admitidos",
-"Orden": 3,
-"URLs": [
-{
-"url": "https://mostoles.convoca.online/processDetail.html?id=6fdd0674-8ef4-40a2-081a-08dbd45af903&type=0 ",
-"Nombre Enlace": "Ayuntamiento",
-"Nota": "SUBGRUPO C1"
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Asamblea de Madrid",
-"Fecha": "2024",
-"Estado Candidatura": "En lista de admitidos",
-"Orden": 4,
-"URLs": [
-{
-"url": "https://www.asambleamadrid.es/servicios/empleo#activos",
-"Nombre Enlace": "En Lista Admitidos",
-"Nota": "SUBGRUPO C1, Buscar: Pruebas selectivas de ingreso al Cuerpo Facultativo de Técnicos en Informática, Escala Ejecutiva."
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Fuenlabrada - Estabilizacion",
-"Fecha": "25/09/2024",
-"Estado Candidatura": "Lista de Interinos",
-"Orden": 5,
-"URLs": [
-{
-"url": "https://convocapub.ayto-fuenlabrada.es/ofertaEmpleoPublicoCategoriaPublico/listPublicacionesConCategoria?categoria.id=332",
-"Nombre Enlace": "Fuenlabrada Tecnico Medio",
-"Nota": ""
-},
-{
-"url": "https://convocapub.ayto-fuenlabrada.es/documentoPublico/download/3448",
-"Nombre Enlace": "Bolsa",
-"Nota": "6º Posicion"
-}
-]
-},
-{
-"Nombre": "Comunidad de Madrid (Madrid Digital)",
-"Fecha": "2024",
-"Estado Candidatura": "Aprobado Fase 1",
-"Orden": 6,
-"URLs": [
-{
-"url": "https://sede.comunidad.madrid/oferta-empleo/perfiles-tic-madrid-digital",
-"Nombre Enlace": "Sede",
-"Nota": ""
-},
-{
-"url": "https://www.comunidad.madrid/servicios/empleo/procesos-selectivos-agencia-administracion-digital",
-"Nombre Enlace": "Proceso Selectivo",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Recopilación de exámenes",
-"Fecha": "2024",
-"Estado Candidatura": "Recopilacion de examenes",
-"Orden": 7,
-"URLs": [
-{
-"url": "http://www.baquedano.es/grupo_C.html",
-"Nombre Enlace": "Baquedano",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "IDAE",
-"Fecha": "2024",
-"Estado Candidatura": "Proceso Terminado",
-"Orden": 8,
-"URLs": [
-{
-"url": "https://www.idae.es/conozcanos/recursos-humanos/convocatorias/cobertura-de-22-plazas-de-distintos-perfiles",
-"Nombre Enlace": "Plazas",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Casa de la moneda",
-"Fecha": "2024",
-"Estado Candidatura": "Proceso Terminado",
-"Orden": 9,
-"URLs": [
-{
-"url": "https://www.fnmt.es/ofertas-de-empleo/ofertas-de-empleo-publico/-/asset_publisher/3eG4Ybwk4CDK/content/oe-17-24-analista-de-informatica?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_assetEntryId=11722458&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_redirect=https%3A%2F%2Fwww.fnmt.es%2Fofertas-de-empleo%2Fofertas-de-empleo-publico%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_assetEntryId%3D11722458",
-"Nombre Enlace": "Enlace",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "UPM",
-"Fecha": " 04/12/2023",
-"Estado Candidatura": "Proceso Terminado",
-"Orden": 10,
-"URLs": [
-{
-"url": "https://www.upm.es/Personal/PAS/PASFuncionario/ConcursosyOposiciones/AccesoLibre/SubgrupoA2?id=CON03238&fmt=detail ",
-"Nombre Enlace": "UPM",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
 "Nombre": "INAP ",
 "Fecha": "2023",
 "Estado Candidatura": "Proceso Terminado",
@@ -197,109 +17,19 @@
 ]
 },
 {
-"Nombre": "Red.es ",
-"Fecha": "13/12/2023",
-"Estado Candidatura": "Proceso Terminado",
-"Orden": 12,
+"Nombre": "Comunidad de Madrid (Madrid Digital)",
+"Fecha": "2024",
+"Estado Candidatura": "Aprobado Fase 1",
+"Orden": 6,
 "URLs": [
 {
-"url": "https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros",
-"Nombre Enlace": "trabaja-con-nosotros",
+"url": "https://sede.comunidad.madrid/oferta-empleo/perfiles-tic-madrid-digital",
+"Nombre Enlace": "Sede",
 "Nota": ""
 },
 {
-"url": "https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros#empleoindefinido",
-"Nombre Enlace": "Empleo Indefinido",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Leganes -TÉCNICO SUPERIOR EN INFORMÁTICA Y TELECOMUNICACIONES",
-"Fecha": "09/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 13,
-"URLs": [
-{
-"url": "https://www.leganes.org/proceso-selectivos",
+"url": "https://www.comunidad.madrid/servicios/empleo/procesos-selectivos-agencia-administracion-digital",
 "Nombre Enlace": "Proceso Selectivo",
-"Nota": "SUBGRUPO A1, 1 PLAZA, Test, Preguntas Desarrollo y casos practicos"
-},
-{
-"url": "https://www.leganes.org/web/guest/turno-libre",
-"Nombre Enlace": "Listado Turno Libre",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "BOADILLA DEL MONTE",
-"Fecha": "08/2024",
-"Estado Candidatura": "Proceso Terminado",
-"Orden": 15,
-"URLs": [
-{
-"url": "https://www.ayuntamientoboadilladelmonte.org/tu-ayuntamiento/oferta-de-empleo-publico?page=3",
-"Nombre Enlace": "Tu ayuntamiento",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "No logro entrar en la bolsa",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Aranjuez - DIRECTOR DE INFORMÁTICA",
-"Fecha": "02/10/2024",
-"Estado Candidatura": "Apuntado",
-"Orden": 16,
-"URLs": [
-{
-"url": "https://www.aranjuez.es/empleo/personal-laboral-temporal-bolsa-de-empleo/",
-"Nombre Enlace": "Personal laboral temporal bolsa de empleo",
-"Nota": "SUBGRUPO A1, Bolsa de empleo Temporal"
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Metro Madrid",
-"Fecha": "08/10/2024",
-"Estado Candidatura": "Proceso Terminado",
-"Orden": 19,
-"URLs": [
-{
-"url": "https://www.metromadrid.es/es/oferta-empleo/tecnicoa-en-el-servicio-de-integracion-de-sistemas-del-area-de-comunicaciones-y-tecnologias-de-la-informacion",
-"Nombre Enlace": "Oferta",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Torrejon - Tecnico de Ciberseguridad",
-"Fecha": "10/10/2024",
-"Estado Candidatura": "En lista de admitidos",
-"Orden": 20,
-"URLs": [
-{
-"url": "https://www.ayto-torrejon.es/concejalias/administracion/empleo-publico/ofertas-empleo-publico/turno-libre?page=0",
-"Nombre Enlace": "Oferta",
-"Nota": "SUBGRUPO A1 "
-},
-{
-"url": "",
-"Nombre Enlace": "",
 "Nota": ""
 }
 ]
@@ -359,7 +89,61 @@
 ]
 },
 {
-"Nombre": "Fuenlabra - Técnico/a Medio Informática - Segunda Convocatoria",
+"Nombre": "Empleo Metro",
+"Fecha": "2024",
+"Estado Candidatura": "Buscadores",
+"Orden": 37,
+"URLs": [
+{
+"url": "https://www.metromadrid.es/es/empleo-metro",
+"Nombre Enlace": "Puestos",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Asamblea de Madrid",
+"Fecha": "2024",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 4,
+"URLs": [
+{
+"url": "https://www.asambleamadrid.es/servicios/empleo#activos",
+"Nombre Enlace": "En Lista Admitidos",
+"Nota": "SUBGRUPO C1, Buscar: Pruebas selectivas de ingreso al Cuerpo Facultativo de Técnicos en Informática, Escala Ejecutiva."
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Ayuntamiento San Martin de la Vega",
+"Fecha": "2024",
+"Estado Candidatura": "Lista de Interinos",
+"Orden": 2,
+"URLs": [
+{
+"url": "https://ayto-smv.es/tramites/tablon-virtual/empleo-publico/",
+"Nombre Enlace": "Procesos del Ayuntamiento",
+"Nota": "En 2º Posicion"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "FUENLABRADA - Técnico/a Medio Informática - Segunda Convocatoria",
 "Fecha": "2024",
 "Estado Candidatura": "Pendiente publicacion BOE",
 "Orden": 23,
@@ -368,6 +152,168 @@
 "url": "https://convocapub.ayto-fuenlabrada.es/ofertaEmpleoPublicoCategoriaPublico/listPublicacionesConCategoria?categoria.id=336",
 "Nombre Enlace": "Convocatoria",
 "Nota": "SUBGRUPO A2  "
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "IDAE",
+"Fecha": "2024",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 8,
+"URLs": [
+{
+"url": "https://www.idae.es/conozcanos/recursos-humanos/convocatorias/cobertura-de-22-plazas-de-distintos-perfiles",
+"Nombre Enlace": "Plazas",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Casa de la moneda",
+"Fecha": "2024",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 9,
+"URLs": [
+{
+"url": "https://www.fnmt.es/ofertas-de-empleo/ofertas-de-empleo-publico/-/asset_publisher/3eG4Ybwk4CDK/content/oe-17-24-analista-de-informatica?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_assetEntryId=11722458&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_redirect=https%3A%2F%2Fwww.fnmt.es%2Fofertas-de-empleo%2Fofertas-de-empleo-publico%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_assetEntryId%3D11722458",
+"Nombre Enlace": "Enlace",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Recopilación de exámenes",
+"Fecha": "2024",
+"Estado Candidatura": "Recopilacion de examenes",
+"Orden": 7,
+"URLs": [
+{
+"url": "http://www.baquedano.es/grupo_C.html",
+"Nombre Enlace": "Baquedano",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "INAP",
+"Fecha": "30/11/2023",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 1,
+"URLs": [
+{
+"url": "https://sede.inap.gob.es/es/gsil-2024",
+"Nombre Enlace": "GSI",
+"Nota": ""
+},
+{
+"url": "https://sede.inap.gob.es/es/tail-2024",
+"Nombre Enlace": "TAI",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Mostoles - ANALISTA DE SISTEMAS",
+"Fecha": "30/11/2023",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 3,
+"URLs": [
+{
+"url": "https://mostoles.convoca.online/processDetail.html?id=6fdd0674-8ef4-40a2-081a-08dbd45af903&type=0 ",
+"Nombre Enlace": "Ayuntamiento",
+"Nota": "SUBGRUPO C1"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Red.es ",
+"Fecha": "13/12/2023",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 12,
+"URLs": [
+{
+"url": "https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros",
+"Nombre Enlace": "trabaja-con-nosotros",
+"Nota": ""
+},
+{
+"url": "https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros#empleoindefinido",
+"Nombre Enlace": "Empleo Indefinido",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Fuenlabrada - Estabilizacion",
+"Fecha": "25/09/2024",
+"Estado Candidatura": "Lista de Interinos",
+"Orden": 5,
+"URLs": [
+{
+"url": "https://convocapub.ayto-fuenlabrada.es/ofertaEmpleoPublicoCategoriaPublico/listPublicacionesConCategoria?categoria.id=332",
+"Nombre Enlace": "Fuenlabrada Tecnico Medio",
+"Nota": ""
+},
+{
+"url": "https://convocapub.ayto-fuenlabrada.es/documentoPublico/download/3448",
+"Nombre Enlace": "Bolsa",
+"Nota": "6º Posicion"
+}
+]
+},
+{
+"Nombre": "Aranjuez - DIRECTOR DE INFORMÁTICA",
+"Fecha": "02/10/2024",
+"Estado Candidatura": "Apuntado",
+"Orden": 16,
+"URLs": [
+{
+"url": "https://www.aranjuez.es/empleo/personal-laboral-temporal-bolsa-de-empleo/",
+"Nombre Enlace": "Personal laboral temporal bolsa de empleo",
+"Nota": "SUBGRUPO A1, Bolsa de empleo Temporal"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Torrejon - Tecnico de Ciberseguridad",
+"Fecha": "10/10/2024",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 20,
+"URLs": [
+{
+"url": "https://www.ayto-torrejon.es/concejalias/administracion/empleo-publico/ofertas-empleo-publico/turno-libre?page=0",
+"Nombre Enlace": "Oferta",
+"Nota": "SUBGRUPO A1 "
 },
 {
 "url": "",
@@ -407,6 +353,42 @@
 },
 {
 "url": "https://www.upm.es/Personal/PAS/PASLaboral/ConcursosOposiciones/AccesoLibre?id=CON13761&fmt=detail",
+"Nombre Enlace": "Convocatoria",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "SAN SEBASTIÁN DE LOS REYES - Redes y Ciberseguridad",
+"Fecha": "05/11/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 35,
+"URLs": [
+{
+"url": "https://www.bocm.es/bocm-20241105-92",
+"Nombre Enlace": "BOCAM",
+"Nota": "SUBGRUPO A2"
+},
+{
+"url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286561",
+"Nombre Enlace": "Convocatoria",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "SAN SEBASTIÁN DE LOS REYES - Analista programador/a",
+"Fecha": "05/11/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 36,
+"URLs": [
+{
+"url": "https://www.bocm.es/bocm-20241105-91",
+"Nombre Enlace": "BOCAM",
+"Nota": "SUBGRUPO A2"
+},
+{
+"url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286599",
 "Nombre Enlace": "Convocatoria",
 "Nota": ""
 }
@@ -503,15 +485,33 @@
 ]
 },
 {
-"Nombre": "ALCORCON - TÉCNICO/A DE SEGURIDAD INFORMÁTICA",
-"Fecha": "30/10/2024",
-"Estado Candidatura": "En lista de admitidos",
-"Orden": 26,
+"Nombre": "UPM",
+"Fecha": " 04/12/2023",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 10,
 "URLs": [
 {
-"url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
-"Nombre Enlace": "Proceso turno libre",
-"Nota": "SUBGRUPO A1, 1 PLAZA"
+"url": "https://www.upm.es/Personal/PAS/PASFuncionario/ConcursosyOposiciones/AccesoLibre/SubgrupoA2?id=CON03238&fmt=detail ",
+"Nombre Enlace": "UPM",
+"Nota": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "Metro Madrid",
+"Fecha": "08/10/2024",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 19,
+"URLs": [
+{
+"url": "https://www.metromadrid.es/es/oferta-empleo/tecnicoa-en-el-servicio-de-integracion-de-sistemas-del-area-de-comunicaciones-y-tecnologias-de-la-informacion",
+"Nombre Enlace": "Oferta",
+"Nota": ""
 },
 {
 "url": "",
@@ -521,55 +521,37 @@
 ]
 },
 {
-"Nombre": "SAN SEBASTIÁN DE LOS REYES - Redes y Ciberseguridad",
-"Fecha": "05/11/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 35,
+"Nombre": "BOADILLA DEL MONTE",
+"Fecha": "08/2024",
+"Estado Candidatura": "Proceso Terminado",
+"Orden": 15,
 "URLs": [
 {
-"url": "https://www.bocm.es/bocm-20241105-92",
-"Nombre Enlace": "BOCAM",
-"Nota": "SUBGRUPO A2"
-},
-{
-"url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286561",
-"Nombre Enlace": "Convocatoria",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "SAN SEBASTIÁN DE LOS REYES - Analista programador/a",
-"Fecha": "05/11/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 36,
-"URLs": [
-{
-"url": "https://www.bocm.es/bocm-20241105-91",
-"Nombre Enlace": "BOCAM",
-"Nota": "SUBGRUPO A2"
-},
-{
-"url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286599",
-"Nombre Enlace": "Convocatoria",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Empleo Metro",
-"Fecha": "2024",
-"Estado Candidatura": "Buscadores",
-"Orden": 37,
-"URLs": [
-{
-"url": "https://www.metromadrid.es/es/empleo-metro",
-"Nombre Enlace": "Puestos",
+"url": "https://www.ayuntamientoboadilladelmonte.org/tu-ayuntamiento/oferta-de-empleo-publico?page=3",
+"Nombre Enlace": "Tu ayuntamiento",
 "Nota": ""
 },
 {
 "url": "",
-"Nombre Enlace": "",
+"Nombre Enlace": "No logro entrar en la bolsa",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "LEGANÉS -TÉCNICO SUPERIOR EN INFORMÁTICA Y TELECOMUNICACIONES",
+"Fecha": "09/2024",
+"Estado Candidatura": "Pendiente publicacion BOE",
+"Orden": 41,
+"URLs": [
+{
+"url": "https://www.leganes.org/proceso-selectivos",
+"Nombre Enlace": "Proceso Selectivo",
+"Nota": "SUBGRUPO A1, 1 PLAZA, Test, Preguntas Desarrollo y casos practicos"
+},
+{
+"url": "https://www.leganes.org/web/guest/turno-libre",
+"Nombre Enlace": "Listado Turno Libre",
 "Nota": ""
 }
 ]
@@ -611,7 +593,7 @@
 ]
 },
 {
-"Nombre": "Ayuntamiento de Getafe - Técnico/a informático",
+"Nombre": "GETAFE - Técnico/a informático",
 "Fecha": "21/11/2024",
 "Estado Candidatura": "Pendiente publicacion BOE",
 "Orden": 52,
@@ -620,6 +602,24 @@
 "url": "https://sede.getafe.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=PTS2_EMPLEO_EMPLEO",
 "Nombre Enlace": "Buscador Convocatorias",
 "Nota": "SUBGRUPO C1, 3 PLAZAS, Buscar: 2 funcionario carrera y 1 personal laboral fijo"
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": ""
+}
+]
+},
+{
+"Nombre": "ALCORCON - TÉCNICO/A DE SEGURIDAD INFORMÁTICA",
+"Fecha": "30/10/2024",
+"Estado Candidatura": "En lista de admitidos",
+"Orden": 26,
+"URLs": [
+{
+"url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
+"Nombre Enlace": "Proceso turno libre",
+"Nota": "SUBGRUPO A1, 1 PLAZA"
 },
 {
 "url": "",
