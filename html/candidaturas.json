@@ -552,7 +552,7 @@
 {
 "url": "https://empleopublico.leganes.org/3a1a6642-38ac-48a3-ad56-7e013d2f1989/proceso-detalle",
 "Nombre Enlace": "Convocatoria",
-"Nota": ""
+"Nota": "Hasta el 23/01/2025"
 }
 ]
 },
@@ -570,7 +570,7 @@
 {
 "url": "https://empleopublico.leganes.org/ef57e392-162d-4c29-ab08-aa5f3af030da/proceso-detalle",
 "Nombre Enlace": "Convocatoria",
-"Nota": ""
+"Nota": "Hasta el 23/01/2025"
 }
 ]
 },
@@ -606,7 +606,7 @@
 {
 "url": "",
 "Nombre Enlace": "",
-"Nota": ""
+"Nota": "Publicado el 17/12 fecha fin +20 Dias naturales "
 }
 ]
 },
@@ -642,60 +642,6 @@
 {
 "url": "",
 "Nombre Enlace": "Plazo de presentación de solicitudes: del 8 de enero al 5 de febrero de 2024, ambos inclusive. ",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Paracuellos de Jarama - Técnico/a auxiliar de informática TIC, grupo/subgrupo C1",
-"Fecha": "12/10/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 62,
-"URLs": [
-{
-"url": "https://paracuellosdejarama.es/es/rrhh-convocatorias-oferta-empleo-publico-procesos-selectivos/1-plaza-tecnico-auxiliar-informatica",
-"Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO C1, 1 PLAZA"
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "Alcorcón - TÉCNICO/A DE INNOVACIÓN TECNOLÓGICA Y TELECOMUNICACIONES",
-"Fecha": "12/12/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 67,
-"URLs": [
-{
-"url": "https://www.bocm.es/bocm-20241212-51",
-"Nombre Enlace": "BOCAM",
-"Nota": "SUBGRUPO A2, 1 PLAZA Y BOLSA"
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": ""
-}
-]
-},
-{
-"Nombre": "UNIVERSIDAD AUTÓNOMA DE MADRID - Técnicoa Superior Informático, nivel 25, Escala Especial Técnica de Sistemas y Tecnologías de la información",
-"Fecha": "16/12/2024",
-"Estado Candidatura": "En lista de admitidos",
-"Orden": 70,
-"URLs": [
-{
-"url": "https://www.uam.es/uam/ptgas/concursos-oposiciones-bolsas/pruebas-selectivas-ingreso-escala-especial-tecnica-sistemas-tecnologias-informacion-tecnico-superior-informatico-marzo-2024",
-"Nombre Enlace": "Convocatoria",
-"Nota": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
 "Nota": ""
 }
 ]
