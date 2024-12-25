@@ -151,7 +151,7 @@
 {
 "url": "https://convocapub.ayto-fuenlabrada.es/ofertaEmpleoPublicoCategoriaPublico/listPublicacionesConCategoria?categoria.id=336",
 "Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO A2  - hasta el 29 de diciembre"
+"Nota": "SUBGRUPO A2  - hasta el 29/12/2024"
 },
 {
 "url": "",
@@ -542,7 +542,7 @@
 "Nombre": "LEGANÉS -TÉCNICO SUPERIOR EN INFORMÁTICA Y TELECOMUNICACIONES",
 "Fecha": "01/09/2024",
 "Estado Candidatura": "Abierto Plazo de Inscripcion",
-"Orden": 41,
+"Orden": 52,
 "URLs": [
 {
 "url": "https://www.leganes.org/proceso-selectivos",
@@ -596,7 +596,7 @@
 "Nombre": "GETAFE - Técnico/a informático",
 "Fecha": "21/11/2024",
 "Estado Candidatura": "Abierto Plazo de Inscripcion",
-"Orden": 52,
+"Orden": 41,
 "URLs": [
 {
 "url": "https://sede.getafe.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=PTS2_EMPLEO_EMPLEO",
@@ -606,7 +606,7 @@
 {
 "url": "",
 "Nombre Enlace": "",
-"Nota": "Publicado el 17/12 fecha fin +20 Dias naturales "
+"Nota": "Hasta el 06/01/2025"
 }
 ]
 },
@@ -642,7 +642,7 @@
 {
 "url": "",
 "Nombre Enlace": "Plazo de presentación de solicitudes: del 8 de enero al 5 de febrero de 2024, ambos inclusive. ",
-"Nota": ""
+"Nota": "Hasta el 04/02/2025"
 }
 ]
 },
