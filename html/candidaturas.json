@@ -7,7 +7,8 @@
 {
 "url": "https://sede.inap.gob.es/gsil-oep-2020-2021-2022",
 "Nombre Enlace": "INAP",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -26,7 +27,8 @@
 {
 "url": "https://sede.comunidad.madrid/oferta-empleo/perfiles-tic-madrid-digital",
 "Nombre Enlace": "Sede",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "https://www.comunidad.madrid/servicios/empleo/procesos-selectivos-agencia-administracion-digital",
@@ -45,7 +47,8 @@
 {
 "url": "https://www.opobusca.com/oposiciones/madrid",
 "Nombre Enlace": "OpoBusca Directo Madrid",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -64,7 +67,8 @@
 {
 "url": "https://www.opobusca.com/",
 "Nombre Enlace": "OpoBusca",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "https://administracion.gob.es/pagFront/empleoBecas/empleo/buscadorEmpleo.htm",
@@ -83,7 +87,8 @@
 {
 "url": "https://www.bocm.es/advanced-search",
 "Nombre Enlace": "BOCAM",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "https://www.boe.es/buscar/personal.php",
@@ -102,7 +107,8 @@
 {
 "url": "https://www.metromadrid.es/es/empleo-metro",
 "Nombre Enlace": "Puestos",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -121,7 +127,8 @@
 {
 "url": "https://www.asambleamadrid.es/servicios/empleo#activos",
 "Nombre Enlace": "En Lista Admitidos",
-"Nota": "SUBGRUPO C1, Buscar: Pruebas selectivas de ingreso al Cuerpo Facultativo de Técnicos en Informática, Escala Ejecutiva."
+"Nota": "SUBGRUPO C1, Buscar: Pruebas selectivas de ingreso al Cuerpo Facultativo de Técnicos en Informática, Escala Ejecutiva.",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -140,7 +147,8 @@
 {
 "url": "https://ayto-smv.es/tramites/tablon-virtual/empleo-publico/",
 "Nombre Enlace": "Procesos del Ayuntamiento",
-"Nota": "En 2º Posicion"
+"Nota": "En 2º Posicion",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -159,7 +167,8 @@
 {
 "url": "https://convocapub.ayto-fuenlabrada.es/ofertaEmpleoPublicoCategoriaPublico/listPublicacionesConCategoria?categoria.id=336",
 "Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO A2  - Hasta el 29/12/2024"
+"Nota": "SUBGRUPO A2  - Hasta el 29/12/2024",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -178,7 +187,8 @@
 {
 "url": "https://www.idae.es/conozcanos/recursos-humanos/convocatorias/cobertura-de-22-plazas-de-distintos-perfiles",
 "Nombre Enlace": "Plazas",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -197,7 +207,8 @@
 {
 "url": "https://www.fnmt.es/ofertas-de-empleo/ofertas-de-empleo-publico/-/asset_publisher/3eG4Ybwk4CDK/content/oe-17-24-analista-de-informatica?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_assetEntryId=11722458&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_redirect=https%3A%2F%2Fwww.fnmt.es%2Fofertas-de-empleo%2Fofertas-de-empleo-publico%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3eG4Ybwk4CDK_assetEntryId%3D11722458",
 "Nombre Enlace": "Enlace",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -216,7 +227,8 @@
 {
 "url": "http://www.baquedano.es/grupo_C.html",
 "Nombre Enlace": "Baquedano",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -235,7 +247,8 @@
 {
 "url": "https://sede.inap.gob.es/es/gsil-2024",
 "Nombre Enlace": "GSI",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "https://sede.inap.gob.es/es/tail-2024",
@@ -254,7 +267,8 @@
 {
 "url": "https://mostoles.convoca.online/processDetail.html?id=6fdd0674-8ef4-40a2-081a-08dbd45af903&type=0 ",
 "Nombre Enlace": "Ayuntamiento",
-"Nota": "SUBGRUPO C1"
+"Nota": "SUBGRUPO C1",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -273,7 +287,8 @@
 {
 "url": "https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros",
 "Nombre Enlace": "trabaja-con-nosotros",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "https://www.red.es/es/sobre-nosotros/trabaja-con-nosotros#empleoindefinido",
@@ -292,7 +307,8 @@
 {
 "url": "https://convocapub.ayto-fuenlabrada.es/ofertaEmpleoPublicoCategoriaPublico/listPublicacionesConCategoria?categoria.id=332",
 "Nombre Enlace": "Fuenlabrada Tecnico Medio",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "https://convocapub.ayto-fuenlabrada.es/documentoPublico/download/3448",
@@ -311,7 +327,8 @@
 {
 "url": "https://www.aranjuez.es/empleo/personal-laboral-temporal-bolsa-de-empleo/",
 "Nombre Enlace": "Personal laboral temporal bolsa de empleo",
-"Nota": "SUBGRUPO A1, Bolsa de empleo Temporal"
+"Nota": "SUBGRUPO A1, Bolsa de empleo Temporal",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -330,7 +347,8 @@
 {
 "url": "https://www.ayto-torrejon.es/concejalias/administracion/empleo-publico/ofertas-empleo-publico/turno-libre?page=0",
 "Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO A1 "
+"Nota": "SUBGRUPO A1 ",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -349,7 +367,8 @@
 {
 "url": "https://www.opobusca.com/convocatorias/tecnico-auxiliar-de-informatica/universidad-politecnica-de-madrid/107870",
 "Nombre Enlace": "Enlace OpoBusca",
-"Nota": "SUBGRUPO C1. "
+"Nota": "SUBGRUPO C1. ",
+"LineasIgnorar": ""
 },
 {
 "url": "https://www.upm.es/Personal/PAS/PASLaboral/ConcursosOposiciones/AccesoLibre?id=CON13761&fmt=detail",
@@ -368,7 +387,8 @@
 {
 "url": "https://www.opobusca.com/convocatorias/tecnico-auxiliar-de-informatica/universidad-politecnica-de-madrid/107871",
 "Nombre Enlace": "Enlace OpoBusca",
-"Nota": "SUBGRUPO B1."
+"Nota": "SUBGRUPO B1.",
+"LineasIgnorar": ""
 },
 {
 "url": "https://www.upm.es/Personal/PAS/PASLaboral/ConcursosOposiciones/AccesoLibre?id=CON13761&fmt=detail",
@@ -387,7 +407,8 @@
 {
 "url": "https://www.bocm.es/bocm-20241105-92",
 "Nombre Enlace": "BOCAM",
-"Nota": "SUBGRUPO A2"
+"Nota": "SUBGRUPO A2",
+"LineasIgnorar": ""
 },
 {
 "url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286561",
@@ -406,7 +427,8 @@
 {
 "url": "https://www.bocm.es/bocm-20241105-91",
 "Nombre Enlace": "BOCAM",
-"Nota": "SUBGRUPO A2"
+"Nota": "SUBGRUPO A2",
+"LineasIgnorar": ""
 },
 {
 "url": "https://www.ssreyes.org/procesos-abiertos/-/asset_publisher/sYXNGwr6Kz8Y/content/id/6286599",
@@ -425,7 +447,8 @@
 {
 "url": "https://www.majadahonda.org/oposicion-libre/-/asset_publisher/hT4RJ49u8NeC/content/-20241027-tecnico-informatico",
 "Nombre Enlace": "Oferta",
-"Nota": "SUBGRUPO C1, 1 PLAZA, Dos ejercicios, no me apunte correctamente"
+"Nota": "SUBGRUPO C1, 1 PLAZA, Dos ejercicios, no me apunte correctamente",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -444,7 +467,8 @@
 {
 "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Auxiliar-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2024-/?vgnextfmt=default&vgnextoid=a08053bd09acd810VgnVCM2000001f4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
 "Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO C1, 9 PLAZAS"
+"Nota": "SUBGRUPO C1, 9 PLAZAS",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -463,7 +487,8 @@
 {
 "url": "https://www.uam.es/uam/media/doc/1606965594302/ico260-bases-interinos-ee-basica-sis-y-ti.pdf",
 "Nombre Enlace": "Bases",
-"Nota": "SUBGRUPO C1, Bolsa "
+"Nota": "SUBGRUPO C1, Bolsa ",
+"LineasIgnorar": ""
 },
 {
 "url": "https://www.uam.es/uam/ptgas/concursos-oposiciones-bolsas/convocatoria-proceso-selectivo-lista-espera-funcionarios-interinos-escala-especial-basica-sistenas-y-tecnologias-informacion-2024",
@@ -482,7 +507,8 @@
 {
 "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Medio-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2023-/?vgnextfmt=default&vgnextoid=917c781b1a40b810VgnVCM1000001d4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
 "Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO A2, 18 PLAZAS "
+"Nota": "SUBGRUPO A2, 18 PLAZAS ",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -501,7 +527,8 @@
 {
 "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Buscador-de-oposiciones/Tecnico-a-Superior-TIC-del-Ayuntamiento-de-Madrid-turno-libre-2024-/?vgnextfmt=default&vgnextoid=2f7f732d74a82910VgnVCM2000001f4a900aRCRD&vgnextchannel=4ac5c5dee78fe410VgnVCM1000000b205a0aRCRD",
 "Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO A1, 12 Plazas"
+"Nota": "SUBGRUPO A1, 12 Plazas",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -520,7 +547,8 @@
 {
 "url": "https://www.upm.es/Personal/PAS/PASFuncionario/ConcursosyOposiciones/AccesoLibre/SubgrupoA2?id=CON03238&fmt=detail ",
 "Nombre Enlace": "UPM",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -539,7 +567,8 @@
 {
 "url": "https://www.metromadrid.es/es/oferta-empleo/tecnicoa-en-el-servicio-de-integracion-de-sistemas-del-area-de-comunicaciones-y-tecnologias-de-la-informacion",
 "Nombre Enlace": "Oferta",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -558,7 +587,8 @@
 {
 "url": "https://www.ayuntamientoboadilladelmonte.org/tu-ayuntamiento/oferta-de-empleo-publico?page=3",
 "Nombre Enlace": "Tu ayuntamiento",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -577,7 +607,8 @@
 {
 "url": "https://www.leganes.org/proceso-selectivos",
 "Nombre Enlace": "Proceso Selectivo",
-"Nota": "SUBGRUPO A1, 1 PLAZA, Test, Preguntas Desarrollo y casos practicos"
+"Nota": "SUBGRUPO A1, 1 PLAZA, Test, Preguntas Desarrollo y casos practicos",
+"LineasIgnorar": ""
 },
 {
 "url": "https://empleopublico.leganes.org/3a1a6642-38ac-48a3-ad56-7e013d2f1989/proceso-detalle",
@@ -596,7 +627,8 @@
 {
 "url": "https://www.leganes.org/web/guest/turno-libre",
 "Nombre Enlace": "Listado Turno Libre",
-"Nota": "SUBGRUPO C1, 1 PLAZA Y BOLSA"
+"Nota": "SUBGRUPO C1, 1 PLAZA Y BOLSA",
+"LineasIgnorar": ""
 },
 {
 "url": "https://empleopublico.leganes.org/ef57e392-162d-4c29-ab08-aa5f3af030da/proceso-detalle",
@@ -615,7 +647,8 @@
 {
 "url": "https://www.uam.es/uam/ptgas/concursos-oposiciones-bolsas/pruebas-selectivas-ingreso-escala-especial-tecnica-de-sistemas-tecnologias-informacion-servicio-transformacion-digital-noviembre-2024",
 "Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO A2, 1 PLAZA - hasta el 17/12/2024"
+"Nota": "SUBGRUPO A2, 1 PLAZA - hasta el 17/12/2024",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -634,7 +667,8 @@
 {
 "url": "https://sede.getafe.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=PTS2_EMPLEO_EMPLEO",
 "Nombre Enlace": "Buscador Convocatorias",
-"Nota": "SUBGRUPO C1, 3 PLAZAS, Buscar: 2 funcionario carrera y 1 personal laboral fijo"
+"Nota": "SUBGRUPO C1, 3 PLAZAS, Buscar: 2 funcionario carrera y 1 personal laboral fijo",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -653,7 +687,8 @@
 {
 "url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
 "Nombre Enlace": "Proceso turno libre",
-"Nota": "SUBGRUPO A1, 1 PLAZA"
+"Nota": "SUBGRUPO A1, 1 PLAZA",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -672,7 +707,8 @@
 {
 "url": "https://www.ucm.es/concurso-oposicion-libre-res-20112024-44",
 "Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO A2, 5 PLAZAS Y BOLSA"
+"Nota": "SUBGRUPO A2, 5 PLAZAS Y BOLSA",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -691,7 +727,8 @@
 {
 "url": "https://paracuellosdejarama.es/es/rrhh-convocatorias-oferta-empleo-publico-procesos-selectivos/1-plaza-tecnico-auxiliar-informatica",
 "Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO C1, 1 PLAZA"
+"Nota": "SUBGRUPO C1, 1 PLAZA",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -710,7 +747,8 @@
 {
 "url": "https://www.bocm.es/bocm-20241212-51",
 "Nombre Enlace": "BOCAM",
-"Nota": "SUBGRUPO A2, 1 PLAZA Y BOLSA"
+"Nota": "SUBGRUPO A2, 1 PLAZA Y BOLSA",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -729,7 +767,8 @@
 {
 "url": "https://www.uam.es/uam/ptgas/concursos-oposiciones-bolsas/pruebas-selectivas-ingreso-escala-especial-tecnica-sistemas-tecnologias-informacion-tecnico-superior-informatico-marzo-2024",
 "Nombre Enlace": "Convocatoria",
-"Nota": ""
+"Nota": "",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -748,7 +787,8 @@
 {
 "url": "https://www.bocm.es/bocm-20241223-15",
 "Nombre Enlace": "BOCAM",
-"Nota": "SUBGRUPO C1, 16 PLAZAS"
+"Nota": "SUBGRUPO C1, 16 PLAZAS",
+"LineasIgnorar": ""
 },
 {
 "url": "",
@@ -767,7 +807,8 @@
 {
 "url": "https://www.bocm.es/bocm-20241223-71",
 "Nombre Enlace": "BOCAM",
-"Nota": "SUBGRUPO C1, 4 PLAZAS"
+"Nota": "SUBGRUPO C1, 4 PLAZAS",
+"LineasIgnorar": ""
 },
 {
 "url": "",
