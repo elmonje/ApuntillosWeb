@@ -426,7 +426,7 @@
 "url": "https://convocapub.ayto-fuenlabrada.es/ofertaEmpleoPublicoCategoriaPublico/listPublicacionesConCategoria?categoria.id=336",
 "Nombre Enlace": "Convocatoria",
 "Nota": "SUBGRUPO A2  - Hasta el 29/12/2024",
-"LineasIgnorar": "",
+"LineasIgnorar": "47",
 "Comandos": ""
 },
 {
@@ -763,138 +763,6 @@
 "url": "https://empleopublico.leganes.org/3a1a6642-38ac-48a3-ad56-7e013d2f1989/proceso-detalle",
 "Nombre Enlace": "Convocatoria",
 "Nota": "Hasta el 23/01/2025",
-"LineasIgnorar": "",
-"Comandos": ""
-}
-]
-},
-{
-"Nombre": "La Universidad Complutense - Multiples puestos",
-"Fecha": "08/01/2025",
-"Estado Candidatura": "Abierto Plazo de Inscripcion",
-"Orden": 57,
-"URLs": [
-{
-"url": "https://www.ucm.es/concurso-oposicion-libre-res-20112024-44",
-"Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO A2, 5 PLAZAS Y BOLSA",
-"LineasIgnorar": "",
-"Comandos": ""
-},
-{
-"url": "",
-"Nombre Enlace": "Plazo de presentación de solicitudes: del 8 de enero al 5 de febrero de 2024, ambos inclusive. ",
-"Nota": "Hasta el 04/02/2025",
-"LineasIgnorar": "",
-"Comandos": ""
-}
-]
-},
-{
-"Nombre": "Paracuellos de Jarama - Técnico/a auxiliar de informática TIC, grupo/subgrupo C1",
-"Fecha": "12/10/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 62,
-"URLs": [
-{
-"url": "https://paracuellosdejarama.es/es/rrhh-convocatorias-oferta-empleo-publico-procesos-selectivos/1-plaza-tecnico-auxiliar-informatica",
-"Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO C1, 1 PLAZA",
-"LineasIgnorar": "",
-"Comandos": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": "",
-"LineasIgnorar": "",
-"Comandos": ""
-}
-]
-},
-{
-"Nombre": "Alcorcón - TÉCNICO/A DE INNOVACIÓN TECNOLÓGICA Y TELECOMUNICACIONES",
-"Fecha": "12/12/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 67,
-"URLs": [
-{
-"url": "https://www.bocm.es/bocm-20241212-51",
-"Nombre Enlace": "BOCAM",
-"Nota": "SUBGRUPO A2, 1 PLAZA Y BOLSA",
-"LineasIgnorar": "",
-"Comandos": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": "",
-"LineasIgnorar": "",
-"Comandos": ""
-}
-]
-},
-{
-"Nombre": "UNIVERSIDAD AUTÓNOMA DE MADRID - Técnicoa Superior Informático, nivel 25, Escala Especial Técnica de Sistemas y Tecnologías de la información",
-"Fecha": "16/12/2024",
-"Estado Candidatura": "En lista de admitidos",
-"Orden": 70,
-"URLs": [
-{
-"url": "https://www.uam.es/uam/ptgas/concursos-oposiciones-bolsas/pruebas-selectivas-ingreso-escala-especial-tecnica-sistemas-tecnologias-informacion-tecnico-superior-informatico-marzo-2024",
-"Nombre Enlace": "Convocatoria",
-"Nota": "",
-"LineasIgnorar": "",
-"Comandos": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": "",
-"LineasIgnorar": "",
-"Comandos": ""
-}
-]
-},
-{
-"Nombre": "UNIVERSIDAD REY JUAN CARLOS - Tecnico Auxiliar de Informatica",
-"Fecha": "23/12/2024",
-"Estado Candidatura": "Abierto Plazo de Inscripcion",
-"Orden": 75,
-"URLs": [
-{
-"url": "https://www.bocm.es/bocm-20241223-15",
-"Nombre Enlace": "BOCAM",
-"Nota": "SUBGRUPO C1, 16 PLAZAS",
-"LineasIgnorar": "",
-"Comandos": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": "",
-"LineasIgnorar": "",
-"Comandos": ""
-}
-]
-},
-{
-"Nombre": "Leganés - Analista/Programador Informatico",
-"Fecha": "23/12/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 80,
-"URLs": [
-{
-"url": "https://www.bocm.es/bocm-20241223-71",
-"Nombre Enlace": "BOCAM",
-"Nota": "SUBGRUPO C1, 4 PLAZAS",
-"LineasIgnorar": "",
-"Comandos": ""
-},
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": "",
 "LineasIgnorar": "",
 "Comandos": ""
 }
