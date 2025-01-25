@@ -698,7 +698,7 @@
 "Nombre Enlace": "BuscarConvocatoria",
 "Nota": "Hasta el 06/01/2025",
 "LineasIgnorar": "",
-"Comandos": ""
+"Comandos": "Tab,8;texto:2 funcionario carrera y 1 personal laboral fijo;Tab,5;enter,1;"
 }
 ]
 },
