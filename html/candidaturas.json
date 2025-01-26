@@ -551,7 +551,7 @@
 {
 "Nombre": "Ayuntamiento de Madrid - Técnico/a Auxiliar TIC",
 "Fecha": "20/11/2024",
-"Estado Candidatura": "Apuntado",
+"Estado Candidatura": "En lista de admitidos",
 "Orden": 29,
 "URLs": [
 {
@@ -562,9 +562,9 @@
 "Comandos": ""
 },
 {
-"url": "",
-"Nombre Enlace": "",
-"Nota": "",
+"url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Educacion-y-empleo/Empleo/Oposiciones/Prevision-de-bases-convocatorias-y-examenes/Prevision-de-examenes/?vgnextfmt=default&vgnextchannel=f198fe73a2161810VgnVCM1000001d4a900aRCRD",
+"Nombre Enlace": "Prevision de Examenes",
+"Nota": "Prevision de examenes 2025",
 "LineasIgnorar": "",
 "Comandos": ""
 }
@@ -573,7 +573,7 @@
 {
 "Nombre": "Ayuntamiento de Madrid - Técnico/a Medio TIC",
 "Fecha": "21/11/2024",
-"Estado Candidatura": "Apuntado",
+"Estado Candidatura": "En lista de admitidos",
 "Orden": 31,
 "URLs": [
 {
