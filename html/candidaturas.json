@@ -529,7 +529,7 @@
 {
 "Nombre": "Universidad Autonoma - Escala Especial Técnica de Servicios",
 "Fecha": "20/11/2024",
-"Estado Candidatura": "En lista de admitidos",
+"Estado Candidatura": "Proceso Terminado",
 "Orden": 28,
 "URLs": [
 {
@@ -826,8 +826,8 @@
 "Comandos": ""
 },
 {
-"url": "",
-"Nombre Enlace": "",
+"url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
+"Nombre Enlace": "Convocatoria",
 "Nota": "",
 "LineasIgnorar": "",
 "Comandos": ""
@@ -879,9 +879,9 @@
 ]
 },
 {
-"Nombre": "Leganés - Analista/Programador Informatico",
+"Nombre": "Leganés - Analista/Programador Informatico - Oferta de emple para el año",
 "Fecha": "23/12/2024",
-"Estado Candidatura": "Pendiente publicacion BOE",
+"Estado Candidatura": "Buscadores",
 "Orden": 80,
 "URLs": [
 {
@@ -929,16 +929,16 @@
 "Orden": 90,
 "URLs": [
 {
-"url": "https://sede-electronica.rivasciudad.es/oferta-empleo/tecnico-a-medio-de-informatica-y-sistemas-concurso-oposicion-turno-libre-no-ref-32662-2024/",
-"Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO A2, 1 PLAZA Y BOLSA",
+"url": "",
+"Nombre Enlace": "",
+"Nota": "",
 "LineasIgnorar": "",
 "Comandos": ""
 },
 {
-"url": "",
-"Nombre Enlace": "",
-"Nota": "",
+"url": "https://sede-electronica.rivasciudad.es/oferta-empleo/tecnico-a-medio-de-informatica-y-sistemas-concurso-oposicion-turno-libre-no-ref-32662-2024/",
+"Nombre Enlace": "Convocatoria",
+"Nota": "SUBGRUPO A2, 1 PLAZA Y BOLSA",
 "LineasIgnorar": "",
 "Comandos": ""
 }
