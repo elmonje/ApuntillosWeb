@@ -859,13 +859,14 @@
 {
 "Nombre": "UNIVERSIDAD REY JUAN CARLOS - Tecnico Auxiliar de Informatica",
 "Fecha": "23/12/2024",
-"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Estado Candidatura": "Apuntado",
 "Orden": 75,
 "URLs": [
 {
 "url": "https://www.bocm.es/bocm-20241223-15",
 "Nombre Enlace": "BOCAM",
-"Nota": "SUBGRUPO C1, 16 PLAZAS - Hasta el 4/02",
+"Nota": "SUBGRUPO C1, Realmente son 3 PLAZAS - Especialidad Desarrollo de 
+Aplicaciones web y Multiplataforma (acceso turno libre) ",
 "LineasIgnorar": "",
 "Comandos": ""
 },
@@ -917,28 +918,6 @@
 "url": "",
 "Nombre Enlace": "",
 "Nota": "",
-"LineasIgnorar": "",
-"Comandos": ""
-}
-]
-},
-{
-"Nombre": "Rivas Vaciamadrid - Técnico-a Medio de informática y sistemas - 14/02",
-"Fecha": "26/01/2025",
-"Estado Candidatura": "Pendiente publicacion BOE",
-"Orden": 90,
-"URLs": [
-{
-"url": "",
-"Nombre Enlace": "",
-"Nota": "",
-"LineasIgnorar": "",
-"Comandos": ""
-},
-{
-"url": "https://sede-electronica.rivasciudad.es/oferta-empleo/tecnico-a-medio-de-informatica-y-sistemas-concurso-oposicion-turno-libre-no-ref-32662-2024/",
-"Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO A2, 1 PLAZA Y BOLSA",
 "LineasIgnorar": "",
 "Comandos": ""
 }
