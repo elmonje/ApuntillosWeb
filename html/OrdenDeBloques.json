@@ -32,28 +32,32 @@
     "Orden": 6
   },
   {
-    "Estado Candidatura": "A la espera de notas",
+    "Estado Candidatura": "Con Fecha de Examen",
     "Orden": 7
-  },
+  },  
   {
-    "Estado Candidatura": "Aprobado Fase 1",
+    "Estado Candidatura": "A la espera de notas",
     "Orden": 8
   },
   {
-    "Estado Candidatura": "Lista de Interinos",
+    "Estado Candidatura": "Aprobado Fase 1",
     "Orden": 9
   },
   {
-    "Estado Candidatura": "Proceso Terminado",
+    "Estado Candidatura": "Lista de Interinos",
     "Orden": 10
   },
   {
-    "Estado Candidatura": "Recopilacion de examenes",
+    "Estado Candidatura": "Proceso Terminado",
     "Orden": 11
   },
   {
-    "Estado Candidatura": "Otros enlaces",
+    "Estado Candidatura": "Recopilacion de examenes",
     "Orden": 12
+  },
+  {
+    "Estado Candidatura": "Otros enlaces",
+    "Orden": 13
   }
 
 ]
