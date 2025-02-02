@@ -929,16 +929,16 @@
 "Orden": 90,
 "URLs": [
 {
-"url": "",
-"Nombre Enlace": "",
-"Nota": "",
+"url": "https://sede-electronica.rivasciudad.es/oferta-empleo/tecnico-a-medio-de-informatica-y-sistemas-concurso-oposicion-turno-libre-no-ref-32662-2024/",
+"Nombre Enlace": "Tecnico Medio",
+"Nota": "SUBGRUPO A2, 1 PLAZA Y BOLSA",
 "LineasIgnorar": "",
 "Comandos": ""
 },
 {
-"url": "https://sede-electronica.rivasciudad.es/oferta-empleo/tecnico-a-medio-de-informatica-y-sistemas-concurso-oposicion-turno-libre-no-ref-32662-2024/",
+"url": "https://rivasciudad.convoca.online/processDetail.html?id=0190a75c-411f-4897-9599-08dcdd2fb6c6&type=0",
 "Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO A2, 1 PLAZA Y BOLSA",
+"Nota": "",
 "LineasIgnorar": "",
 "Comandos": ""
 }
