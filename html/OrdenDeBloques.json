@@ -21,43 +21,43 @@
   }, 
   {
     "Estado Candidatura": "Abierto Plazo de Inscripcion",
-    "Orden": 4
+    "Orden": 5
   },  
   {
     "Estado Candidatura": "Apuntado",
-    "Orden": 5
-  },
-  {
-    "Estado Candidatura": "En lista de admitidos",
     "Orden": 6
   },
   {
-    "Estado Candidatura": "Con Fecha de Examen",
+    "Estado Candidatura": "En lista de admitidos",
     "Orden": 7
+  },
+  {
+    "Estado Candidatura": "Con Fecha de Examen",
+    "Orden": 8
   },  
   {
     "Estado Candidatura": "A la espera de notas",
-    "Orden": 8
-  },
-  {
-    "Estado Candidatura": "Aprobado Fase 1",
     "Orden": 9
   },
   {
-    "Estado Candidatura": "Lista de Interinos",
+    "Estado Candidatura": "Aprobado Fase 1",
     "Orden": 10
   },
   {
-    "Estado Candidatura": "Proceso Terminado",
+    "Estado Candidatura": "Lista de Interinos",
     "Orden": 11
   },
   {
-    "Estado Candidatura": "Recopilacion de examenes",
+    "Estado Candidatura": "Proceso Terminado",
     "Orden": 12
   },
   {
-    "Estado Candidatura": "Otros enlaces",
+    "Estado Candidatura": "Recopilacion de examenes",
     "Orden": 13
+  },
+  {
+    "Estado Candidatura": "Otros enlaces",
+    "Orden": 14
   }
 
 ]
