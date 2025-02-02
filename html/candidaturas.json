@@ -6,15 +6,15 @@
 "URLs": [
 {
 "url": "https://sede.inap.gob.es/es/gsil-2024",
-"Nombre Enlace": "GSI",
-"Nota": "",
+"Nombre Enlace": "Convocatoria",
+"Nota": "GSI",
 "LineasIgnorar": "",
 "Comandos": ""
 },
 {
 "url": "https://sede.inap.gob.es/es/tail-2024",
 "Nombre Enlace": "TAI",
-"Nota": "",
+"Nota": "TAI",
 "LineasIgnorar": "",
 "Comandos": ""
 }
@@ -490,7 +490,7 @@
 "URLs": [
 {
 "url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
-"Nombre Enlace": "Proceso turno libre",
+"Nombre Enlace": "BuscarConvocatoria",
 "Nota": "SUBGRUPO A1, 1 PLAZA",
 "LineasIgnorar": "",
 "Comandos": ""
