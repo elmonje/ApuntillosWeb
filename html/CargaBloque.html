@@ -4,12 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Filtrar Candidaturas</title>
-    <script defer src="scriptBloque.js"></script>
+    <script defer src="script.js"></script>
 </head>
 <body>
     <h1>Filtrar Candidaturas por Estado</h1>
 
-    <!-- Selector de estado -->
     <label for="estado">Selecciona un estado:</label>
     <select id="estado">
         <option value="">-- Selecciona --</option>
@@ -36,8 +35,9 @@
     <script>
         document.getElementById('estado').addEventListener('change', function () {
             const estadoSeleccionado = this.value;
-            window.location.search = estadoSeleccionado ? `?estado=${encodeURIComponent(estadoSeleccionado)}` : '';
+            window.location.href = `CargaBloque.html?estado=${encodeURIComponent(estadoSeleccionado)}`;
         });
     </script>
 </body>
 </html>
+
