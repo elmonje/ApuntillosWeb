@@ -8,16 +8,18 @@ Promise.all([
     fetch('OrdenDeBloques.json').then(response => response.json())
 ])
 .then(([candidaturas, ordenDeBloques]) => {
-    mostrarCandidaturasFiltradas(candidaturas, ordenDeBloques, estadoFiltrado);
+    if (estadoFiltrado) {
+        mostrarCandidaturasFiltradas(candidaturas, estadoFiltrado);
+    }
 })
 .catch(error => console.error('Error al cargar los archivos JSON:', error));
 
-// Función para mostrar solo las candidaturas filtradas por estado
-function mostrarCandidaturasFiltradas(candidaturas, ordenDeBloques, estadoFiltrado) {
+// Función para mostrar solo las candidaturas del estado seleccionado
+function mostrarCandidaturasFiltradas(candidaturas, estadoFiltrado) {
     const contenedor = document.getElementById('candidaturas');
     contenedor.innerHTML = ''; // Limpiar el contenido anterior
 
-    // Filtrar las candidaturas por el estado especificado
+    // Filtrar candidaturas por estado seleccionado
     const candidaturasFiltradas = candidaturas.filter(candidatura => candidatura["Estado Candidatura"] === estadoFiltrado);
 
     if (candidaturasFiltradas.length === 0) {
@@ -25,18 +27,16 @@ function mostrarCandidaturasFiltradas(candidaturas, ordenDeBloques, estadoFiltra
         return;
     }
 
-    // Ordenar las candidaturas por el campo "Orden"
+    // Ordenar por "Orden"
     candidaturasFiltradas.sort((a, b) => a.Orden - b.Orden);
 
     // Crear la sección para el estado filtrado
     const seccion = document.createElement('section');
-
-    // Crear el encabezado con el nombre del estado
     const encabezado = document.createElement('h2');
     encabezado.textContent = estadoFiltrado;
     seccion.appendChild(encabezado);
 
-    // Crear una lista de candidaturas
+    // Crear lista de candidaturas
     const lista = document.createElement('ul');
     candidaturasFiltradas.forEach(candidatura => {
         const item = document.createElement('li');
@@ -44,7 +44,7 @@ function mostrarCandidaturasFiltradas(candidaturas, ordenDeBloques, estadoFiltra
         fechaNombre.textContent = `${candidatura.Fecha} - ${candidatura.Nombre}`;
         item.appendChild(fechaNombre);
 
-        // Agregar las URLs de cada candidatura
+        // Agregar enlaces
         candidatura.URLs.forEach(url => {
             if (url.url) {
                 const enlace = document.createElement('a');
