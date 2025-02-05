@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filtrar Candidaturas</title>
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <h1>Filtrar Candidaturas por Estado</h1>
+
+    <!-- Selector de estado -->
+    <label for="estado">Selecciona un estado:</label>
+    <select id="estado">
+        <option value="">-- Selecciona --</option>
+        <option value="Buscadores">Buscadores</option>
+        <option value="Pendiente publicacion BOE">Pendiente publicación BOE</option>
+        <option value="Publicado en el BOCAM">Publicado en el BOCAM</option>
+        <option value="Publicado en el BOE">Publicado en el BOE</option>
+        <option value="Revisa Web Ayuntamiento">Revisa Web Ayuntamiento</option>
+        <option value="Abierto Plazo de Inscripcion">Abierto Plazo de Inscripción</option>
+        <option value="Apuntado">Apuntado</option>
+        <option value="En lista de admitidos">En lista de admitidos</option>
+        <option value="Con Fecha de Examen">Con Fecha de Examen</option>
+        <option value="A la espera de notas">A la espera de notas</option>
+        <option value="Aprobado Fase 1">Aprobado Fase 1</option>
+        <option value="Lista de Interinos">Lista de Interinos</option>
+        <option value="Proceso Terminado">Proceso Terminado</option>
+        <option value="Recopilacion de examenes">Recopilación de exámenes</option>
+        <option value="Otros enlaces">Otros enlaces</option>
+    </select>
+
+    <!-- Contenedor donde se mostrarán las candidaturas filtradas -->
+    <div id="candidaturas"></div>
+
+    <script>
+        document.getElementById('estado').addEventListener('change', function () {
+            const estadoSeleccionado = this.value;
+            window.location.search = estadoSeleccionado ? `?estado=${encodeURIComponent(estadoSeleccionado)}` : '';
+        });
+    </script>
+</body>
+</html>
