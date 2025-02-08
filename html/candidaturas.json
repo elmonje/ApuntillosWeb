@@ -955,7 +955,7 @@
 "Nombre Enlace": "BuscarConvocatoria",
 "Nota": "",
 "LineasIgnorar": "",
-"Comandos": "Tab,8;texto:"PROCESO SELECTIVO";Tab,5;texto:08-02-2025;Tab,1;texto:08-02-2025;Tab,3;enter,1;"
+"Comandos": "Tab,8;texto:PROCESO SELECTIVO;Tab,5;texto:08-02-2025;Tab,1;texto:08-02-2025;Tab,3;enter,1;"
 },
 {
 "url": "",
