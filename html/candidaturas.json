@@ -698,7 +698,7 @@
 "Nombre Enlace": "BuscarConvocatoria",
 "Nota": "Tengo que subsanar!",
 "LineasIgnorar": "",
-"Comandos": "Tab,8;texto:2 funcionario carrera y 1 personal laboral fijo;Tab,5;enter,1;"
+"Comandos": "Tab,5;texto:2 funcionario carrera y 1 personal laboral fijo;Tab,5;enter,1;"
 }
 ]
 },
