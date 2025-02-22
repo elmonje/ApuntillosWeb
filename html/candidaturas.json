@@ -965,5 +965,27 @@
 "Comandos": ""
 }
 ]
+},
+{
+"Nombre": "Noticias SMV",
+"Fecha": "09/02/2025",
+"Estado Candidatura": "Buscadores",
+"Orden": 100,
+"URLs": [
+{
+"url": "https://ayto-smv.es/noticias/page/2/",
+"Nombre Enlace": "Noticias",
+"Nota": "Noticias",
+"LineasIgnorar": "",
+"Comandos": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": "",
+"LineasIgnorar": "",
+"Comandos": ""
+}
+]
 }
 ]
