@@ -40,7 +40,7 @@ function mostrarCandidaturas(candidaturas, ordenDeBloques) {
             const urlsConvocatorias = [];
             agrupadasPorEstado[estado].forEach(candidatura => {
                 candidatura.URLs.forEach(url => {
-                    if (url["Nombre Enlace"] === "Convocatoria" && url.url) {
+                    if ((url["Nombre Enlace"] === "Convocatoria" || url["Nombre Enlace"] === "BuscarConvocatoria") && url.url) {
                         urlsConvocatorias.push(url.url);
                     }
                 });
@@ -49,7 +49,7 @@ function mostrarCandidaturas(candidaturas, ordenDeBloques) {
             // Si hay convocatorias, añadir el botón
             if (urlsConvocatorias.length > 0) {
                 const botonConvocatoria = document.createElement('button');
-                botonConvocatoria.textContent = "Convocatoria";
+                botonConvocatoria.textContent = "Abrir Convocatorias";
                 botonConvocatoria.style.marginLeft = "10px";
                 botonConvocatoria.onclick = () => {
                     urlsConvocatorias.forEach(url => {
