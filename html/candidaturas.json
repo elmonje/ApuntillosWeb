@@ -987,5 +987,27 @@
 "Comandos": ""
 }
 ]
+},
+{
+"Nombre": "Metro de Madrid - Técnico/a en el Servicio de Comunicaciones y Mantenimiento de Centros de Control del Área de Comunicaciones y Tecnologías de la Información",
+"Fecha": "13/03/2025",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 105,
+"URLs": [
+{
+"url": "https://www.metromadrid.es",
+"Nombre Enlace": "Convocatoria",
+"Nota": "SUBGRUPO A2, 1 PLAZA",
+"LineasIgnorar": "",
+"Comandos": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": "",
+"LineasIgnorar": "",
+"Comandos": ""
+}
+]
 }
 ]
