@@ -688,7 +688,7 @@
 "URLs": [
 {
 "url": "https://sede.getafe.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=PTS2_EMPLEO_EMPLEO",
-"Nombre Enlace": "Buscador Convocatorias - SUBSANAR!",
+"Nombre Enlace": "Buscador Convocatorias",
 "Nota": "SUBGRUPO C1, 3 PLAZAS, Buscar: 2 funcionario carrera y 1 personal laboral fijo",
 "LineasIgnorar": "481",
 "Comandos": ""
@@ -696,7 +696,7 @@
 {
 "url": "https://sede.getafe.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=PTS2_EMPLEO_EMPLEO",
 "Nombre Enlace": "BuscarConvocatoria",
-"Nota": "Tengo que subsanar!",
+"Nota": "",
 "LineasIgnorar": "",
 "Comandos": "Tab,5;texto:2 funcionario carrera y 1 personal laboral fijo;Tab,5;enter,1;"
 }
