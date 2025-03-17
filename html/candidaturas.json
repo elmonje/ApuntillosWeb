@@ -419,7 +419,7 @@
 {
 "Nombre": "FUENLABRADA - Técnico/a Medio Informática - Segunda Convocatoria ",
 "Fecha": "24/05/2024",
-"Estado Candidatura": "En lista de admitidos",
+"Estado Candidatura": "Con Fecha de Examen",
 "Orden": 23,
 "URLs": [
 {
@@ -991,13 +991,13 @@
 {
 "Nombre": "Metro de Madrid - Técnico/a en el Servicio de Comunicaciones y Mantenimiento de Centros de Control del Área de Comunicaciones y Tecnologías de la Información",
 "Fecha": "13/03/2025",
-"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Estado Candidatura": "Proceso Terminado",
 "Orden": 105,
 "URLs": [
 {
 "url": "https://www.metromadrid.es",
 "Nombre Enlace": "Convocatoria",
-"Nota": "SUBGRUPO A2, 1 PLAZA",
+"Nota": "SUBGRUPO A2, 1 PLAZA,piden experiencia en VOIP",
 "LineasIgnorar": "",
 "Comandos": ""
 },
