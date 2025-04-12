@@ -615,9 +615,9 @@
 ]
 },
 {
-"Nombre": "SAN SEBASTIÁN DE LOS REYES - Redes y Ciberseguridad - 25 de abril de 2025 ",
+"Nombre": "SAN SEBASTIÁN DE LOS REYES - Redes y Ciberseguridad ",
 "Fecha": "05/11/2024",
-"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Estado Candidatura": "Apuntado",
 "Orden": 35,
 "URLs": [
 {
@@ -1020,6 +1020,28 @@
 "url": "https://administracion.gob.es/pagFront/empleoBecas/empleo/buscadorEmpleo.htm",
 "Nombre Enlace": "Convocatoria",
 "Nota": "",
+"LineasIgnorar": "",
+"Comandos": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": "",
+"LineasIgnorar": "",
+"Comandos": ""
+}
+]
+},
+{
+"Nombre": "PLANIFICA MADRID - Técnico Especialista, especialidad Sistemas y Tecnologías de la Información",
+"Fecha": "04/12/2025",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 115,
+"URLs": [
+{
+"url": "https://planificamadrid.iformalia.es/Publico/Portal/Tablonanuncios.aspx?Tipo=w5ejsiePi%2fmaLy%2bhV2Lhp6bvZLWBFOP4UQMGhmgX8JjjdS2MnG7peg%3d%3d&itemid=LPzpt3BGMc4%3d&app=planificamadrid&fase=2",
+"Nombre Enlace": "Fase 2",
+"Nota": "SUBGRUPO A2, 1 PLAZA Y BOLSA",
 "LineasIgnorar": "",
 "Comandos": ""
 },
