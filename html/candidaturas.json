@@ -1046,8 +1046,30 @@
 "Comandos": ""
 },
 {
-"url": "",
-"Nombre Enlace": "",
+"url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/08/BOCM-20250408-5.PDF",
+"Nombre Enlace": "BOCAM",
+"Nota": "",
+"LineasIgnorar": "",
+"Comandos": ""
+}
+]
+},
+{
+"Nombre": "PLANIFICA MADRID - Técnico Especialista I (Grupo III, Nivel 6, Área A), Especialidad Sistemas y Tecnologías de la información",
+"Fecha": "04/12/2025",
+"Estado Candidatura": "Abierto Plazo de Inscripcion",
+"Orden": 120,
+"URLs": [
+{
+"url": "https://planificamadrid.iformalia.es/Publico/Portal/Tablonanuncios.aspx?Tipo=w5ejsiePi%2fmaLy%2bhV2Lhp6bvZLWBFOP4UQMGhmgX8JjjdS2MnG7peg%3d%3d&itemid=LPzpt3BGMc4%3d&app=planificamadrid&fase=2",
+"Nombre Enlace": "Fase 2",
+"Nota": "SUBGRUPO A2, 1 PLAZA Y BOLSA",
+"LineasIgnorar": "",
+"Comandos": ""
+},
+{
+"url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/08/BOCM-20250408-6.PDF",
+"Nombre Enlace": "BOCAM",
 "Nota": "",
 "LineasIgnorar": "",
 "Comandos": ""
