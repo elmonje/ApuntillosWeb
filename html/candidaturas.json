@@ -483,9 +483,9 @@
 ]
 },
 {
-"Nombre": "ALCORCON - TÉCNICO/A DE SEGURIDAD INFORMÁTICA - Lectura Segundo examen 10 de Abril",
+"Nombre": "ALCORCON - TÉCNICO/A DE SEGURIDAD INFORMÁTICA",
 "Fecha": "30/10/2024",
-"Estado Candidatura": "Con Fecha de Examen",
+"Estado Candidatura": "A la espera de notas",
 "Orden": 26,
 "URLs": [
 {
@@ -835,9 +835,9 @@
 ]
 },
 {
-"Nombre": "UNIVERSIDAD AUTÓNOMA DE MADRID - Técnicoa Superior Informático, nivel 25, Escala Especial Técnica de Sistemas y Tecnologías de la información",
+"Nombre": "UNIVERSIDAD AUTÓNOMA DE MADRID - Técnicoa Superior Informático, nivel 25, Escala Especial Técnica de Sistemas y Tecnologías de la información 6 Mayo",
 "Fecha": "16/12/2024",
-"Estado Candidatura": "En lista de admitidos",
+"Estado Candidatura": "Con Fecha de Examen",
 "Orden": 70,
 "URLs": [
 {
@@ -998,6 +998,28 @@
 "url": "https://www.metromadrid.es",
 "Nombre Enlace": "Convocatoria",
 "Nota": "SUBGRUPO A2, 1 PLAZA,piden experiencia en VOIP",
+"LineasIgnorar": "",
+"Comandos": ""
+},
+{
+"url": "",
+"Nombre Enlace": "",
+"Nota": "",
+"LineasIgnorar": "",
+"Comandos": ""
+}
+]
+},
+{
+"Nombre": "administracion.gob.es",
+"Fecha": "05/04/2025",
+"Estado Candidatura": "Buscadores",
+"Orden": 110,
+"URLs": [
+{
+"url": "https://administracion.gob.es/pagFront/empleoBecas/empleo/buscadorEmpleo.htm",
+"Nombre Enlace": "Convocatoria",
+"Nota": "",
 "LineasIgnorar": "",
 "Comandos": ""
 },
