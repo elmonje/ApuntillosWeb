@@ -95,14 +95,14 @@
 {
 "url": "https://convocapub.ayto-fuenlabrada.es/ofertaEmpleoPublicoCategoriaPublico/listPublicacionesConCategoria?categoria.id=332",
 "Nombre Enlace": "Fuenlabrada Tecnico Medio",
-"Nota": "",
+"Nota": "En 6º Posicion",
 "LineasIgnorar": "",
 "Comandos": ""
 },
 {
 "url": "https://convocapub.ayto-fuenlabrada.es/documentoPublico/download/3448",
 "Nombre Enlace": "Bolsa",
-"Nota": "6º Posicion",
+"Nota": "",
 "LineasIgnorar": "",
 "Comandos": ""
 }
@@ -490,8 +490,8 @@
 "URLs": [
 {
 "url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
-"Nombre Enlace": "BuscarConvocatoria - 4º Posicion",
-"Nota": "SUBGRUPO A1, 1 PLAZA",
+"Nombre Enlace": "BuscarConvocatoria",
+"Nota": "En 4º Posicion -SUBGRUPO A1, 1 PLAZA",
 "LineasIgnorar": "",
 "Comandos": ""
 },
@@ -1057,7 +1057,7 @@
 {
 "Nombre": "PLANIFICA MADRID - Técnico Especialista I (Grupo III, Nivel 6, Área A), Especialidad Sistemas y Tecnologías de la información",
 "Fecha": "04/12/2025",
-"Estado Candidatura": "Apuntado",
+"Estado Candidatura": "En lista de admitidos",
 "Orden": 120,
 "URLs": [
 {
