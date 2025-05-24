@@ -23,7 +23,7 @@
 {
 "Nombre": "Ayuntamiento San Martin de la Vega",
 "Fecha": "2024",
-"Estado Candidatura": "Lista de Interinos",
+"Estado Candidatura": "Proceso Terminado",
 "Orden": 2,
 "URLs": [
 {
@@ -485,12 +485,12 @@
 {
 "Nombre": "ALCORCON - TÉCNICO/A DE SEGURIDAD INFORMÁTICA",
 "Fecha": "30/10/2024",
-"Estado Candidatura": "Proceso Terminado",
+"Estado Candidatura": "Lista de Interinos",
 "Orden": 26,
 "URLs": [
 {
 "url": "https://www.ayto-alcorcon.es/es/servicios/empleo-publico#procesos-de-turno-libre",
-"Nombre Enlace": "BuscarConvocatoria",
+"Nombre Enlace": "BuscarConvocatoria - 4º Posicion",
 "Nota": "SUBGRUPO A1, 1 PLAZA",
 "LineasIgnorar": "",
 "Comandos": ""
@@ -681,7 +681,7 @@
 ]
 },
 {
-"Nombre": "GETAFE - Técnico/a informático",
+"Nombre": "GETAFE - Técnico/a informático ",
 "Fecha": "21/11/2024",
 "Estado Candidatura": "Lista de Interinos",
 "Orden": 41,
@@ -689,7 +689,7 @@
 {
 "url": "https://sede.getafe.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=PTS2_EMPLEO_EMPLEO",
 "Nombre Enlace": "Buscador Convocatorias",
-"Nota": "SUBGRUPO C1, 3 PLAZAS, Buscar: 2 funcionario carrera y 1 personal laboral fijo",
+"Nota": "En 1º Posicion - SUBGRUPO C1, 3 PLAZAS, Buscar: 2 funcionario carrera y 1 personal laboral fijo",
 "LineasIgnorar": "481",
 "Comandos": ""
 },
